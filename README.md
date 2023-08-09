@@ -5,4 +5,4 @@ We gathered historic data from the league table using [Understat](https://unders
 
 To include form into our method we repeated the above process but only kept the last 1 month of the league table thus computing a prediction of form. We then use a voting system to vote between the season long prediction and the form prediction. We then test our model by cross validation, training from all seasons but one, and testing it on the hidden season. After the hyperparameter optimization it is concluded that betting on "Under" can provide profit. The cross validation of the method is provided in the 'PoissonPerSeason_CrossValidation.ipynb' file.
 
-To run the algorithm for the upcoming games we scrape the betting website Stoiximan, to gather the upcoming matches and the provided odds.
+To run the algorithm for the upcoming games we scrape the betting website Stoiximan, to gather the upcoming matches and the provided odds. This is done via the 'StoiximanScraping.ipynb' file. In that file there are also run all the scripts needed to run the predictor updated for the upcoming matches.
