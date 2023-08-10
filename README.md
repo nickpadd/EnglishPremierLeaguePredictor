@@ -34,4 +34,6 @@ In that exact case our prediction was succesfull and indeed better than that of 
 
 ![Result of predicted match Odds](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExampleResult.png?raw=true)
 
+## 2023-2024 Season Evaluation
+With the start of the 2023-2024 season a more precise evaluation will be updated with each round, starting from the 4th round of the league.
 
