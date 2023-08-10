@@ -11,3 +11,8 @@ To include form into our method we repeated the above process but only kept the 
 To run the algorithm for the upcoming games we scrape the betting website Stoiximan, to gather the upcoming matches and the provided odds. This is done via the 'StoiximanScraping.ipynb' file. In that file there are also run all the scripts needed to run the predictor updated for the upcoming matches.
 
 ![Example of predicted match Odds](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExamplePlot.png?raw=true)
+
+The result of the above prediction was indeed correct as we can see below:
+
+![Result](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Screenshot from 2023-08-10 15-20-42.png.png?raw=true)
+
