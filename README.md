@@ -14,5 +14,5 @@ To run the algorithm for the upcoming games we scrape the betting website Stoixi
 
 The result of the above prediction was indeed correct as we can see below:
 
-![Example Result](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExampleResult.png.png?raw=true)
+!(https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExampleResult.png.png?raw=true)
 
