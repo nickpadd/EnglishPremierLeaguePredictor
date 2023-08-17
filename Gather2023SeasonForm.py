@@ -117,7 +117,7 @@ async def main():
             print(TELIKO)
 
 
-            TELIKO.to_csv('GatheredData/Epl20xxMonthlyFiles/2023SeasonMonthly.csv')
+            TELIKO.to_csv('GatheredData/Epl20xxMonthlyFiles/Epl2023Monthly.csv')
 
                 
                 

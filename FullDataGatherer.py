@@ -38,7 +38,7 @@ async def main():
                     
                 try:
                     df = df[['Date', 'HomeTeam', 'AwayTeam', 'Result', 'B365H', 'B365D', 'B365A', 'B365>2.5', 'B365<2.5']]
-                    df = df.rename(columns={'B365>2.5': 'BbAv>2.5', 'B365<2.5': 'BbAv<2.5'})
+                    df = df.rename(columns={'B365C>2.5': 'BbAv>2.5', 'B365C<2.5': 'BbAv<2.5'})
                 except KeyError:
                     df = df[['Date', 'HomeTeam', 'AwayTeam', 'Result', 'B365H', 'B365D', 'B365A', 'BbAv>2.5', 'BbAv<2.5']]
                 
@@ -70,7 +70,7 @@ async def main():
                     UniqDates[i] = str(UniqDates[i])
                     print(UniqDates[i])
 
-                    table = await understat.get_league_table("epl", file, end_date=UniqDates[i], start_date=start)
+                    table = await understat.get_league_table("epl", file, end_date=UniqDates[i], start_date= start)
                     Table = pd.DataFrame(table)
                     Table.columns = Table.iloc[0]
                     Table = Table.iloc[1: , :]

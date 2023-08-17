@@ -37,7 +37,7 @@ async def main():
                 UniqDates[i] = datetime.datetime.strptime(UniqDates[i], '%d/%m/%Y').date()
                 UniqDates[i] = UniqDates[i] - datetime.timedelta(days=1)
                 
-                table = await understat.get_league_table("EPL", "2022")
+                table = await understat.get_league_table("EPL", "2023")
                 Table = pd.DataFrame(table)
                 Table.columns = Table.iloc[0]
                 Table = Table.iloc[1: , :]

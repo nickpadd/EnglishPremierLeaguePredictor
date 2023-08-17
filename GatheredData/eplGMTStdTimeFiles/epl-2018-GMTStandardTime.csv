@@ -1,0 +1,381 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+6,1,10/08/2018 20:00,Old Trafford,Manchester United,Leicester,2 - 1
+7,1,11/08/2018 12:30,St. James' Park,Newcastle United,Tottenham,1 - 2
+2,1,11/08/2018 15:00,Vitality Stadium,Bournemouth,Cardiff,2 - 0
+3,1,11/08/2018 15:00,Craven Cottage,Fulham,Crystal Palace,0 - 2
+4,1,11/08/2018 15:00,John Smith's Stadium,Huddersfield,Chelsea,0 - 3
+9,1,11/08/2018 15:00,Vicarage Road,Watford,Brighton,2 - 0
+10,1,11/08/2018 17:30,Molineux Stadium,Wolverhampton Wanderers,Everton,2 - 2
+5,1,12/08/2018 13:30,Anfield,Liverpool,West Ham,4 - 0
+8,1,12/08/2018 13:30,St. Mary's Stadium,Southampton,Burnley,0 - 0
+1,1,12/08/2018 16:00,Emirates Stadium,Arsenal,Manchester City,0 - 2
+13,2,18/08/2018 12:30,Cardiff City Stadium,Cardiff,Newcastle United,0 - 0
+16,2,18/08/2018 15:00,Goodison Park,Everton,Southampton,2 - 1
+17,2,18/08/2018 15:00,King Power Stadium,Leicester,Wolverhampton Wanderers,2 - 0
+19,2,18/08/2018 15:00,Wembley Stadium,Tottenham,Fulham,3 - 1
+20,2,18/08/2018 15:00,London Stadium,West Ham,Bournemouth,1 - 2
+14,2,18/08/2018 17:30,Stamford Bridge,Chelsea,Arsenal,3 - 2
+12,2,19/08/2018 13:30,Turf Moor,Burnley,Watford,1 - 3
+18,2,19/08/2018 13:30,Etihad Stadium,Manchester City,Huddersfield,6 - 1
+11,2,19/08/2018 16:00,Amex Stadium,Brighton,Manchester United,3 - 2
+15,2,20/08/2018 20:00,Selhurst Park,Crystal Palace,Liverpool,0 - 2
+30,3,25/08/2018 12:30,Molineux Stadium,Wolverhampton Wanderers,Manchester City,1 - 1
+21,3,25/08/2018 15:00,Emirates Stadium,Arsenal,West Ham,3 - 1
+22,3,25/08/2018 15:00,Vitality Stadium,Bournemouth,Everton,2 - 2
+24,3,25/08/2018 15:00,John Smith's Stadium,Huddersfield,Cardiff,0 - 0
+28,3,25/08/2018 15:00,St. Mary's Stadium,Southampton,Leicester,1 - 2
+25,3,25/08/2018 17:30,Anfield,Liverpool,Brighton,1 - 0
+29,3,26/08/2018 13:30,Vicarage Road,Watford,Crystal Palace,2 - 1
+23,3,26/08/2018 16:00,Craven Cottage,Fulham,Burnley,4 - 2
+27,3,26/08/2018 16:00,St. James' Park,Newcastle United,Chelsea,1 - 2
+26,3,27/08/2018 20:00,Old Trafford,Manchester United,Tottenham,0 - 3
+37,4,01/09/2018 12:30,King Power Stadium,Leicester,Liverpool,1 - 2
+31,4,01/09/2018 15:00,Amex Stadium,Brighton,Fulham,2 - 2
+34,4,01/09/2018 15:00,Stamford Bridge,Chelsea,Bournemouth,2 - 0
+35,4,01/09/2018 15:00,Selhurst Park,Crystal Palace,Southampton,0 - 2
+36,4,01/09/2018 15:00,Goodison Park,Everton,Huddersfield,1 - 1
+40,4,01/09/2018 15:00,London Stadium,West Ham,Wolverhampton Wanderers,0 - 1
+38,4,01/09/2018 17:30,Etihad Stadium,Manchester City,Newcastle United,2 - 1
+33,4,02/09/2018 13:30,Cardiff City Stadium,Cardiff,Arsenal,2 - 3
+32,4,02/09/2018 16:00,Turf Moor,Burnley,Manchester United,0 - 2
+39,4,02/09/2018 16:00,Vicarage Road,Watford,Tottenham,2 - 1
+48,5,15/09/2018 12:30,Wembley Stadium,Tottenham,Liverpool,1 - 2
+41,5,15/09/2018 15:00,Vitality Stadium,Bournemouth,Leicester,4 - 2
+42,5,15/09/2018 15:00,Stamford Bridge,Chelsea,Cardiff,4 - 1
+44,5,15/09/2018 15:00,John Smith's Stadium,Huddersfield,Crystal Palace,0 - 1
+45,5,15/09/2018 15:00,Etihad Stadium,Manchester City,Fulham,3 - 0
+46,5,15/09/2018 15:00,St. James' Park,Newcastle United,Arsenal,1 - 2
+49,5,15/09/2018 17:30,Vicarage Road,Watford,Manchester United,1 - 2
+50,5,16/09/2018 13:30,Molineux Stadium,Wolverhampton Wanderers,Burnley,1 - 0
+43,5,16/09/2018 16:00,Goodison Park,Everton,West Ham,1 - 3
+47,5,17/09/2018 20:00,St. Mary's Stadium,Southampton,Brighton,2 - 2
+56,6,22/09/2018 12:30,Craven Cottage,Fulham,Watford,1 - 1
+53,6,22/09/2018 15:00,Turf Moor,Burnley,Bournemouth,4 - 0
+54,6,22/09/2018 15:00,Cardiff City Stadium,Cardiff,Manchester City,0 - 5
+55,6,22/09/2018 15:00,Selhurst Park,Crystal Palace,Newcastle United,0 - 0
+57,6,22/09/2018 15:00,King Power Stadium,Leicester,Huddersfield,3 - 1
+58,6,22/09/2018 15:00,Anfield,Liverpool,Southampton,3 - 0
+59,6,22/09/2018 15:00,Old Trafford,Manchester United,Wolverhampton Wanderers,1 - 1
+52,6,22/09/2018 17:30,Amex Stadium,Brighton,Tottenham,1 - 2
+60,6,23/09/2018 13:30,London Stadium,West Ham,Chelsea,0 - 0
+51,6,23/09/2018 16:00,Emirates Stadium,Arsenal,Everton,2 - 0
+69,7,29/09/2018 12:30,London Stadium,West Ham,Manchester United,3 - 1
+61,7,29/09/2018 15:00,Emirates Stadium,Arsenal,Watford,2 - 0
+65,7,29/09/2018 15:00,Goodison Park,Everton,Fulham,3 - 0
+66,7,29/09/2018 15:00,John Smith's Stadium,Huddersfield,Tottenham,0 - 2
+67,7,29/09/2018 15:00,Etihad Stadium,Manchester City,Brighton,2 - 0
+68,7,29/09/2018 15:00,St. James' Park,Newcastle United,Leicester,0 - 2
+70,7,29/09/2018 15:00,Molineux Stadium,Wolverhampton Wanderers,Southampton,2 - 0
+64,7,29/09/2018 17:30,Stamford Bridge,Chelsea,Liverpool,1 - 1
+63,7,30/09/2018 16:00,Cardiff City Stadium,Cardiff,Burnley,1 - 2
+62,7,01/10/2018 20:00,Vitality Stadium,Bournemouth,Crystal Palace,2 - 1
+71,8,05/10/2018 20:00,Amex Stadium,Brighton,West Ham,1 - 0
+72,8,06/10/2018 15:00,Turf Moor,Burnley,Huddersfield,1 - 1
+73,8,06/10/2018 15:00,Selhurst Park,Crystal Palace,Wolverhampton Wanderers,0 - 1
+75,8,06/10/2018 15:00,King Power Stadium,Leicester,Everton,1 - 2
+79,8,06/10/2018 15:00,Wembley Stadium,Tottenham,Cardiff,1 - 0
+80,8,06/10/2018 15:00,Vicarage Road,Watford,Bournemouth,0 - 4
+77,8,06/10/2018 17:30,Old Trafford,Manchester United,Newcastle United,3 - 2
+74,8,07/10/2018 12:00,Craven Cottage,Fulham,Arsenal,1 - 5
+78,8,07/10/2018 14:15,St. Mary's Stadium,Southampton,Chelsea,0 - 3
+76,8,07/10/2018 16:30,Anfield,Liverpool,Manchester City,0 - 0
+84,9,20/10/2018 12:30,Stamford Bridge,Chelsea,Manchester United,2 - 2
+82,9,20/10/2018 15:00,Vitality Stadium,Bournemouth,Southampton,0 - 0
+83,9,20/10/2018 15:00,Cardiff City Stadium,Cardiff,Fulham,4 - 2
+87,9,20/10/2018 15:00,Etihad Stadium,Manchester City,Burnley,5 - 0
+88,9,20/10/2018 15:00,St. James' Park,Newcastle United,Brighton,0 - 1
+89,9,20/10/2018 15:00,London Stadium,West Ham,Tottenham,0 - 1
+90,9,20/10/2018 15:00,Molineux Stadium,Wolverhampton Wanderers,Watford,0 - 2
+86,9,20/10/2018 17:30,John Smith's Stadium,Huddersfield,Liverpool,0 - 1
+85,9,21/10/2018 16:00,Goodison Park,Everton,Crystal Palace,2 - 0
+81,9,22/10/2018 20:00,Emirates Stadium,Arsenal,Leicester,3 - 1
+91,10,27/10/2018 15:00,Amex Stadium,Brighton,Wolverhampton Wanderers,1 - 0
+94,10,27/10/2018 15:00,Craven Cottage,Fulham,Bournemouth,0 - 3
+96,10,27/10/2018 15:00,Anfield,Liverpool,Cardiff,4 - 1
+98,10,27/10/2018 15:00,St. Mary's Stadium,Southampton,Newcastle United,0 - 0
+100,10,27/10/2018 15:00,Vicarage Road,Watford,Huddersfield,3 - 0
+95,10,27/10/2018 17:30,King Power Stadium,Leicester,West Ham,1 - 1
+92,10,28/10/2018 13:30,Turf Moor,Burnley,Chelsea,0 - 4
+93,10,28/10/2018 13:30,Selhurst Park,Crystal Palace,Arsenal,2 - 2
+97,10,28/10/2018 16:00,Old Trafford,Manchester United,Everton,2 - 1
+99,10,29/10/2018 20:00,Wembley Stadium,Tottenham,Manchester City,0 - 1
+102,11,03/11/2018 12:30,Vitality Stadium,Bournemouth,Manchester United,1 - 2
+103,11,03/11/2018 15:00,Cardiff City Stadium,Cardiff,Leicester,0 - 1
+105,11,03/11/2018 15:00,Goodison Park,Everton,Brighton,3 - 1
+108,11,03/11/2018 15:00,St. James' Park,Newcastle United,Watford,1 - 0
+109,11,03/11/2018 15:00,London Stadium,West Ham,Burnley,4 - 2
+101,11,03/11/2018 17:30,Emirates Stadium,Arsenal,Liverpool,1 - 1
+110,11,03/11/2018 19:45,Molineux Stadium,Wolverhampton Wanderers,Tottenham,2 - 3
+107,11,04/11/2018 15:00,Etihad Stadium,Manchester City,Southampton,6 - 1
+104,11,04/11/2018 16:00,Stamford Bridge,Chelsea,Crystal Palace,3 - 1
+106,11,05/11/2018 20:00,John Smith's Stadium,Huddersfield,Fulham,1 - 0
+112,12,10/11/2018 12:30,Cardiff City Stadium,Cardiff,Brighton,2 - 1
+115,12,10/11/2018 15:00,John Smith's Stadium,Huddersfield,West Ham,1 - 1
+116,12,10/11/2018 15:00,King Power Stadium,Leicester,Burnley,0 - 0
+119,12,10/11/2018 15:00,St. James' Park,Newcastle United,Bournemouth,2 - 1
+120,12,10/11/2018 15:00,St. Mary's Stadium,Southampton,Watford,1 - 1
+114,12,10/11/2018 17:30,Selhurst Park,Crystal Palace,Tottenham,0 - 1
+117,12,11/11/2018 12:00,Anfield,Liverpool,Fulham,2 - 0
+113,12,11/11/2018 14:15,Stamford Bridge,Chelsea,Everton,0 - 0
+111,12,11/11/2018 16:30,Emirates Stadium,Arsenal,Wolverhampton Wanderers,1 - 1
+118,12,11/11/2018 16:30,Etihad Stadium,Manchester City,Manchester United,3 - 1
+122,13,24/11/2018 15:00,Amex Stadium,Brighton,Leicester,1 - 1
+124,13,24/11/2018 15:00,Goodison Park,Everton,Cardiff,1 - 0
+125,13,24/11/2018 15:00,Craven Cottage,Fulham,Southampton,3 - 2
+126,13,24/11/2018 15:00,Old Trafford,Manchester United,Crystal Palace,0 - 0
+128,13,24/11/2018 15:00,Vicarage Road,Watford,Liverpool,0 - 3
+129,13,24/11/2018 15:00,London Stadium,West Ham,Manchester City,0 - 4
+127,13,24/11/2018 17:30,Tottenham Hotspur Stadium,Tottenham,Chelsea,3 - 1
+121,13,25/11/2018 13:30,Vitality Stadium,Bournemouth,Arsenal,1 - 2
+130,13,25/11/2018 16:00,Molineux Stadium,Wolverhampton Wanderers,Huddersfield,0 - 2
+123,13,26/11/2018 20:30,Turf Moor,Burnley,Newcastle United,1 - 2
+132,14,30/11/2018 20:00,Cardiff City Stadium,Cardiff,Wolverhampton Wanderers,2 - 1
+134,14,01/12/2018 15:00,Selhurst Park,Crystal Palace,Burnley,2 - 0
+135,14,01/12/2018 15:00,John Smith's Stadium,Huddersfield,Brighton,1 - 2
+136,14,01/12/2018 15:00,King Power Stadium,Leicester,Watford,2 - 0
+138,14,01/12/2018 15:00,Etihad Stadium,Manchester City,Bournemouth,3 - 1
+139,14,01/12/2018 15:00,St. James' Park,Newcastle United,West Ham,0 - 3
+140,14,01/12/2018 17:30,St. Mary's Stadium,Southampton,Manchester United,2 - 2
+133,14,02/12/2018 12:00,Stamford Bridge,Chelsea,Fulham,2 - 0
+131,14,02/12/2018 14:05,Emirates Stadium,Arsenal,Tottenham,4 - 2
+137,14,02/12/2018 16:15,Anfield,Liverpool,Everton,1 - 0
+141,15,04/12/2018 19:45,Vitality Stadium,Bournemouth,Huddersfield,2 - 1
+142,15,04/12/2018 19:45,Amex Stadium,Brighton,Crystal Palace,3 - 1
+146,15,04/12/2018 19:45,London Stadium,West Ham,Cardiff,3 - 1
+145,15,04/12/2018 20:00,Vicarage Road,Watford,Manchester City,1 - 2
+143,15,05/12/2018 19:45,Turf Moor,Burnley,Liverpool,1 - 3
+144,15,05/12/2018 19:45,Craven Cottage,Fulham,Leicester,1 - 1
+147,15,05/12/2018 19:45,Molineux Stadium,Wolverhampton Wanderers,Chelsea,2 - 1
+149,15,05/12/2018 19:45,Goodison Park,Everton,Newcastle United,1 - 1
+148,15,05/12/2018 20:00,Old Trafford,Manchester United,Arsenal,2 - 2
+150,15,05/12/2018 20:00,Tottenham Hotspur Stadium,Tottenham,Southampton,3 - 1
+152,16,08/12/2018 12:30,Vitality Stadium,Bournemouth,Liverpool,0 - 4
+151,16,08/12/2018 15:00,Emirates Stadium,Arsenal,Huddersfield,1 - 0
+153,16,08/12/2018 15:00,Turf Moor,Burnley,Brighton,1 - 0
+154,16,08/12/2018 15:00,Cardiff City Stadium,Cardiff,Southampton,1 - 0
+158,16,08/12/2018 15:00,Old Trafford,Manchester United,Fulham,4 - 1
+160,16,08/12/2018 15:00,London Stadium,West Ham,Crystal Palace,3 - 2
+155,16,08/12/2018 17:30,Stamford Bridge,Chelsea,Manchester City,2 - 0
+157,16,08/12/2018 19:45,King Power Stadium,Leicester,Tottenham,0 - 2
+159,16,09/12/2018 16:00,St. James' Park,Newcastle United,Wolverhampton Wanderers,1 - 2
+156,16,10/12/2018 20:00,Goodison Park,Everton,Watford,2 - 2
+166,17,15/12/2018 12:30,Etihad Stadium,Manchester City,Everton,3 - 1
+162,17,15/12/2018 15:00,Selhurst Park,Crystal Palace,Leicester,1 - 0
+164,17,15/12/2018 15:00,John Smith's Stadium,Huddersfield,Newcastle United,0 - 1
+168,17,15/12/2018 15:00,Tottenham Hotspur Stadium,Tottenham,Burnley,1 - 0
+169,17,15/12/2018 15:00,Vicarage Road,Watford,Cardiff,3 - 2
+170,17,15/12/2018 15:00,Molineux Stadium,Wolverhampton Wanderers,Bournemouth,2 - 0
+163,17,15/12/2018 17:30,Craven Cottage,Fulham,West Ham,0 - 2
+161,17,16/12/2018 13:30,Amex Stadium,Brighton,Chelsea,1 - 2
+167,17,16/12/2018 13:30,St. Mary's Stadium,Southampton,Arsenal,3 - 2
+165,17,16/12/2018 16:00,Anfield,Liverpool,Manchester United,3 - 1
+180,18,21/12/2018 20:00,Molineux Stadium,Wolverhampton Wanderers,Liverpool,0 - 2
+171,18,22/12/2018 12:30,Emirates Stadium,Arsenal,Burnley,3 - 1
+172,18,22/12/2018 15:00,Vitality Stadium,Bournemouth,Brighton,2 - 0
+174,18,22/12/2018 15:00,Stamford Bridge,Chelsea,Leicester,0 - 1
+176,18,22/12/2018 15:00,John Smith's Stadium,Huddersfield,Southampton,1 - 3
+177,18,22/12/2018 15:00,Etihad Stadium,Manchester City,Crystal Palace,2 - 3
+178,18,22/12/2018 15:00,St. James' Park,Newcastle United,Fulham,0 - 0
+179,18,22/12/2018 15:00,London Stadium,West Ham,Watford,0 - 2
+173,18,22/12/2018 17:30,Cardiff City Stadium,Cardiff,Manchester United,1 - 5
+175,18,23/12/2018 16:00,Goodison Park,Everton,Tottenham,2 - 6
+184,19,26/12/2018 12:30,Craven Cottage,Fulham,Wolverhampton Wanderers,1 - 1
+182,19,26/12/2018 15:00,Turf Moor,Burnley,Everton,1 - 5
+183,19,26/12/2018 15:00,Selhurst Park,Crystal Palace,Cardiff,0 - 0
+185,19,26/12/2018 15:00,King Power Stadium,Leicester,Manchester City,2 - 1
+186,19,26/12/2018 15:00,Anfield,Liverpool,Newcastle United,4 - 0
+187,19,26/12/2018 15:00,Old Trafford,Manchester United,Huddersfield,3 - 1
+189,19,26/12/2018 15:00,Tottenham Hotspur Stadium,Tottenham,Bournemouth,5 - 0
+181,19,26/12/2018 17:15,Amex Stadium,Brighton,Arsenal,1 - 1
+190,19,26/12/2018 19:30,Vicarage Road,Watford,Chelsea,1 - 2
+188,19,27/12/2018 19:45,St. Mary's Stadium,Southampton,West Ham,1 - 2
+191,20,29/12/2018 15:00,Amex Stadium,Brighton,Everton,1 - 0
+194,20,29/12/2018 15:00,Craven Cottage,Fulham,Huddersfield,1 - 0
+195,20,29/12/2018 15:00,King Power Stadium,Leicester,Cardiff,0 - 1
+199,20,29/12/2018 15:00,Tottenham Hotspur Stadium,Tottenham,Wolverhampton Wanderers,1 - 3
+200,20,29/12/2018 15:00,Vicarage Road,Watford,Newcastle United,1 - 1
+196,20,29/12/2018 17:30,Anfield,Liverpool,Arsenal,5 - 1
+193,20,30/12/2018 12:00,Selhurst Park,Crystal Palace,Chelsea,0 - 1
+192,20,30/12/2018 14:15,Turf Moor,Burnley,West Ham,2 - 0
+198,20,30/12/2018 14:15,St. Mary's Stadium,Southampton,Manchester City,1 - 3
+197,20,30/12/2018 16:30,Old Trafford,Manchester United,Bournemouth,4 - 1
+205,21,01/01/2019 12:30,Goodison Park,Everton,Leicester,0 - 1
+201,21,01/01/2019 15:00,Emirates Stadium,Arsenal,Fulham,4 - 1
+203,21,01/01/2019 17:30,Cardiff City Stadium,Cardiff,Tottenham,0 - 3
+202,21,02/01/2019 19:45,Vitality Stadium,Bournemouth,Watford,3 - 3
+204,21,02/01/2019 19:45,Stamford Bridge,Chelsea,Southampton,0 - 0
+206,21,02/01/2019 19:45,John Smith's Stadium,Huddersfield,Burnley,1 - 2
+209,21,02/01/2019 19:45,London Stadium,West Ham,Brighton,2 - 2
+210,21,02/01/2019 19:45,Molineux Stadium,Wolverhampton Wanderers,Crystal Palace,0 - 2
+208,21,02/01/2019 20:00,St. James' Park,Newcastle United,Manchester United,0 - 2
+207,21,03/01/2019 20:00,Etihad Stadium,Manchester City,Liverpool,2 - 1
+220,22,12/01/2019 12:30,London Stadium,West Ham,Arsenal,1 - 0
+211,22,12/01/2019 15:00,Amex Stadium,Brighton,Liverpool,0 - 1
+212,22,12/01/2019 15:00,Turf Moor,Burnley,Fulham,2 - 1
+213,22,12/01/2019 15:00,Cardiff City Stadium,Cardiff,Huddersfield,0 - 0
+215,22,12/01/2019 15:00,Selhurst Park,Crystal Palace,Watford,1 - 2
+217,22,12/01/2019 15:00,King Power Stadium,Leicester,Southampton,1 - 2
+214,22,12/01/2019 17:30,Stamford Bridge,Chelsea,Newcastle United,2 - 1
+216,22,13/01/2019 14:15,Goodison Park,Everton,Bournemouth,2 - 0
+219,22,13/01/2019 16:03,Tottenham Hotspur Stadium,Tottenham,Manchester United,0 - 1
+218,22,14/01/2019 20:00,Etihad Stadium,Manchester City,Wolverhampton Wanderers,3 - 0
+230,23,19/01/2019 12:30,Molineux Stadium,Wolverhampton Wanderers,Leicester,4 - 3
+222,23,19/01/2019 15:00,Vitality Stadium,Bournemouth,West Ham,2 - 0
+225,23,19/01/2019 15:00,Anfield,Liverpool,Crystal Palace,4 - 3
+226,23,19/01/2019 15:00,Old Trafford,Manchester United,Brighton,2 - 1
+227,23,19/01/2019 15:00,St. James' Park,Newcastle United,Cardiff,3 - 0
+228,23,19/01/2019 15:00,St. Mary's Stadium,Southampton,Everton,2 - 1
+229,23,19/01/2019 15:00,Vicarage Road,Watford,Burnley,0 - 0
+221,23,19/01/2019 17:30,Emirates Stadium,Arsenal,Chelsea,2 - 0
+224,23,20/01/2019 13:30,John Smith's Stadium,Huddersfield,Manchester City,0 - 3
+223,23,20/01/2019 16:00,Craven Cottage,Fulham,Tottenham,1 - 2
+231,24,29/01/2019 19:45,Emirates Stadium,Arsenal,Cardiff,2 - 1
+233,24,29/01/2019 19:45,Craven Cottage,Fulham,Brighton,4 - 2
+234,24,29/01/2019 19:45,John Smith's Stadium,Huddersfield,Everton,0 - 1
+235,24,29/01/2019 19:45,Molineux Stadium,Wolverhampton Wanderers,West Ham,3 - 0
+236,24,29/01/2019 20:00,Old Trafford,Manchester United,Burnley,2 - 2
+237,24,29/01/2019 20:00,St. James' Park,Newcastle United,Manchester City,2 - 1
+232,24,30/01/2019 19:45,Vitality Stadium,Bournemouth,Chelsea,4 - 0
+238,24,30/01/2019 19:45,St. Mary's Stadium,Southampton,Crystal Palace,1 - 1
+239,24,30/01/2019 20:00,Anfield,Liverpool,Leicester,1 - 1
+240,24,30/01/2019 20:00,Tottenham Hotspur Stadium,Tottenham,Watford,2 - 1
+249,25,02/02/2019 12:30,Tottenham Hotspur Stadium,Tottenham,Newcastle United,1 - 0
+241,25,02/02/2019 15:00,Amex Stadium,Brighton,Watford,0 - 0
+242,25,02/02/2019 15:00,Turf Moor,Burnley,Southampton,1 - 1
+244,25,02/02/2019 15:00,Stamford Bridge,Chelsea,Huddersfield,5 - 0
+245,25,02/02/2019 15:00,Selhurst Park,Crystal Palace,Fulham,2 - 0
+246,25,02/02/2019 15:00,Goodison Park,Everton,Wolverhampton Wanderers,1 - 3
+243,25,02/02/2019 17:30,Cardiff City Stadium,Cardiff,Bournemouth,2 - 0
+247,25,03/02/2019 14:05,King Power Stadium,Leicester,Manchester United,0 - 1
+248,25,03/02/2019 16:30,Etihad Stadium,Manchester City,Arsenal,3 - 1
+250,25,04/02/2019 20:00,London Stadium,West Ham,Liverpool,1 - 1
+266,26,06/02/2019 19:45,Goodison Park,Everton,Manchester City,0 - 2
+253,26,09/02/2019 12:30,Craven Cottage,Fulham,Manchester United,0 - 3
+252,26,09/02/2019 15:00,Selhurst Park,Crystal Palace,West Ham,1 - 1
+254,26,09/02/2019 15:00,John Smith's Stadium,Huddersfield,Arsenal,1 - 2
+255,26,09/02/2019 15:00,Anfield,Liverpool,Bournemouth,3 - 0
+257,26,09/02/2019 15:00,St. Mary's Stadium,Southampton,Cardiff,1 - 2
+259,26,09/02/2019 15:00,Vicarage Road,Watford,Everton,1 - 0
+251,26,09/02/2019 17:30,Amex Stadium,Brighton,Burnley,1 - 3
+258,26,10/02/2019 13:30,Tottenham Hotspur Stadium,Tottenham,Leicester,3 - 1
+256,26,10/02/2019 16:00,Etihad Stadium,Manchester City,Chelsea,6 - 0
+260,26,11/02/2019 20:00,Molineux Stadium,Wolverhampton Wanderers,Newcastle United,1 - 1
+264,27,22/02/2019 19:45,Cardiff City Stadium,Cardiff,Watford,1 - 5
+270,27,22/02/2019 19:45,London Stadium,West Ham,Fulham,3 - 1
+263,27,23/02/2019 12:30,Turf Moor,Burnley,Tottenham,2 - 1
+262,27,23/02/2019 15:00,Vitality Stadium,Bournemouth,Wolverhampton Wanderers,1 - 1
+269,27,23/02/2019 15:00,St. James' Park,Newcastle United,Huddersfield,2 - 0
+267,27,23/02/2019 17:30,King Power Stadium,Leicester,Crystal Palace,1 - 4
+261,27,24/02/2019 14:05,Emirates Stadium,Arsenal,Southampton,2 - 0
+268,27,24/02/2019 14:05,Old Trafford,Manchester United,Liverpool,0 - 0
+272,28,26/02/2019 19:45,Cardiff City Stadium,Cardiff,Everton,0 - 3
+273,28,26/02/2019 19:45,John Smith's Stadium,Huddersfield,Wolverhampton Wanderers,1 - 0
+274,28,26/02/2019 19:45,King Power Stadium,Leicester,Brighton,2 - 1
+277,28,26/02/2019 20:00,St. James' Park,Newcastle United,Burnley,2 - 0
+271,28,27/02/2019 19:45,Emirates Stadium,Arsenal,Bournemouth,5 - 1
+278,28,27/02/2019 19:45,St. Mary's Stadium,Southampton,Fulham,2 - 0
+275,28,27/02/2019 20:00,Selhurst Park,Crystal Palace,Manchester United,1 - 3
+276,28,27/02/2019 20:00,Stamford Bridge,Chelsea,Tottenham,2 - 0
+279,28,27/02/2019 20:00,Anfield,Liverpool,Watford,5 - 0
+280,28,27/02/2019 20:00,Etihad Stadium,Manchester City,West Ham,1 - 0
+287,29,02/03/2019 12:30,Tottenham Hotspur Stadium,Tottenham,Arsenal,1 - 1
+281,29,02/03/2019 15:00,Vitality Stadium,Bournemouth,Manchester City,0 - 1
+282,29,02/03/2019 15:00,Amex Stadium,Brighton,Huddersfield,1 - 0
+283,29,02/03/2019 15:00,Turf Moor,Burnley,Crystal Palace,1 - 3
+286,29,02/03/2019 15:00,Old Trafford,Manchester United,Southampton,3 - 2
+290,29,02/03/2019 15:00,Molineux Stadium,Wolverhampton Wanderers,Cardiff,2 - 0
+289,29,02/03/2019 17:30,London Stadium,West Ham,Newcastle United,2 - 0
+288,29,03/03/2019 12:00,Vicarage Road,Watford,Leicester,2 - 1
+285,29,03/03/2019 14:05,Craven Cottage,Fulham,Chelsea,1 - 2
+284,29,03/03/2019 16:15,Goodison Park,Everton,Liverpool,0 - 0
+294,30,09/03/2019 12:30,Selhurst Park,Crystal Palace,Brighton,1 - 2
+292,30,09/03/2019 15:00,Cardiff City Stadium,Cardiff,West Ham,2 - 0
+295,30,09/03/2019 15:00,John Smith's Stadium,Huddersfield,Bournemouth,0 - 2
+296,30,09/03/2019 15:00,King Power Stadium,Leicester,Fulham,3 - 1
+299,30,09/03/2019 15:00,St. James' Park,Newcastle United,Everton,3 - 2
+300,30,09/03/2019 15:00,St. Mary's Stadium,Southampton,Tottenham,2 - 1
+298,30,09/03/2019 17:30,Etihad Stadium,Manchester City,Watford,3 - 1
+297,30,10/03/2019 12:00,Anfield,Liverpool,Burnley,4 - 2
+293,30,10/03/2019 14:05,Stamford Bridge,Chelsea,Wolverhampton Wanderers,1 - 1
+291,30,10/03/2019 16:30,Emirates Stadium,Arsenal,Manchester United,2 - 0
+301,31,16/03/2019 15:00,Vitality Stadium,Bournemouth,Newcastle United,2 - 2
+303,31,16/03/2019 15:00,Turf Moor,Burnley,Leicester,1 - 2
+309,31,16/03/2019 15:00,London Stadium,West Ham,Huddersfield,4 - 3
+305,31,17/03/2019 14:15,Craven Cottage,Fulham,Liverpool,1 - 2
+304,31,17/03/2019 16:30,Goodison Park,Everton,Chelsea,2 - 0
+316,32,30/03/2019 12:30,Craven Cottage,Fulham,Manchester City,0 - 2
+312,32,30/03/2019 15:00,Amex Stadium,Brighton,Southampton,0 - 1
+313,32,30/03/2019 15:00,Turf Moor,Burnley,Wolverhampton Wanderers,2 - 0
+315,32,30/03/2019 15:00,Selhurst Park,Crystal Palace,Huddersfield,2 - 0
+317,32,30/03/2019 15:00,King Power Stadium,Leicester,Bournemouth,2 - 0
+319,32,30/03/2019 15:00,Old Trafford,Manchester United,Watford,2 - 1
+320,32,30/03/2019 17:30,London Stadium,West Ham,Everton,0 - 2
+314,32,31/03/2019 14:05,Cardiff City Stadium,Cardiff,Chelsea,1 - 2
+318,32,31/03/2019 16:30,Anfield,Liverpool,Tottenham,2 - 1
+311,32,01/04/2019 20:00,Emirates Stadium,Arsenal,Newcastle United,2 - 0
+329,32,02/04/2019 19:45,Vicarage Road,Watford,Fulham,4 - 1
+330,32,02/04/2019 19:45,Molineux Stadium,Wolverhampton Wanderers,Manchester United,2 - 1
+265,32,03/04/2019 19:45,Stamford Bridge,Chelsea,Brighton,3 - 0
+307,32,03/04/2019 19:45,Tottenham Hotspur Stadium,Tottenham,Crystal Palace,2 - 0
+325,32,03/04/2019 19:45,Etihad Stadium,Manchester City,Cardiff,2 - 0
+327,33,05/04/2019 20:00,St. Mary's Stadium,Southampton,Liverpool,1 - 3
+321,33,06/04/2019 15:00,Vitality Stadium,Bournemouth,Burnley,1 - 3
+324,33,06/04/2019 15:00,John Smith's Stadium,Huddersfield,Leicester,1 - 4
+326,33,06/04/2019 15:00,St. James' Park,Newcastle United,Crystal Palace,0 - 1
+323,33,07/04/2019 14:05,Goodison Park,Everton,Arsenal,1 - 0
+322,33,08/04/2019 20:00,Stamford Bridge,Chelsea,West Ham,2 - 0
+335,34,12/04/2019 20:00,King Power Stadium,Leicester,Newcastle United,0 - 1
+339,34,13/04/2019 12:30,Tottenham Hotspur Stadium,Tottenham,Huddersfield,4 - 0
+331,34,13/04/2019 15:00,Amex Stadium,Brighton,Bournemouth,0 - 5
+332,34,13/04/2019 15:00,Turf Moor,Burnley,Cardiff,2 - 0
+334,34,13/04/2019 15:00,Craven Cottage,Fulham,Everton,2 - 0
+338,34,13/04/2019 15:00,St. Mary's Stadium,Southampton,Wolverhampton Wanderers,3 - 1
+337,34,13/04/2019 17:30,Old Trafford,Manchester United,West Ham,2 - 1
+333,34,14/04/2019 14:05,Selhurst Park,Crystal Palace,Manchester City,1 - 3
+336,34,14/04/2019 16:30,Anfield,Liverpool,Chelsea,2 - 0
+340,34,15/04/2019 20:00,Vicarage Road,Watford,Arsenal,0 - 1
+302,34,16/04/2019 19:45,Amex Stadium,Brighton,Cardiff,0 - 2
+347,35,20/04/2019 12:30,Etihad Stadium,Manchester City,Tottenham,1 - 0
+342,35,20/04/2019 15:00,Vitality Stadium,Bournemouth,Fulham,0 - 1
+346,35,20/04/2019 15:00,John Smith's Stadium,Huddersfield,Watford,1 - 2
+349,35,20/04/2019 15:00,London Stadium,West Ham,Leicester,2 - 2
+350,35,20/04/2019 15:00,Molineux Stadium,Wolverhampton Wanderers,Brighton,0 - 0
+348,35,20/04/2019 17:30,St. James' Park,Newcastle United,Southampton,3 - 1
+345,35,21/04/2019 13:30,Goodison Park,Everton,Manchester United,4 - 0
+341,35,21/04/2019 16:00,Emirates Stadium,Arsenal,Crystal Palace,2 - 3
+343,35,21/04/2019 16:00,Cardiff City Stadium,Cardiff,Liverpool,0 - 2
+344,35,22/04/2019 20:00,Stamford Bridge,Chelsea,Burnley,2 - 2
+308,35,23/04/2019 19:45,Vicarage Road,Watford,Southampton,1 - 1
+328,35,23/04/2019 19:45,Tottenham Hotspur Stadium,Tottenham,Brighton,1 - 0
+310,35,24/04/2019 19:45,Molineux Stadium,Wolverhampton Wanderers,Arsenal,3 - 1
+306,35,24/04/2019 20:00,Old Trafford,Manchester United,Manchester City,0 - 2
+356,36,26/04/2019 20:00,Anfield,Liverpool,Huddersfield,5 - 0
+359,36,27/04/2019 12:30,Tottenham Hotspur Stadium,Tottenham,West Ham,0 - 1
+353,36,27/04/2019 15:00,Selhurst Park,Crystal Palace,Everton,0 - 0
+354,36,27/04/2019 15:00,Craven Cottage,Fulham,Cardiff,1 - 0
+358,36,27/04/2019 15:00,St. Mary's Stadium,Southampton,Bournemouth,3 - 3
+360,36,27/04/2019 15:00,Vicarage Road,Watford,Wolverhampton Wanderers,1 - 2
+351,36,27/04/2019 17:30,Amex Stadium,Brighton,Newcastle United,1 - 1
+355,36,28/04/2019 12:00,King Power Stadium,Leicester,Arsenal,3 - 0
+352,36,28/04/2019 14:05,Turf Moor,Burnley,Manchester City,0 - 1
+357,36,28/04/2019 16:30,Old Trafford,Manchester United,Chelsea,1 - 1
+365,37,03/05/2019 20:00,Goodison Park,Everton,Burnley,2 - 0
+362,37,04/05/2019 12:30,Vitality Stadium,Bournemouth,Tottenham,1 - 0
+369,37,04/05/2019 15:00,London Stadium,West Ham,Southampton,3 - 0
+370,37,04/05/2019 15:00,Molineux Stadium,Wolverhampton Wanderers,Fulham,1 - 0
+363,37,04/05/2019 17:30,Cardiff City Stadium,Cardiff,Crystal Palace,2 - 3
+368,37,04/05/2019 19:45,St. James' Park,Newcastle United,Liverpool,2 - 3
+364,37,05/05/2019 14:00,Stamford Bridge,Chelsea,Watford,3 - 0
+366,37,05/05/2019 14:00,John Smith's Stadium,Huddersfield,Manchester United,1 - 1
+361,37,05/05/2019 16:30,Emirates Stadium,Arsenal,Brighton,1 - 1
+367,37,06/05/2019 20:00,Etihad Stadium,Manchester City,Leicester,1 - 0
+371,38,12/05/2019 15:00,Amex Stadium,Brighton,Manchester City,1 - 4
+372,38,12/05/2019 15:00,Turf Moor,Burnley,Arsenal,1 - 3
+373,38,12/05/2019 15:00,Selhurst Park,Crystal Palace,Bournemouth,5 - 3
+374,38,12/05/2019 15:00,Craven Cottage,Fulham,Newcastle United,0 - 4
+375,38,12/05/2019 15:00,King Power Stadium,Leicester,Chelsea,0 - 0
+376,38,12/05/2019 15:00,Anfield,Liverpool,Wolverhampton Wanderers,2 - 0
+377,38,12/05/2019 15:00,Old Trafford,Manchester United,Cardiff,0 - 2
+378,38,12/05/2019 15:00,St. Mary's Stadium,Southampton,Huddersfield,1 - 1
+379,38,12/05/2019 15:00,Tottenham Hotspur Stadium,Tottenham,Everton,2 - 2
+380,38,12/05/2019 15:00,Vicarage Road,Watford,West Ham,1 - 4
