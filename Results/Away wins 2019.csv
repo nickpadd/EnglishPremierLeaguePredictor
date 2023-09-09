@@ -1,0 +1,14 @@
+Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
+22/09/2019,Chelsea,Liverpool,"['1 ', ' 2']",3.5,3.75,2.0,1.57,2.37,17.521674067137397,8.760837033568698,Chelsea-Liverpool | 22/09/2019
+06/10/2019,Newcastle United,Manchester United,"['1 ', ' 0']",4.5,3.5,1.85,2.2,1.66,13.363758499830382,6.681879249915191,Newcastle United-Manchester United | 06/10/2019
+26/10/2019,Burnley,Chelsea,"['2 ', ' 4']",4.5,4.0,1.72,1.66,2.2,26.858930617723164,13.42946530886158,Burnley-Chelsea | 26/10/2019
+27/10/2019,Newcastle United,Wolverhampton Wanderers,"['1 ', ' 1']",3.0,3.1,2.55,2.5,1.53,-6.230884752860334,-3.115442376430167,Newcastle United-Wolverhampton Wanderers | 27/10/2019
+09/11/2019,Newcastle United,Bournemouth,"['2 ', ' 1']",2.55,3.25,2.8,2.0,1.8,-45.67907582379216,-22.839537911896084,Newcastle United-Bournemouth | 09/11/2019
+08/12/2019,Aston Villa,Leicester,"['1 ', ' 4']",4.33,3.8,1.8,1.61,2.3,-23.33435935885562,-11.66717967942781,Aston Villa-Leicester | 08/12/2019
+01/01/2020,Newcastle United,Leicester,"['0 ', ' 3']",5.0,3.8,1.66,1.9,1.9,-17.983426836091127,-8.991713418045563,Newcastle United-Leicester | 01/01/2020
+29/02/2020,Newcastle United,Burnley,"['0 ', ' 0']",2.62,3.1,2.9,2.3,1.61,-52.30019884552398,-26.15009942276199,Newcastle United-Burnley | 29/02/2020
+28/06/2020,Watford,Southampton,"['1 ', ' 3']",2.5,3.3,2.87,2.0,1.8,14.146192740827614,7.073096370413808,Watford-Southampton | 28/06/2020
+01/07/2020,Bournemouth,Newcastle United,"['1 ', ' 4']",2.4,3.1,3.2,2.37,1.57,110.93255954721474,55.46627977360737,Bournemouth-Newcastle United | 01/07/2020
+02/07/2020,Sheffield United,Tottenham,"['3 ', ' 1']",4.2,3.4,1.95,2.2,1.66,95.3116204088357,47.65581020441785,Sheffield United-Tottenham | 02/07/2020
+11/07/2020,Sheffield United,Chelsea,"['3 ', ' 0']",6.0,3.8,1.6,2.0,1.8,69.12477289768452,34.56238644884226,Sheffield United-Chelsea | 11/07/2020
+15/07/2020,Arsenal,Liverpool,"['2 ', ' 1']",3.8,3.8,1.9,1.57,2.37,60.706015612487874,30.353007806243937,Arsenal-Liverpool | 15/07/2020

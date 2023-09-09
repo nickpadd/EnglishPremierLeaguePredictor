@@ -18,7 +18,9 @@ async def main():
             df.rename(columns = {'2':'B365A'}, inplace = True)
             df.rename(columns = {'Over':'BbAv>2.5'}, inplace = True)
             df.rename(columns = {'Under':'BbAv<2.5'}, inplace = True)
-            df = df[['Date', 'Home Team', 'Away Team', 'Result', 'B365H', 'B365D', 'B365A', 'BbAv>2.5', 'BbAv<2.5']]
+            df.rename(columns = {'Yes':'GG'}, inplace = True)
+            df.rename(columns = {'No':'NG'}, inplace = True)
+            df = df[['Date', 'Home Team', 'Away Team', 'Result', 'B365H', 'B365D', 'B365A', 'BbAv>2.5', 'BbAv<2.5', 'GG', 'NG']]
             df['Date'] = list(df['Date'].str.split(' '))
             df['Date'] = df['Date'].str[0]
 
@@ -107,6 +109,10 @@ async def main():
             print(AWAY)
                 
             TELIKO = pd.concat([df, HOME, AWAY], axis=1)
+            
+            for i in TELIKO.columns:
+                print(i)
+                
             print(TELIKO)
 
 

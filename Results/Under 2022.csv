@@ -1,0 +1,42 @@
+Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
+03/09/2022,Brentford,Leeds,"['5 ', ' 2']",2.1,3.5,3.4,1.72,2.1,-7.962247788907619,-3.981123894453809,Brentford-Leeds | 03/09/2022
+03/09/2022,Chelsea,West Ham,"['2 ', ' 1']",1.55,4.5,5.5,1.72,2.1,-16.234046743245443,-8.117023371622722,Chelsea-West Ham | 03/09/2022
+04/09/2022,Brighton,Leicester,"['5 ', ' 2']",1.83,3.5,4.5,2.01,1.89,-21.48262464665713,-10.741312323328565,Brighton-Leicester | 04/09/2022
+18/09/2022,Everton,West Ham,"['1 ', ' 0']",2.9,3.25,2.5,2.06,1.84,-19.33292417906185,-9.666462089530924,Everton-West Ham | 18/09/2022
+01/10/2022,Crystal Palace,Chelsea,"['1 ', ' 2']",4.2,3.6,1.85,2.1,1.72,-29.61615887343973,-14.808079436719865,Crystal Palace-Chelsea | 01/10/2022
+01/10/2022,Fulham,Newcastle United,"['1 ', ' 4']",3.0,3.4,2.37,1.91,1.99,-32.21503380239582,-16.10751690119791,Fulham-Newcastle United | 01/10/2022
+01/10/2022,West Ham,Wolverhampton Wanderers,"['2 ', ' 0']",1.95,3.5,4.2,2.2,1.66,-24.26254445368538,-12.13127222684269,West Ham-Wolverhampton Wanderers | 01/10/2022
+09/10/2022,West Ham,Fulham,"['3 ', ' 1']",1.72,3.8,4.75,1.8,2.0,-54.96727685934188,-27.48363842967094,West Ham-Fulham | 09/10/2022
+10/10/2022,Nottingham Forest,Aston Villa,"['1 ', ' 1']",3.3,3.4,2.2,2.03,1.87,-45.423557634901634,-22.711778817450817,Nottingham Forest-Aston Villa | 10/10/2022
+15/10/2022,Wolverhampton Wanderers,Nottingham Forest,"['1 ', ' 0']",1.7,3.75,5.0,2.06,1.84,-43.627247138863616,-21.813623569431808,Wolverhampton Wanderers-Nottingham Forest | 15/10/2022
+15/10/2022,Tottenham,Everton,"['2 ', ' 0']",1.5,4.5,6.5,1.72,2.1,-36.49885135233076,-18.24942567616538,Tottenham-Everton | 15/10/2022
+19/10/2022,Bournemouth,Southampton,"['0 ', ' 1']",2.62,3.3,2.62,2.0,1.8,-33.704537027015036,-16.852268513507518,Bournemouth-Southampton | 19/10/2022
+22/10/2022,Nottingham Forest,Liverpool,"['1 ', ' 0']",11.0,6.0,1.25,1.5,2.62,2.976139552611471,1.4880697763057356,Nottingham Forest-Liverpool | 22/10/2022
+23/10/2022,Wolverhampton Wanderers,Leicester,"['0 ', ' 4']",2.25,3.25,3.25,2.0,1.9,1.418565035578382,0.709282517789191,Wolverhampton Wanderers-Leicester | 23/10/2022
+24/10/2022,West Ham,Bournemouth,"['2 ', ' 0']",1.55,4.0,6.0,2.01,1.89,5.94938296167922,2.97469148083961,West Ham-Bournemouth | 24/10/2022
+29/10/2022,Crystal Palace,Southampton,"['1 ', ' 0']",1.9,3.6,4.0,2.06,1.84,6.649084372280938,3.3245421861404694,Crystal Palace-Southampton | 29/10/2022
+05/11/2022,Everton,Leicester,"['0 ', ' 2']",2.4,3.3,3.0,2.0,1.8,11.603303575695563,5.801651787847781,Everton-Leicester | 05/11/2022
+12/11/2022,West Ham,Leicester,"['0 ', ' 2']",2.05,3.4,3.75,1.99,1.91,12.307014827955058,6.153507413977529,West Ham-Leicester | 12/11/2022
+13/11/2022,Fulham,Manchester United,"['1 ', ' 2']",3.8,3.8,1.9,1.61,2.3,-2.5836298027920463,-1.2918149013960232,Fulham-Manchester United | 13/11/2022
+31/12/2022,Newcastle United,Leeds,"['0 ', ' 0']",1.45,4.5,7.0,1.62,2.3,44.964811055667525,22.482405527833762,Newcastle United-Leeds | 31/12/2022
+02/01/2023,Brentford,Liverpool,"['3 ', ' 1']",5.5,4.33,1.55,1.57,2.38,30.445361502996267,15.222680751498132,Brentford-Liverpool | 02/01/2023
+03/01/2023,Leicester,Fulham,"['0 ', ' 1']",2.2,3.6,3.1,1.73,2.1,39.18388443959924,19.59194221979962,Leicester-Fulham | 03/01/2023
+12/01/2023,Fulham,Chelsea,"['2 ', ' 1']",3.3,3.5,2.15,1.87,2.03,27.470449244550565,13.735224622275283,Fulham-Chelsea | 12/01/2023
+13/01/2023,Aston Villa,Leeds,"['2 ', ' 1']",1.91,3.6,4.0,1.8,2.0,12.261740919540827,6.130870459770414,Aston Villa-Leeds | 13/01/2023
+14/01/2023,Nottingham Forest,Leicester,"['2 ', ' 0']",2.7,3.3,2.63,2.03,1.87,19.64904215438743,9.824521077193715,Nottingham Forest-Leicester | 14/01/2023
+14/01/2023,Brentford,Bournemouth,"['2 ', ' 0']",1.65,4.0,5.25,1.8,2.0,23.46297879288639,11.731489396443195,Brentford-Bournemouth | 14/01/2023
+15/01/2023,Newcastle United,Fulham,"['1 ', ' 0']",1.5,4.33,6.5,1.73,2.1,50.40396719536906,25.20198359768453,Newcastle United-Fulham | 15/01/2023
+21/01/2023,Southampton,Aston Villa,"['0 ', ' 1']",2.88,3.25,2.55,2.1,1.73,51.59559513850033,25.797797569250164,Southampton-Aston Villa | 21/01/2023
+23/01/2023,Fulham,Tottenham,"['0 ', ' 1']",3.3,3.6,2.1,1.73,2.1,64.31966684776887,32.159833423884436,Fulham-Tottenham | 23/01/2023
+04/02/2023,Aston Villa,Leicester,"['2 ', ' 4']",1.95,3.6,3.8,1.94,1.96,38.65254654490667,19.326273272453335,Aston Villa-Leicester | 04/02/2023
+04/02/2023,Wolverhampton Wanderers,Liverpool,"['3 ', ' 0']",4.0,3.8,1.85,1.8,2.0,37.45676117956177,18.728380589780883,Wolverhampton Wanderers-Liverpool | 04/02/2023
+05/02/2023,Nottingham Forest,Leeds,"['1 ', ' 0']",2.63,3.3,2.7,1.94,1.96,59.55375016646215,29.776875083231076,Nottingham Forest-Leeds | 05/02/2023
+11/02/2023,Fulham,Nottingham Forest,"['2 ', ' 0']",1.91,3.5,4.33,2.1,1.73,60.870843807206,30.435421903603,Fulham-Nottingham Forest | 11/02/2023
+18/02/2023,Nottingham Forest,Manchester City,"['1 ', ' 1']",8.5,5.5,1.3,1.62,2.3,83.64156176991253,41.820780884956264,Nottingham Forest-Manchester City | 18/02/2023
+19/02/2023,Tottenham,West Ham,"['2 ', ' 0']",1.75,3.6,4.75,1.88,2.02,95.21417328199382,47.60708664099691,Tottenham-West Ham | 19/02/2023
+25/02/2023,Bournemouth,Manchester City,"['1 ', ' 4']",10.0,5.75,1.29,1.57,2.38,75.38612877704367,37.69306438852183,Bournemouth-Manchester City | 25/02/2023
+25/02/2023,Crystal Palace,Liverpool,"['0 ', ' 0']",4.75,3.8,1.73,1.85,2.05,83.43497425828376,41.71748712914189,Crystal Palace-Liverpool | 25/02/2023
+26/02/2023,Tottenham,Chelsea,"['2 ', ' 0']",2.55,3.25,2.9,2.08,1.82,95.18418956044735,47.592094780223675,Tottenham-Chelsea | 26/02/2023
+11/03/2023,Tottenham,Nottingham Forest,"['3 ', ' 1']",1.44,4.75,7.0,1.88,2.05,85.25490927088887,42.62745463544444,Tottenham-Nottingham Forest | 11/03/2023
+11/03/2023,Crystal Palace,Manchester City,"['0 ', ' 1']",9.0,4.75,1.36,1.8,2.0,102.20537499150483,51.10268749575242,Crystal Palace-Manchester City | 11/03/2023
+15/03/2023,Southampton,Brentford,"['0 ', ' 2']",2.88,3.25,2.5,2.1,1.73,104.28575845123738,52.142879225618685,Southampton-Brentford | 15/03/2023
