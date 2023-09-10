@@ -19,9 +19,14 @@ To incorporate recent form into our predictions, we repeated the process mention
 
 ## Model Validation and Results
 
-We tested our model using cross-validation, training on all seasons but one and testing it on the hidden season. After hyperparameter optimization, our findings indicated that betting on "Under" can be profitable. The cross-validation results are available in the 'PoissonPerSeason_CrossValidation.ipynb' file.
+We tested our model using cross-validation, training on all seasons but one and testing it on the hidden season. After hyperparameter optimization, our findings indicated that betting on "Under" can be profitable.
 
 ![Profit example of the algorithm](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExamplePlotProfit.png?raw=true)
+
+More precisely with 'PoissonPerSeason.ipynb' we test the algorithm on seasons 2020-2022 with the following results:
+![Betting on Under in 2020 Season](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Under2020.png?raw=true)
+![Betting on Under in 2021 Season](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Under2021.png?raw=true)
+![Betting on Under in 2022 Season](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Under2022.png?raw=true)
 
 ## Running the Algorithm for Upcoming Games
 
