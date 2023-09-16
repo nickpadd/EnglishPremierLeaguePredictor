@@ -1,6 +1,14 @@
 # EnglishPremierLeaguePredictor
 
-EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account their league table statistics.
+EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account their league table statistics. 
+
+## Upcoming Matches
+
+The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
+
+<img src="UpcomingMatchesFigure.html" alt="The prediction of the upcoming matches in comparison with the bookmaker's odds">
+
+A more detailed view can be seen in the "UpcomingMatchesTable.html".
 
 ## Betting Disclaimer
 
@@ -19,11 +27,13 @@ To incorporate recent form into our predictions, we repeated the process mention
 
 ## Model Validation and Results
 
-We tested our model using cross-validation, training on all seasons but one and testing it on the hidden season. After hyperparameter optimization, our findings indicated that betting on "Under" can be profitable.
+ The model's hyperparameters (the condfidence it needs to bet on something) were tuned via random shuffling technique including all seasons. After hyperparameter optimization, our findings indicated that betting on "Under" can be profitable.
 
 ![Profit example of the algorithm](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExamplePlotProfit.png?raw=true)
 
-More precisely with 'PoissonPerSeason.ipynb' we test the algorithm on seasons 2020-2022 with the following results:
+
+We then tested our model using cross-validation, training on all seasons but one and testing it on the hidden season. More precisely with 'PoissonPerSeason.ipynb' we test the algorithm on seasons 2020-2022 with the following results:
+
 ![Betting on Under in 2020 Season](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Under2020.png?raw=true)
 ![Betting on Under in 2021 Season](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Under2021.png?raw=true)
 ![Betting on Under in 2022 Season](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Under2022.png?raw=true)
@@ -39,6 +49,4 @@ In that exact case our prediction was succesfull and indeed better than that of 
 
 ![Result of predicted match Odds](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/ExampleResult.png?raw=true)
 
-## 2023-2024 Season Evaluation
-With the start of the 2023-2024 season a more precise evaluation will be updated with each round, starting from the 4th round of the league.
 
