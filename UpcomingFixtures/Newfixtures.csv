@@ -1,21 +1,21 @@
 ,Match Number,Round Number,Date,Location,Home Team,Away Team,Result,1,x,2,Over,Under,Yes,No
-0,,,16/09/2023,,Wolverhampton Wanderers,Liverpool,,6.6,4.9,1.44,2.18,1.7,1.65,2.15
-1,44.0,5.0,16/09/2023,Craven Cottage,Fulham,Luton,,1.7,3.9,4.9,1.88,1.93,1.85,1.88
-2,,,16/09/2023,,Tottenham,Sheffield United,,1.29,5.6,10.25,2.25,1.65,1.87,1.88
-3,,,16/09/2023,,West Ham,Manchester City,,6.5,4.4,1.5,1.6,2.37,1.7,2.07
-4,41.0,5.0,16/09/2023,Villa Park,Aston Villa,Crystal Palace,,1.93,3.75,3.8,1.9,1.91,1.78,1.98
-5,,,16/09/2023,,Manchester United,Brighton,,2.15,3.95,3.0,2.18,1.7,1.44,2.67
-6,,,16/09/2023,,Newcastle United,Brentford,,1.55,4.2,5.9,1.7,2.18,1.75,2.02
-7,42.0,5.0,17/09/2023,Vitality Stadium,Bournemouth,Chelsea,,4.25,4.15,1.75,1.62,2.3,1.62,2.2
-8,43.0,5.0,17/09/2023,Goodison Park,Everton,Arsenal,,5.6,4.45,1.55,1.65,2.27,1.72,2.05
-9,47.0,5.0,18/09/2023,The City Ground,Nottingham Forest,Burnley,,2.18,3.5,3.25,1.93,1.88,1.72,2.05
-10,,,23/09/2023,,Manchester City,Nottingham Forest,,1.18,7.0,17.0,2.02,1.8,2.05,1.72
-11,,,23/09/2023,,Luton,Wolverhampton Wanderers,,3.35,3.45,2.15,1.93,1.88,1.75,2.02
-12,56.0,6.0,23/09/2023,Selhurst Park,Crystal Palace,Fulham,,1.93,3.55,4.0,2.02,1.8,1.83,1.9
-13,52.0,6.0,23/09/2023,Gtech Community Stadium,Brentford,Everton,,1.82,3.7,4.35,1.9,1.91,1.8,1.95
-14,,,23/09/2023,,Burnley,Manchester United,,4.9,4.1,1.65,1.65,2.25,1.7,2.07
-15,55.0,6.0,24/09/2023,Stamford Bridge,Chelsea,Aston Villa,,1.82,3.7,4.35,1.7,2.18,1.62,2.22
-16,57.0,6.0,24/09/2023,Anfield,Liverpool,West Ham,,1.47,4.9,5.9,2.12,1.72,1.6,2.27
-17,53.0,6.0,24/09/2023,Amex Stadium,Brighton,Bournemouth,,1.42,5.2,6.6,2.02,1.8,1.6,2.25
-18,,,24/09/2023,,Arsenal,Tottenham,,1.7,4.25,4.35,2.27,1.65,1.55,2.37
-19,,,24/09/2023,,Sheffield United,Newcastle United,,6.9,4.65,1.45,1.62,2.3,1.78,1.98
+0,,,23/09/2023,,Manchester City,Nottingham Forest,,1.17,7.5,16.0,2.02,1.8,2.15,1.65
+1,,,23/09/2023,,Luton,Wolverhampton Wanderers,,3.3,3.55,2.15,1.91,1.9,1.75,2.02
+2,56.0,6.0,23/09/2023,Selhurst Park,Crystal Palace,Fulham,,1.91,3.6,4.0,2.0,1.82,1.85,1.9
+3,52.0,6.0,23/09/2023,Gtech Community Stadium,Brentford,Everton,,1.8,3.75,4.4,1.9,1.91,1.8,1.93
+4,,,23/09/2023,,Burnley,Manchester United,,4.4,4.0,1.75,1.62,2.3,1.6,2.25
+5,55.0,6.0,24/09/2023,Stamford Bridge,Chelsea,Aston Villa,,1.9,3.8,3.85,1.7,2.18,1.6,2.25
+6,57.0,6.0,24/09/2023,Anfield,Liverpool,West Ham,,1.45,4.9,6.5,2.05,1.78,1.57,2.32
+7,53.0,6.0,24/09/2023,Amex Stadium,Brighton,Bournemouth,,1.38,5.1,7.7,1.93,1.88,1.55,2.37
+8,,,24/09/2023,,Arsenal,Tottenham,,1.72,4.2,4.25,2.18,1.7,1.5,2.47
+9,,,24/09/2023,,Sheffield United,Newcastle United,,6.6,4.55,1.47,1.65,2.27,1.78,1.95
+10,61.0,7.0,30/09/2023,Villa Park,Aston Villa,Brighton,,2.65,3.7,2.47,2.18,1.7,1.42,2.75
+11,62.0,7.0,30/09/2023,Vitality Stadium,Bournemouth,Arsenal,,5.1,4.65,1.57,2.18,1.7,1.57,2.3
+12,63.0,7.0,30/09/2023,Goodison Park,Everton,Luton,,1.62,3.8,5.8,2.05,1.78,2.0,1.75
+13,,,30/09/2023,,Manchester United,Crystal Palace,,1.6,4.3,5.3,1.65,2.25,1.72,2.05
+14,,,30/09/2023,,Newcastle United,Burnley,,1.33,5.0,9.75,2.32,1.62,1.82,1.93
+15,,,30/09/2023,,West Ham,Sheffield United,,1.5,4.35,6.6,1.65,2.25,1.75,2.0
+16,,,30/09/2023,,Wolverhampton Wanderers,Manchester City,,7.6,4.9,1.4,2.32,1.62,1.75,2.0
+17,,,30/09/2023,,Tottenham,Liverpool,,3.05,3.75,2.2,1.98,1.83,1.35,3.05
+18,67.0,7.0,01/10/2023,The City Ground,Nottingham Forest,Brentford,,3.1,3.25,2.4,2.0,1.82,1.72,2.05
+19,64.0,7.0,02/10/2023,Craven Cottage,Fulham,Chelsea,,3.9,3.6,1.93,1.82,2.0,1.7,2.07

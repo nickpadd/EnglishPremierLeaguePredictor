@@ -12,7 +12,7 @@ from understat import Understat
 async def main():
         async with aiohttp.ClientSession(cookies={'beget':'begetok'}) as session:
             understat = Understat(session)
-            df = pd.read_csv('GatheredData/ExFiles/E0-2023.csv')
+            df = pd.read_csv('~/Documents/EnglishPremierLeaguePredictor/GatheredData/ExFiles/E0-2023.csv')
             df = df.dropna(subset=['FTHG'])
             df['Result'] = np.nan
             for i, x in enumerate(df['Result']):
