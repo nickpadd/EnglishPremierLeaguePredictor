@@ -10,4 +10,5 @@ The EnglishPremierLeaguePredictor project and its associated predictions are pro
 Betting involves risks, and there is no guarantee that the predictions provided by this project will result in accurate outcomes or profitable bets. The outcomes of sports events can be influenced by a wide range of variables that may not be fully captured by the prediction model.
 
 
-### Visit the [EnglishPremierLeaguePredictor Github Page](https://elasticalist.github.io/Home/) of the project to get a detailed description of how the project was created and it's upcoming match predictions!
+## Visit the Github Page
+The [EnglishPremierLeaguePredictor Github Page](https://elasticalist.github.io/Home/) provides a detailed description of the model creation and evaluation on past seasons, as well as the upcoming predictions of this week's premier league games!
