@@ -11,4 +11,4 @@ Betting involves risks, and there is no guarantee that the predictions provided 
 
 
 ## Visit the Github Page
-The [EnglishPremierLeaguePredictor Github Page](https://elasticalist.github.io/Home/) provides a detailed description of the model creation and evaluation on past seasons, as well as the upcoming predictions of this week's premier league games!
+The [EnglishPremierLeaguePredictor Github Page](https://nickpadd.github.io/EPLP.github.io/Home) provides a detailed description of the model creation and evaluation on past seasons, as well as the upcoming predictions of this week's premier league games!
