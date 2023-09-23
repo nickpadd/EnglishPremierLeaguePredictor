@@ -33,7 +33,7 @@ The [EnglishPremierLeaguePredictor Github Page](https://nickpadd.github.io/EPLP.
 ### Running the scripts for the upcoming matches
 To run the model for the upcoming games open the jupyter file 'BookmakerScraping.ipynb' and run it in the environment created from the requirements above to scrape the upcoming matches and odds provided by a popular greek betting site (be careful there might be location restrictions). This script also updates the file of the current season and runs some of the python scripts needed in order to produce the updated datasets needed for the upcoming games prediction. 
 
-After completing the above steps open the 'PoissonVotingPredictor.ipynb' and run the jupyter file and run it in the environment created from the requirements above to produce the upcoming games predictions and prediction figure. The last two are output with the names 'UpcomingMatchesPrediction.html' and 'UpcomingMatchesPredictionFigure.html'. 
+After completing the above steps open the 'PoissonVotingPredictor.ipynb' and run the jupyter file in the environment created from the requirements above to produce the upcoming games predictions and prediction figure. The last two are output with the names 'UpcomingMatchesPrediction.html' and 'UpcomingMatchesPredictionFigure.html'. 
 
 Open the above files to see the predictions of the model or visit the [EnglishPremierLeaguePredictor Github Page Upcoming Matches section](https://nickpadd.github.io/EPLP.github.io/Upcoming) to just get updated on the predictions of the upcoming games.
 
