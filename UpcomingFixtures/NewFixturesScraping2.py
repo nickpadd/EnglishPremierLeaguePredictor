@@ -12,7 +12,7 @@ from understat import Understat
 async def main():
         async with aiohttp.ClientSession(cookies={'beget':'begetok'}) as session:
             understat = Understat(session)
-            df = pd.read_csv('Newfixtures.csv')
+            df = pd.read_csv('~/Documents/EnglishPremierLeaguePredictor/UpcomingFixtures/Newfixtures.csv')
             df.rename(columns = {'1':'B365H'}, inplace = True)
             df.rename(columns = {'x':'B365D'}, inplace = True)
             df.rename(columns = {'2':'B365A'}, inplace = True)
@@ -116,7 +116,7 @@ async def main():
             print(TELIKO)
 
 
-            TELIKO.to_csv('Prediction.csv')
+            TELIKO.to_csv('~/Documents/EnglishPremierLeaguePredictor/UpcomingFixtures/Prediction.csv')
 
                 
                 

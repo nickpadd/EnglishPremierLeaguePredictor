@@ -1,6 +1,8 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-01/11/2020,Newcastle United,Everton,"['2 ', ' 1']",3.7,3.4,2.05,1.8,2.0,-5.538047505454258,-2.7690237527271293,Newcastle United-Everton | 01/11/2020
-29/12/2020,West Bromwich Albion,Leeds,"['0 ', ' 5']",3.6,3.6,2.0,1.57,2.37,14.351157716474702,7.175578858237351,West Bromwich Albion-Leeds | 29/12/2020
-02/01/2021,Tottenham,Leeds,"['3 ', ' 0']",1.75,4.1,4.2,1.44,2.75,-21.22440134021697,-10.612200670108486,Tottenham-Leeds | 02/01/2021
-26/01/2021,Newcastle United,Leeds,"['1 ', ' 2']",3.9,3.8,1.85,1.66,2.2,-16.034161544659625,-8.017080772329813,Newcastle United-Leeds | 26/01/2021
-28/01/2021,Tottenham,Liverpool,"['1 ', ' 3']",3.2,3.6,2.2,1.8,2.0,-5.093435448495512,-2.546717724247756,Tottenham-Liverpool | 28/01/2021
+04/10/2020,Manchester United,Tottenham,"['1 ', ' 6']",1.85,3.8,4.0,1.72,2.1,115.40160396060759,57.700801980303794,Manchester United-Tottenham | 04/10/2020
+18/10/2020,Crystal Palace,Brighton,"['1 ', ' 1']",2.62,3.3,2.7,2.2,1.66,87.50755152133686,43.75377576066843,Crystal Palace-Brighton | 18/10/2020
+01/11/2020,Newcastle United,Everton,"['2 ', ' 1']",3.7,3.4,2.05,1.8,2.0,83.62278863945008,41.81139431972504,Newcastle United-Everton | 01/11/2020
+29/12/2020,West Bromwich Albion,Leeds,"['0 ', ' 5']",3.6,3.6,2.0,1.57,2.37,104.57397708943262,52.28698854471631,West Bromwich Albion-Leeds | 29/12/2020
+02/01/2021,Tottenham,Leeds,"['3 ', ' 0']",1.75,4.1,4.2,1.44,2.75,68.31026912201273,34.15513456100636,Tottenham-Leeds | 02/01/2021
+26/01/2021,Newcastle United,Leeds,"['1 ', ' 2']",3.9,3.8,1.85,1.66,2.2,73.23109904217421,36.615549521087104,Newcastle United-Leeds | 26/01/2021
+28/01/2021,Tottenham,Liverpool,"['1 ', ' 3']",3.2,3.6,2.2,1.8,2.0,85.26994897399283,42.63497448699641,Tottenham-Liverpool | 28/01/2021

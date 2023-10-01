@@ -1,20 +1,19 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-19/10/2019,Chelsea,Newcastle United,"['1 ', ' 0']",1.3,5.5,10.0,1.57,2.37,4.963300371560479,2.4816501857802393,Chelsea-Newcastle United | 19/10/2019
-27/10/2019,Liverpool,Tottenham,"['2 ', ' 1']",1.5,4.33,6.5,1.53,2.5,17.639885329540476,8.819942664770238,Liverpool-Tottenham | 27/10/2019
-02/11/2019,West Ham,Newcastle United,"['2 ', ' 3']",1.75,3.8,4.5,1.8,2.0,-13.40232423520807,-6.701162117604035,West Ham-Newcastle United | 02/11/2019
-23/11/2019,Manchester City,Chelsea,"['2 ', ' 1']",1.44,5.0,6.5,1.4,3.0,-10.792616009100042,-5.396308004550022,Manchester City-Chelsea | 23/11/2019
-07/12/2019,Manchester City,Manchester United,"['1 ', ' 2']",1.3,5.5,10.0,1.5,2.62,-35.425177191736,-17.712588595868,Manchester City-Manchester United | 07/12/2019
-26/12/2019,Sheffield United,Watford,"['1 ', ' 1']",1.83,3.6,4.33,2.1,1.72,-47.79305603487429,-23.896528017437145,Sheffield United-Watford | 26/12/2019
-19/01/2020,Liverpool,Manchester United,"['2 ', ' 0']",1.36,5.25,8.0,1.66,2.2,-46.39347070784042,-23.196735353920214,Liverpool-Manchester United | 19/01/2020
-21/01/2020,Chelsea,Arsenal,"['2 ', ' 2']",1.72,3.9,4.5,1.72,2.1,-58.584123714469285,-29.292061857234643,Chelsea-Arsenal | 21/01/2020
-22/02/2020,Chelsea,Tottenham,"['2 ', ' 1']",1.72,4.0,4.5,1.8,2.0,-52.20103169986094,-26.10051584993047,Chelsea-Tottenham | 22/02/2020
-17/06/2020,Manchester City,Arsenal,"['3 ', ' 0']",1.36,5.25,7.5,1.36,3.2,-39.3390930361521,-19.66954651807605,Manchester City-Arsenal | 17/06/2020
-24/06/2020,Newcastle United,Aston Villa,"['1 ', ' 1']",2.3,3.3,3.2,2.1,1.72,-94.07849713068175,-47.03924856534088,Newcastle United-Aston Villa | 24/06/2020
-24/06/2020,Wolverhampton Wanderers,Bournemouth,"['1 ', ' 0']",1.55,4.0,6.0,2.1,1.72,-74.22039699122304,-37.11019849561152,Wolverhampton Wanderers-Bournemouth | 24/06/2020
-25/06/2020,Southampton,Arsenal,"['0 ', ' 2']",2.6,3.5,2.62,1.8,2.0,-131.5916352754364,-65.7958176377182,Southampton-Arsenal | 25/06/2020
-04/07/2020,Leicester,Crystal Palace,"['3 ', ' 0']",1.66,3.6,5.75,2.2,1.66,-126.79744830979214,-63.39872415489607,Leicester-Crystal Palace | 04/07/2020
-04/07/2020,Chelsea,Watford,"['3 ', ' 0']",1.4,4.75,8.0,1.72,2.1,-107.99532774710276,-53.99766387355138,Chelsea-Watford | 04/07/2020
-11/07/2020,Liverpool,Burnley,"['1 ', ' 1']",1.22,6.5,12.0,1.53,2.5,-109.819976786841,-54.9099883934205,Liverpool-Burnley | 11/07/2020
-16/07/2020,Leicester,Sheffield United,"['2 ', ' 0']",2.05,3.25,3.9,2.2,1.66,-84.77073647895192,-42.38536823947595,Leicester-Sheffield United | 16/07/2020
-26/07/2020,Chelsea,Wolverhampton Wanderers,"['2 ', ' 0']",1.85,3.8,4.0,1.9,1.9,-50.88473900360536,-25.44236950180268,Chelsea-Wolverhampton Wanderers | 26/07/2020
-26/07/2020,Southampton,Sheffield United,"['3 ', ' 1']",2.15,3.5,3.3,1.9,1.9,-16.517474469333195,-8.258737234666597,Southampton-Sheffield United | 26/07/2020
+19/10/2019,Chelsea,Newcastle United,"['1 ', ' 0']",1.3,5.5,10.0,1.57,2.37,4.601715092190673,2.3008575460953367,Chelsea-Newcastle United | 19/10/2019
+27/10/2019,Liverpool,Tottenham,"['2 ', ' 1']",1.5,4.33,6.5,1.53,2.5,16.70736247714541,8.353681238572705,Liverpool-Tottenham | 27/10/2019
+02/11/2019,West Ham,Newcastle United,"['2 ', ' 3']",1.75,3.8,4.5,1.8,2.0,-13.717680379434228,-6.858840189717114,West Ham-Newcastle United | 02/11/2019
+23/11/2019,Manchester City,Chelsea,"['2 ', ' 1']",1.44,5.0,6.5,1.4,3.0,-10.997126328720853,-5.4985631643604265,Manchester City-Chelsea | 23/11/2019
+07/12/2019,Manchester City,Manchester United,"['1 ', ' 2']",1.3,5.5,10.0,1.5,2.62,-37.25948257474053,-18.629741287370265,Manchester City-Manchester United | 07/12/2019
+26/12/2019,Sheffield United,Watford,"['1 ', ' 1']",1.83,3.6,4.33,2.1,1.72,-50.27021688648208,-25.13510844324104,Sheffield United-Watford | 26/12/2019
+19/01/2020,Liverpool,Manchester United,"['2 ', ' 0']",1.36,5.25,8.0,1.66,2.2,-49.4874505393861,-24.743725269693048,Liverpool-Manchester United | 19/01/2020
+21/01/2020,Chelsea,Arsenal,"['2 ', ' 2']",1.72,3.9,4.5,1.72,2.1,-61.70405784889927,-30.852028924449634,Chelsea-Arsenal | 21/01/2020
+22/02/2020,Chelsea,Tottenham,"['2 ', ' 1']",1.72,4.0,4.5,1.8,2.0,-55.876545579839416,-27.938272789919704,Chelsea-Tottenham | 22/02/2020
+17/06/2020,Manchester City,Arsenal,"['3 ', ' 0']",1.36,5.25,7.5,1.36,3.2,-42.922632911729835,-21.461316455864917,Manchester City-Arsenal | 17/06/2020
+24/06/2020,Newcastle United,Aston Villa,"['1 ', ' 1']",2.3,3.3,3.2,2.1,1.72,-104.69401707290666,-52.34700853645333,Newcastle United-Aston Villa | 24/06/2020
+24/06/2020,Wolverhampton Wanderers,Bournemouth,"['1 ', ' 0']",1.55,4.0,6.0,2.1,1.72,-82.87499824065998,-41.43749912032998,Wolverhampton Wanderers-Bournemouth | 24/06/2020
+25/06/2020,Southampton,Arsenal,"['0 ', ' 2']",2.6,3.5,2.62,1.8,2.0,-139.36034879068794,-69.68017439534397,Southampton-Arsenal | 25/06/2020
+04/07/2020,Leicester,Crystal Palace,"['3 ', ' 0']",1.66,3.6,5.75,2.2,1.66,-134.78725831972173,-67.39362915986086,Leicester-Crystal Palace | 04/07/2020
+16/07/2020,Leicester,Sheffield United,"['2 ', ' 0']",2.05,3.25,3.9,2.2,1.66,-110.04109448514927,-55.02054724257464,Leicester-Sheffield United | 16/07/2020
+17/07/2020,West Ham,Watford,"['3 ', ' 1']",2.4,3.0,3.3,2.0,1.8,-65.56610691846673,-32.783053459233365,West Ham-Watford | 17/07/2020
+26/07/2020,Chelsea,Wolverhampton Wanderers,"['2 ', ' 0']",1.85,3.8,4.0,1.9,1.9,-31.501206447931455,-15.750603223965726,Chelsea-Wolverhampton Wanderers | 26/07/2020
+26/07/2020,Southampton,Sheffield United,"['3 ', ' 1']",2.15,3.5,3.3,1.9,1.9,0.4868034627680373,0.24340173138401866,Southampton-Sheffield United | 26/07/2020

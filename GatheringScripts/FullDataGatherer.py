@@ -13,7 +13,7 @@ async def main():
         async with aiohttp.ClientSession(cookies={'beget':'begetok'}) as session:
             understat = Understat(session)
             for file in ['2022']:
-                df = pd.read_csv('GatheredData/ExFiles/E0-'+file+'.csv')
+                df = pd.read_csv('~/Documents/EnglishPremierLeaguePredictor/GatheredData/ExFiles/E0-'+file+'.csv')
 
                 #team_dict = {
                 #        'Atl Madrid': 'Atletico Madrid',

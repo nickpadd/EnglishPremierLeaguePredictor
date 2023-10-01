@@ -1,11 +1,12 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-09/10/2022,West Ham,Fulham,"['3 ', ' 1']",1.72,3.8,4.75,1.8,2.0,-4.768133150295824,-2.384066575147912,West Ham-Fulham | 09/10/2022
-22/10/2022,Nottingham Forest,Liverpool,"['1 ', ' 0']",11.0,6.0,1.25,1.5,2.62,-9.099762953911608,-4.549881476955804,Nottingham Forest-Liverpool | 22/10/2022
-29/10/2022,Leicester,Manchester City,"['0 ', ' 1']",10.0,6.5,1.25,1.44,2.75,-18.11698158550898,-9.05849079275449,Leicester-Manchester City | 29/10/2022
-05/11/2022,Manchester City,Fulham,"['2 ', ' 1']",1.11,9.5,19.0,1.28,3.75,-24.917528630284394,-12.458764315142197,Manchester City-Fulham | 05/11/2022
-27/12/2022,Chelsea,Bournemouth,"['2 ', ' 0']",1.3,5.5,10.0,1.67,2.2,-32.27499714116777,-16.137498570583887,Chelsea-Bournemouth | 27/12/2022
-27/12/2022,Manchester United,Nottingham Forest,"['3 ', ' 0']",1.29,5.5,11.0,1.67,2.2,-36.102619978286626,-18.051309989143313,Manchester United-Nottingham Forest | 27/12/2022
-28/12/2022,Leeds,Manchester City,"['1 ', ' 3']",9.5,6.0,1.29,1.44,2.75,-41.836344105524894,-20.918172052762447,Leeds-Manchester City | 28/12/2022
-31/12/2022,Newcastle United,Leeds,"['0 ', ' 0']",1.45,4.5,7.0,1.62,2.3,-11.784739154903278,-5.892369577451639,Newcastle United-Leeds | 31/12/2022
-15/01/2023,Newcastle United,Fulham,"['1 ', ' 0']",1.5,4.33,6.5,1.73,2.1,-18.198406331561813,-9.099203165780906,Newcastle United-Fulham | 15/01/2023
-11/03/2023,Tottenham,Nottingham Forest,"['3 ', ' 1']",1.44,4.75,7.0,1.88,2.05,-23.93914237528466,-11.96957118764233,Tottenham-Nottingham Forest | 11/03/2023
+27/08/2022,Manchester City,Crystal Palace,"['4 ', ' 2']",1.18,7.5,13.0,1.44,2.75,-3.9988181469309723,-1.9994090734654861,Manchester City-Crystal Palace | 27/08/2022
+27/08/2022,Arsenal,Fulham,"['2 ', ' 1']",1.3,5.75,9.0,1.5,2.62,-11.442334413570038,-5.721167206785019,Arsenal-Fulham | 27/08/2022
+22/10/2022,Nottingham Forest,Liverpool,"['1 ', ' 0']",11.0,6.0,1.25,1.5,2.62,-16.70573820210123,-8.352869101050615,Nottingham Forest-Liverpool | 22/10/2022
+29/10/2022,Leicester,Manchester City,"['0 ', ' 1']",10.0,6.5,1.25,1.44,2.75,-26.079696189848036,-13.039848094924018,Leicester-Manchester City | 29/10/2022
+05/11/2022,Manchester City,Fulham,"['2 ', ' 1']",1.11,9.5,19.0,1.28,3.75,-32.47063684440455,-16.235318422202276,Manchester City-Fulham | 05/11/2022
+27/12/2022,Chelsea,Bournemouth,"['2 ', ' 0']",1.3,5.5,10.0,1.67,2.2,-42.33093929841632,-21.165469649208156,Chelsea-Bournemouth | 27/12/2022
+27/12/2022,Manchester United,Nottingham Forest,"['3 ', ' 0']",1.29,5.5,11.0,1.67,2.2,-46.02763479439923,-23.013817397199617,Manchester United-Nottingham Forest | 27/12/2022
+28/12/2022,Leeds,Manchester City,"['1 ', ' 3']",9.5,6.0,1.29,1.44,2.75,-54.01684028536701,-27.008420142683505,Leeds-Manchester City | 28/12/2022
+31/12/2022,Newcastle United,Leeds,"['0 ', ' 0']",1.45,4.5,7.0,1.62,2.3,-18.916243698560024,-9.458121849280012,Newcastle United-Leeds | 31/12/2022
+15/01/2023,Newcastle United,Fulham,"['1 ', ' 0']",1.5,4.33,6.5,1.73,2.1,-24.472831854967083,-12.236415927483542,Newcastle United-Fulham | 15/01/2023
+11/03/2023,Tottenham,Nottingham Forest,"['3 ', ' 1']",1.44,4.75,7.0,1.88,2.05,-29.860191376772804,-14.930095688386402,Tottenham-Nottingham Forest | 11/03/2023
