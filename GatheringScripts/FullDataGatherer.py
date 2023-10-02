@@ -12,7 +12,7 @@ from understat import Understat
 async def main():
         async with aiohttp.ClientSession(cookies={'beget':'begetok'}) as session:
             understat = Understat(session)
-            for file in ['2022']:
+            for file in ['2017', '2018', '2019', '2020', '2021', '2022', '2023']:
                 df = pd.read_csv('~/Documents/EnglishPremierLeaguePredictor/GatheredData/ExFiles/E0-'+file+'.csv')
 
                 #team_dict = {
@@ -64,7 +64,7 @@ async def main():
                     helpdf = df.loc[df['Date'] == str(UniqDates[i])]
                     UniqDates[i] = datetime.datetime.strptime(UniqDates[i], '%d/%m/%Y').date()
                     UniqDates[i] = UniqDates[i] - datetime.timedelta(days=1)
-                    start = str(UniqDates[i] - relativedelta(months=1))
+                    start = str(UniqDates[i] - relativedelta(months=2))
                     print(UniqDates[i])
 
                     UniqDates[i] = str(UniqDates[i])
@@ -143,7 +143,7 @@ async def main():
                 print(TELIKO)
 
 
-                TELIKO.to_csv('~/Documents/EnglishPremierLeaguePredictor/GatheredData/Epl20xxMonthlyFiles/Epl'+file+'Monthly.csv')
+                TELIKO.to_csv('~/Documents/EnglishPremierLeaguePredictor/GatheredData/Epl20xx_2Months/Epl'+file+'2Months.csv')
 
                 
                 
