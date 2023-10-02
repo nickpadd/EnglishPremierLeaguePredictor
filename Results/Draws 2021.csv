@@ -1,27 +1,29 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-11/09/2021,Manchester United,Newcastle United,"['4 ', ' 1']",1.18,7.5,15.0,1.44,2.75,-9.291158040459322,-4.645579020229661,Manchester United-Newcastle United | 11/09/2021
-11/09/2021,Arsenal,Norwich,"['1 ', ' 0']",1.5,4.6,6.0,1.72,2.1,-14.628910729574526,-7.314455364787264,Arsenal-Norwich | 11/09/2021
-23/10/2021,Chelsea,Norwich,"['7 ', ' 0']",1.18,7.0,15.0,1.66,2.2,-19.69966460135953,-9.849832300679765,Chelsea-Norwich | 23/10/2021
-30/10/2021,Manchester City,Crystal Palace,"['0 ', ' 2']",1.14,8.0,19.0,1.44,2.75,-25.21619888587223,-12.608099442936116,Manchester City-Crystal Palace | 30/10/2021
-30/10/2021,Newcastle United,Chelsea,"['0 ', ' 3']",8.5,5.0,1.36,1.72,2.1,-30.04082306806876,-15.02041153403438,Newcastle United-Chelsea | 30/10/2021
-20/11/2021,Watford,Manchester United,"['4 ', ' 1']",6.5,4.75,1.45,1.66,2.2,-37.04247989807625,-18.521239949038126,Watford-Manchester United | 20/11/2021
-21/11/2021,Manchester City,Everton,"['3 ', ' 0']",1.14,8.0,19.0,1.5,2.62,-42.67856922892912,-21.33928461446456,Manchester City-Everton | 21/11/2021
-04/12/2021,Watford,Manchester City,"['1 ', ' 3']",12.0,7.0,1.2,1.44,2.75,-52.1694466129168,-26.0847233064584,Watford-Manchester City | 04/12/2021
-05/12/2021,Tottenham,Norwich,"['3 ', ' 0']",1.36,5.0,8.5,1.87,2.03,-57.17989547159398,-28.58994773579699,Tottenham-Norwich | 05/12/2021
-11/12/2021,Norwich,Manchester United,"['0 ', ' 1']",7.0,4.5,1.45,1.72,2.1,-63.73587926451952,-31.86793963225976,Norwich-Manchester United | 11/12/2021
-26/12/2021,Norwich,Arsenal,"['0 ', ' 5']",8.0,4.75,1.4,1.72,2.1,-69.70171119393603,-34.85085559696802,Norwich-Arsenal | 26/12/2021
-27/12/2021,Newcastle United,Manchester United,"['1 ', ' 1']",6.5,4.75,1.44,1.61,2.3,-44.14877912238965,-22.074389561194828,Newcastle United-Manchester United | 27/12/2021
-29/12/2021,Brentford,Manchester City,"['0 ', ' 1']",19.0,8.0,1.14,1.5,2.62,-50.4260917341036,-25.2130458670518,Brentford-Manchester City | 29/12/2021
-30/12/2021,Manchester United,Burnley,"['3 ', ' 1']",1.36,5.0,9.0,1.72,2.1,-55.7579300577369,-27.87896502886845,Manchester United-Burnley | 30/12/2021
-12/01/2022,West Ham,Norwich,"['2 ', ' 0']",1.28,5.5,10.0,1.66,2.2,-64.0131493593318,-32.0065746796659,West Ham-Norwich | 12/01/2022
-23/02/2022,Liverpool,Leeds,"['6 ', ' 0']",1.16,8.0,15.0,1.28,3.75,-68.69948681947918,-34.34974340973959,Liverpool-Leeds | 23/02/2022
-05/03/2022,Burnley,Chelsea,"['0 ', ' 4']",6.5,4.33,1.5,2.1,1.72,-74.50872104721857,-37.254360523609286,Burnley-Chelsea | 05/03/2022
-13/03/2022,Chelsea,Newcastle United,"['1 ', ' 0']",1.3,5.25,11.0,1.72,2.1,-79.84503254464681,-39.922516272323406,Chelsea-Newcastle United | 13/03/2022
-16/04/2022,Manchester United,Norwich,"['3 ', ' 2']",1.25,6.5,10.0,1.5,2.62,-84.22171046711748,-42.11085523355874,Manchester United-Norwich | 16/04/2022
-30/04/2022,Leeds,Manchester City,"['0 ', ' 4']",8.5,6.0,1.3,1.5,2.62,-90.2965077365919,-45.14825386829595,Leeds-Manchester City | 30/04/2022
-30/04/2022,Newcastle United,Liverpool,"['0 ', ' 1']",8.5,5.0,1.36,1.66,2.2,-95.38659315597144,-47.69329657798572,Newcastle United-Liverpool | 30/04/2022
-10/05/2022,Aston Villa,Liverpool,"['1 ', ' 2']",7.5,4.75,1.4,1.61,2.3,-100.4547970271831,-50.22739851359155,Aston Villa-Liverpool | 10/05/2022
-11/05/2022,Wolverhampton Wanderers,Manchester City,"['1 ', ' 5']",11.0,6.0,1.25,1.66,2.2,-104.8544611589714,-52.4272305794857,Wolverhampton Wanderers-Manchester City | 11/05/2022
-15/05/2022,Tottenham,Burnley,"['1 ', ' 0']",1.33,5.25,9.0,1.57,2.37,-109.29353490324733,-54.64676745162366,Tottenham-Burnley | 15/05/2022
-15/05/2022,Wolverhampton Wanderers,Norwich,"['1 ', ' 1']",1.45,4.75,6.5,1.86,2.04,-91.29174353702378,-45.64587176851189,Wolverhampton Wanderers-Norwich | 15/05/2022
-22/05/2022,Norwich,Tottenham,"['0 ', ' 5']",9.5,6.5,1.25,1.44,2.75,-102.17059508384835,-51.08529754192417,Norwich-Tottenham | 22/05/2022
+11/09/2021,Manchester United,Newcastle United,"['4 ', ' 1']",1.18,7.5,15.0,1.44,2.75,-9.111234666646922,-4.555617333323461,Manchester United-Newcastle United | 11/09/2021
+11/09/2021,Arsenal,Norwich,"['1 ', ' 0']",1.5,4.6,6.0,1.72,2.1,-14.637474647720623,-7.3187373238603115,Arsenal-Norwich | 11/09/2021
+23/10/2021,Chelsea,Norwich,"['7 ', ' 0']",1.18,7.0,15.0,1.66,2.2,-19.43340574538614,-9.71670287269307,Chelsea-Norwich | 23/10/2021
+30/10/2021,Manchester City,Crystal Palace,"['0 ', ' 2']",1.14,8.0,19.0,1.44,2.75,-24.90789859996859,-12.453949299984295,Manchester City-Crystal Palace | 30/10/2021
+30/10/2021,Newcastle United,Chelsea,"['0 ', ' 3']",8.5,5.0,1.36,1.72,2.1,-29.81152561253373,-14.905762806266864,Newcastle United-Chelsea | 30/10/2021
+20/11/2021,Watford,Manchester United,"['4 ', ' 1']",6.5,4.75,1.45,1.66,2.2,-36.83252170681266,-18.41626085340633,Watford-Manchester United | 20/11/2021
+21/11/2021,Manchester City,Everton,"['3 ', ' 0']",1.14,8.0,19.0,1.5,2.62,-42.45120516069015,-21.225602580345075,Manchester City-Everton | 21/11/2021
+04/12/2021,Watford,Manchester City,"['1 ', ' 3']",12.0,7.0,1.2,1.44,2.75,-52.05449256597874,-26.027246282989374,Watford-Manchester City | 04/12/2021
+05/12/2021,Tottenham,Norwich,"['3 ', ' 0']",1.36,5.0,8.5,1.87,2.03,-57.340788948330854,-28.670394474165427,Tottenham-Norwich | 05/12/2021
+11/12/2021,Norwich,Manchester United,"['0 ', ' 1']",7.0,4.5,1.45,1.72,2.1,-63.92829203020326,-31.96414601510163,Norwich-Manchester United | 11/12/2021
+26/12/2021,Norwich,Arsenal,"['0 ', ' 5']",8.0,4.75,1.4,1.72,2.1,-69.83816030844551,-34.919080154222755,Norwich-Arsenal | 26/12/2021
+27/12/2021,Newcastle United,Manchester United,"['1 ', ' 1']",6.5,4.75,1.44,1.61,2.3,-44.09735852218246,-22.04867926109123,Newcastle United-Manchester United | 27/12/2021
+29/12/2021,Brentford,Manchester City,"['0 ', ' 1']",19.0,8.0,1.14,1.5,2.62,-50.58599122266819,-25.292995611334096,Brentford-Manchester City | 29/12/2021
+30/12/2021,Manchester United,Burnley,"['3 ', ' 1']",1.36,5.0,9.0,1.72,2.1,-55.640800675413885,-27.820400337706943,Manchester United-Burnley | 30/12/2021
+12/01/2022,West Ham,Norwich,"['2 ', ' 0']",1.28,5.5,10.0,1.66,2.2,-64.02408056778512,-32.01204028389256,West Ham-Norwich | 12/01/2022
+12/02/2022,Norwich,Manchester City,"['0 ', ' 4']",15.0,8.0,1.16,1.44,2.75,-67.72443182435441,-33.862215912177206,Norwich-Manchester City | 12/02/2022
+23/02/2022,Liverpool,Leeds,"['6 ', ' 0']",1.16,8.0,15.0,1.28,3.75,-72.24677032552094,-36.12338516276047,Liverpool-Leeds | 23/02/2022
+05/03/2022,Burnley,Chelsea,"['0 ', ' 4']",6.5,4.33,1.5,2.1,1.72,-78.14492926706943,-39.072464633534715,Burnley-Chelsea | 05/03/2022
+10/03/2022,Norwich,Chelsea,"['1 ', ' 3']",11.0,4.75,1.3,1.72,2.1,-82.23757259646013,-41.11878629823006,Norwich-Chelsea | 10/03/2022
+13/03/2022,Chelsea,Newcastle United,"['1 ', ' 0']",1.3,5.25,11.0,1.72,2.1,-87.60868950986907,-43.80434475493454,Chelsea-Newcastle United | 13/03/2022
+16/04/2022,Manchester United,Norwich,"['3 ', ' 2']",1.25,6.5,10.0,1.5,2.62,-91.84901715322056,-45.92450857661028,Manchester United-Norwich | 16/04/2022
+30/04/2022,Leeds,Manchester City,"['0 ', ' 4']",8.5,6.0,1.3,1.5,2.62,-97.96372389883703,-48.981861949418516,Leeds-Manchester City | 30/04/2022
+30/04/2022,Newcastle United,Liverpool,"['0 ', ' 1']",8.5,5.0,1.36,1.66,2.2,-103.52712424623074,-51.76356212311537,Newcastle United-Liverpool | 30/04/2022
+10/05/2022,Aston Villa,Liverpool,"['1 ', ' 2']",7.5,4.75,1.4,1.61,2.3,-108.53489179861639,-54.26744589930819,Aston Villa-Liverpool | 10/05/2022
+11/05/2022,Wolverhampton Wanderers,Manchester City,"['1 ', ' 5']",11.0,6.0,1.25,1.66,2.2,-113.12369918006496,-56.56184959003248,Wolverhampton Wanderers-Manchester City | 11/05/2022
+15/05/2022,Tottenham,Burnley,"['1 ', ' 0']",1.33,5.25,9.0,1.57,2.37,-117.25010352478986,-58.62505176239493,Tottenham-Burnley | 15/05/2022
+15/05/2022,Wolverhampton Wanderers,Norwich,"['1 ', ' 1']",1.45,4.75,6.5,1.86,2.04,-99.32576745589205,-49.662883727946024,Wolverhampton Wanderers-Norwich | 15/05/2022
+22/05/2022,Norwich,Tottenham,"['0 ', ' 5']",9.5,6.5,1.25,1.44,2.75,-110.34492914703623,-55.172464573518106,Norwich-Tottenham | 22/05/2022
