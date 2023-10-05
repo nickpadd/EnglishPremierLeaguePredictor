@@ -1,75 +1,53 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-29/09/2018,Wolverhampton Wanderers,Southampton,"['2 ', ' 0']",1.8,3.6,5.25,2.13,1.72,-3.75602411981923,-1.878012059909615,Wolverhampton Wanderers-Southampton | 29/09/2018
-29/09/2018,Chelsea,Liverpool,"['1 ', ' 1']",2.8,3.6,2.54,1.64,2.25,-10.065264694216722,-5.032632347108361,Chelsea-Liverpool | 29/09/2018
-30/09/2018,Cardiff,Burnley,"['1 ', ' 2']",2.62,3.0,3.2,2.43,1.55,7.082646371568956,3.541323185784478,Cardiff-Burnley | 30/09/2018
-06/10/2018,Burnley,Huddersfield,"['1 ', ' 1']",2.14,3.1,4.2,2.55,1.51,0.2727170243807251,0.13635851219036255,Burnley-Huddersfield | 06/10/2018
-06/10/2018,Crystal Palace,Wolverhampton Wanderers,"['0 ', ' 1']",3.0,3.2,2.62,2.23,1.65,-5.19510625547457,-2.597553127737285,Crystal Palace-Wolverhampton Wanderers | 06/10/2018
-07/10/2018,Liverpool,Manchester City,"['0 ', ' 0']",2.54,3.6,2.8,1.62,2.29,-36.81923683164816,-18.40961841582408,Liverpool-Manchester City | 07/10/2018
-20/10/2018,Chelsea,Manchester United,"['2 ', ' 2']",1.75,3.8,5.25,1.78,2.04,-20.1217705568736,-10.0608852784368,Chelsea-Manchester United | 20/10/2018
-20/10/2018,Bournemouth,Southampton,"['0 ', ' 0']",2.04,3.7,3.75,1.79,2.03,-21.357746912526792,-10.678873456263396,Bournemouth-Southampton | 20/10/2018
-27/10/2018,Southampton,Newcastle United,"['0 ', ' 0']",2.1,3.4,3.9,2.31,1.61,-33.94431475144464,-16.97215737572232,Southampton-Newcastle United | 27/10/2018
-03/11/2018,Cardiff,Leicester,"['0 ', ' 1']",3.8,3.4,2.14,2.1,1.74,-39.65425870442597,-19.827129352212985,Cardiff-Leicester | 03/11/2018
-03/11/2018,West Ham,Burnley,"['4 ', ' 2']",1.75,3.75,5.25,2.01,1.81,-37.07797917086086,-18.53898958543043,West Ham-Burnley | 03/11/2018
-10/11/2018,Cardiff,Brighton,"['2 ', ' 1']",2.6,3.1,3.1,2.45,1.55,-30.53038889159511,-15.265194445797555,Cardiff-Brighton | 10/11/2018
-10/11/2018,Southampton,Watford,"['1 ', ' 1']",2.5,3.3,3.1,2.06,1.77,-33.67516568813542,-16.83758284406771,Southampton-Watford | 10/11/2018
-25/11/2018,Wolverhampton Wanderers,Huddersfield,"['0 ', ' 2']",1.5,4.33,8.0,2.27,1.63,-41.8332698749594,-20.9166349374797,Wolverhampton Wanderers-Huddersfield | 25/11/2018
-30/11/2018,Cardiff,Wolverhampton Wanderers,"['2 ', ' 1']",3.8,3.25,2.2,2.38,1.59,-34.01910306448784,-17.00955153224392,Cardiff-Wolverhampton Wanderers | 30/11/2018
-01/12/2018,Southampton,Manchester United,"['2 ', ' 2']",4.33,3.6,1.95,1.89,1.92,-24.0203009311569,-12.010150465578448,Southampton-Manchester United | 01/12/2018
-04/12/2018,Bournemouth,Huddersfield,"['2 ', ' 1']",1.66,3.8,6.0,1.92,1.89,-15.80457338434286,-7.90228669217143,Bournemouth-Huddersfield | 04/12/2018
-05/12/2018,Everton,Newcastle United,"['1 ', ' 1']",1.6,4.0,6.5,1.95,1.86,-23.466282747088556,-11.733141373544278,Everton-Newcastle United | 05/12/2018
-08/12/2018,Cardiff,Southampton,"['1 ', ' 0']",2.9,3.25,2.7,2.15,1.71,-30.475468215799722,-15.237734107899861,Cardiff-Southampton | 08/12/2018
-08/12/2018,Chelsea,Manchester City,"['2 ', ' 0']",4.0,3.8,1.95,1.69,2.17,-45.51984300886884,-22.75992150443442,Chelsea-Manchester City | 08/12/2018
-09/12/2018,Newcastle United,Wolverhampton Wanderers,"['1 ', ' 2']",2.9,3.2,2.7,2.37,1.58,-37.42021628464595,-18.710108142322976,Newcastle United-Wolverhampton Wanderers | 09/12/2018
-15/12/2018,Manchester City,Everton,"['3 ', ' 1']",1.22,7.5,13.0,1.38,2.98,-36.58216978221497,-18.291084891107484,Manchester City-Everton | 15/12/2018
-15/12/2018,Crystal Palace,Leicester,"['1 ', ' 0']",2.62,3.2,3.0,2.34,1.6,-54.02619104885926,-27.01309552442963,Crystal Palace-Leicester | 15/12/2018
-15/12/2018,Huddersfield,Newcastle United,"['0 ', ' 1']",2.6,3.1,3.1,2.57,1.5,-63.12132015546684,-31.56066007773342,Huddersfield-Newcastle United | 15/12/2018
-16/12/2018,Liverpool,Manchester United,"['3 ', ' 1']",1.57,4.5,6.0,1.68,2.18,-47.97794259667161,-23.988971298335805,Liverpool-Manchester United | 16/12/2018
-22/12/2018,Huddersfield,Southampton,"['1 ', ' 3']",3.1,3.1,2.6,2.4,1.57,-28.04181767980222,-14.02090883990111,Huddersfield-Southampton | 22/12/2018
-26/12/2018,Watford,Chelsea,"['1 ', ' 2']",5.25,3.8,1.75,1.74,2.1,-26.87938491296451,-13.439692456482256,Watford-Chelsea | 26/12/2018
-29/12/2018,Fulham,Huddersfield,"['1 ', ' 0']",2.0,3.4,3.75,2.29,1.62,-28.73447549660429,-14.367237748302145,Fulham-Huddersfield | 29/12/2018
-29/12/2018,Watford,Newcastle United,"['1 ', ' 1']",1.85,3.6,4.0,1.99,1.83,-43.27408842947677,-21.637044214738385,Watford-Newcastle United | 29/12/2018
-02/01/2019,Huddersfield,Burnley,"['1 ', ' 2']",2.14,3.1,4.2,2.45,1.55,-30.009638028579943,-15.004819014289971,Huddersfield-Burnley | 02/01/2019
-12/01/2019,Cardiff,Huddersfield,"['0 ', ' 0']",2.25,3.25,3.6,2.5,1.54,-35.93196173840329,-17.965980869201644,Cardiff-Huddersfield | 12/01/2019
-12/01/2019,Crystal Palace,Watford,"['1 ', ' 2']",2.25,3.4,3.5,2.09,1.75,-34.585560625436116,-17.292780312718058,Crystal Palace-Watford | 12/01/2019
-19/01/2019,Arsenal,Chelsea,"['2 ', ' 0']",3.1,3.6,2.37,1.67,2.21,-39.82712646112003,-19.913563230560015,Arsenal-Chelsea | 19/01/2019
-29/01/2019,Fulham,Brighton,"['4 ', ' 2']",2.37,3.3,3.3,2.23,1.66,-34.40559405508151,-17.202797027540754,Fulham-Brighton | 29/01/2019
-02/02/2019,Brighton,Watford,"['0 ', ' 0']",2.55,3.3,3.0,2.17,1.7,-38.975853362697265,-19.487926681348632,Brighton-Watford | 02/02/2019
-02/02/2019,Burnley,Southampton,"['1 ', ' 1']",2.55,3.5,2.87,2.06,1.77,-42.30440676348894,-21.15220338174447,Burnley-Southampton | 02/02/2019
-09/02/2019,Brighton,Burnley,"['1 ', ' 3']",2.05,3.3,4.2,2.29,1.63,-34.28126551123631,-17.140632755618157,Brighton-Burnley | 09/02/2019
-10/02/2019,Tottenham,Leicester,"['3 ', ' 1']",1.7,3.9,5.5,1.81,2.02,-29.641312926402364,-14.820656463201182,Tottenham-Leicester | 10/02/2019
-10/02/2019,Manchester City,Chelsea,"['6 ', ' 0']",1.5,4.75,7.0,1.62,2.29,-14.557614713652383,-7.278807356826192,Manchester City-Chelsea | 10/02/2019
-23/02/2019,Bournemouth,Wolverhampton Wanderers,"['1 ', ' 1']",2.87,3.4,2.62,2.06,1.78,-22.284929505295594,-11.142464752647797,Bournemouth-Wolverhampton Wanderers | 23/02/2019
-23/02/2019,Newcastle United,Huddersfield,"['2 ', ' 0']",1.83,3.5,5.25,2.47,1.55,-31.001495736236876,-15.500747868118438,Newcastle United-Huddersfield | 23/02/2019
-24/02/2019,Arsenal,Southampton,"['2 ', ' 0']",1.5,4.75,7.0,1.6,2.32,-35.312752312823505,-17.656376156411753,Arsenal-Southampton | 24/02/2019
-24/02/2019,Manchester United,Liverpool,"['0 ', ' 0']",3.1,3.5,2.37,1.79,2.03,-56.64491653296595,-28.322458266482975,Manchester United-Liverpool | 24/02/2019
-26/02/2019,Huddersfield,Wolverhampton Wanderers,"['1 ', ' 0']",5.0,3.5,1.85,2.44,1.56,-61.42910822860379,-30.714554114301897,Huddersfield-Wolverhampton Wanderers | 26/02/2019
-26/02/2019,Leicester,Brighton,"['2 ', ' 1']",1.9,3.5,4.6,2.21,1.68,-40.462303323657245,-20.231151661828623,Leicester-Brighton | 26/02/2019
-26/02/2019,Newcastle United,Burnley,"['2 ', ' 0']",2.15,3.3,3.9,2.34,1.61,-44.26909330102356,-22.13454665051178,Newcastle United-Burnley | 26/02/2019
-27/02/2019,Crystal Palace,Manchester United,"['1 ', ' 3']",3.25,3.5,2.3,1.88,1.94,-39.447376931377946,-19.723688465688973,Crystal Palace-Manchester United | 27/02/2019
-27/02/2019,Chelsea,Tottenham,"['2 ', ' 0']",2.3,3.5,3.25,1.84,1.98,-63.968905555037736,-31.984452777518868,Chelsea-Tottenham | 27/02/2019
-27/02/2019,Liverpool,Watford,"['5 ', ' 0']",1.28,6.0,12.0,1.54,2.48,-61.72271472167627,-30.861357360838134,Liverpool-Watford | 27/02/2019
-02/03/2019,Brighton,Huddersfield,"['1 ', ' 0']",1.85,3.4,5.25,2.48,1.55,-83.06912369953005,-41.53456184976502,Brighton-Huddersfield | 02/03/2019
-02/03/2019,Manchester United,Southampton,"['3 ', ' 2']",1.45,4.5,8.5,1.69,2.19,-80.03906159518058,-40.01953079759029,Manchester United-Southampton | 02/03/2019
-09/03/2019,Crystal Palace,Brighton,"['1 ', ' 2']",1.83,3.6,5.0,2.17,1.7,-66.66060707829195,-33.33030353914597,Crystal Palace-Brighton | 09/03/2019
-09/03/2019,Leicester,Fulham,"['3 ', ' 1']",1.57,4.5,6.0,1.69,2.19,-60.82414110121733,-30.412070550608664,Leicester-Fulham | 09/03/2019
-09/03/2019,Newcastle United,Everton,"['3 ', ' 2']",2.8,3.25,2.8,2.36,1.6,-41.93049910868278,-20.96524955434139,Newcastle United-Everton | 09/03/2019
-10/03/2019,Chelsea,Wolverhampton Wanderers,"['1 ', ' 1']",1.55,4.2,7.0,1.9,1.92,-63.37696932323514,-31.68848466161757,Chelsea-Wolverhampton Wanderers | 10/03/2019
-16/03/2019,Bournemouth,Newcastle United,"['2 ', ' 2']",2.05,3.6,3.8,2.01,1.82,-61.21136813170131,-30.605684065850657,Bournemouth-Newcastle United | 16/03/2019
-16/03/2019,West Ham,Huddersfield,"['4 ', ' 3']",1.55,4.2,7.0,1.98,1.85,-46.735471600544976,-23.36773580027249,West Ham-Huddersfield | 16/03/2019
-30/03/2019,Brighton,Southampton,"['0 ', ' 1']",2.55,3.2,3.1,2.44,1.56,-74.29012482570246,-37.14506241285123,Brighton-Southampton | 30/03/2019
-30/03/2019,Burnley,Wolverhampton Wanderers,"['2 ', ' 0']",3.2,3.25,2.45,2.3,1.63,-86.24715677422726,-43.12357838711363,Burnley-Wolverhampton Wanderers | 30/03/2019
-30/03/2019,Crystal Palace,Huddersfield,"['2 ', ' 0']",1.45,4.4,9.0,2.15,1.72,-112.22001637425221,-56.110008187126105,Crystal Palace-Huddersfield | 30/03/2019
-30/03/2019,West Ham,Everton,"['0 ', ' 2']",2.55,3.5,2.9,1.79,2.04,-114.54835068830134,-57.27417534415067,West Ham-Everton | 30/03/2019
-31/03/2019,Liverpool,Tottenham,"['2 ', ' 1']",1.61,4.2,6.0,1.68,2.21,-105.41779121862345,-52.708895609311725,Liverpool-Tottenham | 31/03/2019
-03/04/2019,Chelsea,Brighton,"['3 ', ' 0']",1.25,6.5,15.0,1.7,2.16,-99.75648745605709,-49.87824372802855,Chelsea-Brighton | 03/04/2019
-06/04/2019,Newcastle United,Crystal Palace,"['0 ', ' 1']",2.6,3.25,3.0,2.26,1.65,-109.95848005133931,-54.97924002566965,Newcastle United-Crystal Palace | 06/04/2019
-14/04/2019,Liverpool,Chelsea,"['2 ', ' 0']",1.66,4.2,5.25,1.77,2.06,-120.18742087766174,-60.09371043883087,Liverpool-Chelsea | 14/04/2019
-20/04/2019,Wolverhampton Wanderers,Brighton,"['0 ', ' 0']",1.75,3.5,6.0,2.38,1.59,-130.0228928556083,-65.01144642780415,Wolverhampton Wanderers-Brighton | 20/04/2019
-20/04/2019,Newcastle United,Southampton,"['3 ', ' 1']",2.55,3.2,3.1,2.34,1.6,-106.30911346955763,-53.154556734778815,Newcastle United-Southampton | 20/04/2019
-21/04/2019,Everton,Manchester United,"['4 ', ' 0']",3.25,3.5,2.3,1.86,1.95,-101.62430768631471,-50.81215384315736,Everton-Manchester United | 21/04/2019
-24/04/2019,Manchester United,Manchester City,"['0 ', ' 2']",7.5,5.0,1.44,1.52,2.54,-107.59345268049228,-53.79672634024614,Manchester United-Manchester City | 24/04/2019
-27/04/2019,Crystal Palace,Everton,"['0 ', ' 0']",2.62,3.5,2.8,1.94,1.88,-110.33243949320658,-55.16621974660329,Crystal Palace-Everton | 27/04/2019
-27/04/2019,Watford,Wolverhampton Wanderers,"['1 ', ' 2']",2.62,3.3,2.9,2.19,1.68,-107.20138819836069,-53.600694099180345,Watford-Wolverhampton Wanderers | 27/04/2019
-28/04/2019,Manchester United,Chelsea,"['1 ', ' 1']",2.7,3.5,2.7,1.85,1.97,-116.51561911652287,-58.257809558261435,Manchester United-Chelsea | 28/04/2019
-05/05/2019,Chelsea,Watford,"['3 ', ' 0']",1.4,5.25,8.0,1.6,2.34,-115.19750484630892,-57.59875242315446,Chelsea-Watford | 05/05/2019
-12/05/2019,Tottenham,Everton,"['2 ', ' 2']",2.2,3.5,3.5,1.76,2.07,-112.15166617207512,-56.07583308603756,Tottenham-Everton | 12/05/2019
+29/09/2018,Chelsea,Liverpool,"['1 ', ' 1']",2.8,3.6,2.54,1.64,2.25,-6.193382771629047,-3.0966913858145233,Chelsea-Liverpool | 29/09/2018
+07/10/2018,Liverpool,Manchester City,"['0 ', ' 0']",2.54,3.6,2.8,1.62,2.29,-37.39101571310597,-18.695507856552986,Liverpool-Manchester City | 07/10/2018
+20/10/2018,Chelsea,Manchester United,"['2 ', ' 2']",1.75,3.8,5.25,1.78,2.04,-20.898475486763672,-10.449237743381836,Chelsea-Manchester United | 20/10/2018
+20/10/2018,Bournemouth,Southampton,"['0 ', ' 0']",2.04,3.7,3.75,1.79,2.03,-22.16119355274283,-11.080596776371415,Bournemouth-Southampton | 20/10/2018
+27/10/2018,Southampton,Newcastle United,"['0 ', ' 0']",2.1,3.4,3.9,2.31,1.61,-34.283895859449274,-17.141947929724637,Southampton-Newcastle United | 27/10/2018
+03/11/2018,Cardiff,Leicester,"['0 ', ' 1']",3.8,3.4,2.14,2.1,1.74,-40.016160695066205,-20.008080347533102,Cardiff-Leicester | 03/11/2018
+03/11/2018,West Ham,Burnley,"['4 ', ' 2']",1.75,3.75,5.25,2.01,1.81,-37.24366175833024,-18.62183087916512,West Ham-Burnley | 03/11/2018
+10/11/2018,Southampton,Watford,"['1 ', ' 1']",2.5,3.3,3.1,2.06,1.77,-40.16995716832946,-20.08497858416473,Southampton-Watford | 10/11/2018
+01/12/2018,Southampton,Manchester United,"['2 ', ' 2']",4.33,3.6,1.95,1.89,1.92,-30.14862967894655,-15.074314839473274,Southampton-Manchester United | 01/12/2018
+04/12/2018,Bournemouth,Huddersfield,"['2 ', ' 1']",1.66,3.8,6.0,1.92,1.89,-21.94968137037276,-10.97484068518638,Bournemouth-Huddersfield | 04/12/2018
+05/12/2018,Everton,Newcastle United,"['1 ', ' 1']",1.6,4.0,6.5,1.95,1.86,-29.583985613333752,-14.791992806666876,Everton-Newcastle United | 05/12/2018
+08/12/2018,Cardiff,Southampton,"['1 ', ' 0']",2.9,3.25,2.7,2.15,1.71,-36.32119746557658,-18.16059873278829,Cardiff-Southampton | 08/12/2018
+08/12/2018,Chelsea,Manchester City,"['2 ', ' 0']",4.0,3.8,1.95,1.69,2.17,-51.24067483526344,-25.620337417631724,Chelsea-Manchester City | 08/12/2018
+15/12/2018,Manchester City,Everton,"['3 ', ' 1']",1.22,7.5,13.0,1.38,2.98,-50.46483193756443,-25.232415968782217,Manchester City-Everton | 15/12/2018
+15/12/2018,Crystal Palace,Leicester,"['1 ', ' 0']",2.62,3.2,3.0,2.34,1.6,-68.2848316644593,-34.14241583222965,Crystal Palace-Leicester | 15/12/2018
+16/12/2018,Liverpool,Manchester United,"['3 ', ' 1']",1.57,4.5,6.0,1.68,2.18,-53.327291027876825,-26.663645513938413,Liverpool-Manchester United | 16/12/2018
+26/12/2018,Watford,Chelsea,"['1 ', ' 2']",5.25,3.8,1.75,1.74,2.1,-51.90999330817871,-25.954996654089356,Watford-Chelsea | 26/12/2018
+29/12/2018,Watford,Newcastle United,"['1 ', ' 1']",1.85,3.6,4.0,1.99,1.83,-66.85141645149932,-33.42570822574966,Watford-Newcastle United | 29/12/2018
+19/01/2019,Arsenal,Chelsea,"['2 ', ' 0']",3.1,3.6,2.37,1.67,2.21,-72.30537302923804,-36.15268651461902,Arsenal-Chelsea | 19/01/2019
+02/02/2019,Burnley,Southampton,"['1 ', ' 1']",2.55,3.5,2.87,2.06,1.77,-75.82151942571912,-37.91075971285956,Burnley-Southampton | 02/02/2019
+03/02/2019,Leicester,Manchester United,"['0 ', ' 1']",3.6,3.5,2.15,1.81,2.02,-77.11534268620622,-38.55767134310311,Leicester-Manchester United | 03/02/2019
+10/02/2019,Tottenham,Leicester,"['3 ', ' 1']",1.7,3.9,5.5,1.81,2.02,-72.634673954845,-36.3173369774225,Tottenham-Leicester | 10/02/2019
+10/02/2019,Manchester City,Chelsea,"['6 ', ' 0']",1.5,4.75,7.0,1.62,2.29,-57.778710237094984,-28.889355118547492,Manchester City-Chelsea | 10/02/2019
+23/02/2019,Bournemouth,Wolverhampton Wanderers,"['1 ', ' 1']",2.87,3.4,2.62,2.06,1.78,-65.65172257839028,-32.82586128919514,Bournemouth-Wolverhampton Wanderers | 23/02/2019
+24/02/2019,Arsenal,Southampton,"['2 ', ' 0']",1.5,4.75,7.0,1.6,2.32,-69.79073475117879,-34.895367375589394,Arsenal-Southampton | 24/02/2019
+24/02/2019,Manchester United,Liverpool,"['0 ', ' 0']",3.1,3.5,2.37,1.79,2.03,-90.72358219492935,-45.361791097464675,Manchester United-Liverpool | 24/02/2019
+26/02/2019,Leicester,Brighton,"['2 ', ' 1']",1.9,3.5,4.6,2.21,1.68,-69.53590035723087,-34.767950178615436,Leicester-Brighton | 26/02/2019
+27/02/2019,Crystal Palace,Manchester United,"['1 ', ' 3']",3.25,3.5,2.3,1.88,1.94,-64.17068102828244,-32.08534051414122,Crystal Palace-Manchester United | 27/02/2019
+27/02/2019,Chelsea,Tottenham,"['2 ', ' 0']",2.3,3.5,3.25,1.84,1.98,-88.2971424722725,-44.14857123613625,Chelsea-Tottenham | 27/02/2019
+27/02/2019,Liverpool,Watford,"['5 ', ' 0']",1.28,6.0,12.0,1.54,2.48,-85.93259911193203,-42.96629955596602,Liverpool-Watford | 27/02/2019
+02/03/2019,Brighton,Huddersfield,"['1 ', ' 0']",1.85,3.4,5.25,2.48,1.55,-106.99492946923122,-53.49746473461561,Brighton-Huddersfield | 02/03/2019
+02/03/2019,Manchester United,Southampton,"['3 ', ' 2']",1.45,4.5,8.5,1.69,2.19,-103.91177755528368,-51.95588877764184,Manchester United-Southampton | 02/03/2019
+09/03/2019,Crystal Palace,Brighton,"['1 ', ' 2']",1.83,3.6,5.0,2.17,1.7,-90.83154346618717,-45.415771733093585,Crystal Palace-Brighton | 09/03/2019
+09/03/2019,Leicester,Fulham,"['3 ', ' 1']",1.57,4.5,6.0,1.69,2.19,-84.98289408671275,-42.491447043356374,Leicester-Fulham | 09/03/2019
+09/03/2019,Newcastle United,Everton,"['3 ', ' 2']",2.8,3.25,2.8,2.36,1.6,-66.20793491041633,-33.10396745520816,Newcastle United-Everton | 09/03/2019
+10/03/2019,Chelsea,Wolverhampton Wanderers,"['1 ', ' 1']",1.55,4.2,7.0,1.9,1.92,-87.58813649233934,-43.79406824616967,Chelsea-Wolverhampton Wanderers | 10/03/2019
+16/03/2019,Bournemouth,Newcastle United,"['2 ', ' 2']",2.05,3.6,3.8,2.01,1.82,-85.1704642168872,-42.5852321084436,Bournemouth-Newcastle United | 16/03/2019
+16/03/2019,West Ham,Huddersfield,"['4 ', ' 3']",1.55,4.2,7.0,1.98,1.85,-71.38488970096422,-35.69244485048211,West Ham-Huddersfield | 16/03/2019
+30/03/2019,Brighton,Southampton,"['0 ', ' 1']",2.55,3.2,3.1,2.44,1.56,-98.7434042187328,-49.37170210936641,Brighton-Southampton | 30/03/2019
+30/03/2019,Burnley,Wolverhampton Wanderers,"['2 ', ' 0']",3.2,3.25,2.45,2.3,1.63,-111.0217400508455,-55.51087002542275,Burnley-Wolverhampton Wanderers | 30/03/2019
+30/03/2019,Crystal Palace,Huddersfield,"['2 ', ' 0']",1.45,4.4,9.0,2.15,1.72,-136.9753812113974,-68.4876906056987,Crystal Palace-Huddersfield | 30/03/2019
+30/03/2019,West Ham,Everton,"['0 ', ' 2']",2.55,3.5,2.9,1.79,2.04,-138.77726431237022,-69.38863215618511,West Ham-Everton | 30/03/2019
+31/03/2019,Liverpool,Tottenham,"['2 ', ' 1']",1.61,4.2,6.0,1.68,2.21,-129.6381686957982,-64.8190843478991,Liverpool-Tottenham | 31/03/2019
+03/04/2019,Chelsea,Brighton,"['3 ', ' 0']",1.25,6.5,15.0,1.7,2.16,-124.3149919928603,-62.15749599643016,Chelsea-Brighton | 03/04/2019
+14/04/2019,Liverpool,Chelsea,"['2 ', ' 0']",1.66,4.2,5.25,1.77,2.06,-134.7067643769306,-67.3533821884653,Liverpool-Chelsea | 14/04/2019
+20/04/2019,Newcastle United,Southampton,"['3 ', ' 1']",2.55,3.2,3.1,2.34,1.6,-110.57753597775557,-55.288767988877794,Newcastle United-Southampton | 20/04/2019
+21/04/2019,Everton,Manchester United,"['4 ', ' 0']",3.25,3.5,2.3,1.86,1.95,-105.62988400423778,-52.81494200211888,Everton-Manchester United | 21/04/2019
+24/04/2019,Manchester United,Manchester City,"['0 ', ' 2']",7.5,5.0,1.44,1.52,2.54,-110.95911210955356,-55.47955605477678,Manchester United-Manchester City | 24/04/2019
+27/04/2019,Crystal Palace,Everton,"['0 ', ' 0']",2.62,3.5,2.8,1.94,1.88,-113.98206593717875,-56.99103296858937,Crystal Palace-Everton | 27/04/2019
+28/04/2019,Manchester United,Chelsea,"['1 ', ' 1']",2.7,3.5,2.7,1.85,1.97,-123.18640102135603,-61.59320051067802,Manchester United-Chelsea | 28/04/2019
+05/05/2019,Chelsea,Watford,"['3 ', ' 0']",1.4,5.25,8.0,1.6,2.34,-121.89182653651034,-60.94591326825517,Chelsea-Watford | 05/05/2019
+12/05/2019,Tottenham,Everton,"['2 ', ' 2']",2.2,3.5,3.5,1.76,2.07,-118.52252108302649,-59.261260541513245,Tottenham-Everton | 12/05/2019
