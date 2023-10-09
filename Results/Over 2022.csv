@@ -1,117 +1,107 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-03/09/2022,Newcastle United,Crystal Palace,"['0 ', ' 0']",2.0,3.5,3.75,2.0,1.8,-26.619296282309705,-13.309648141154852,Newcastle United-Crystal Palace | 03/09/2022
-03/09/2022,Wolverhampton Wanderers,Southampton,"['1 ', ' 0']",2.2,3.4,3.25,2.04,1.86,-32.53935204208079,-16.269676021040397,Wolverhampton Wanderers-Southampton | 03/09/2022
-04/09/2022,Manchester United,Arsenal,"['3 ', ' 1']",2.5,3.5,2.7,1.66,2.2,-31.41670145870843,-15.708350729354216,Manchester United-Arsenal | 04/09/2022
-16/09/2022,Aston Villa,Southampton,"['1 ', ' 0']",2.1,3.5,3.5,1.88,2.02,-32.56537723574023,-16.282688617870114,Aston Villa-Southampton | 16/09/2022
-17/09/2022,Newcastle United,Bournemouth,"['1 ', ' 1']",1.44,4.4,7.5,1.87,2.03,-48.19266701683612,-24.096333508418063,Newcastle United-Bournemouth | 17/09/2022
-01/10/2022,Arsenal,Tottenham,"['3 ', ' 1']",2.05,3.75,3.3,1.72,2.1,-37.314655042510886,-18.657327521255443,Arsenal-Tottenham | 01/10/2022
-01/10/2022,Liverpool,Brighton,"['3 ', ' 3']",1.33,5.25,8.5,1.53,2.5,-25.360484452268423,-12.680242226134212,Liverpool-Brighton | 01/10/2022
-08/10/2022,Newcastle United,Brentford,"['5 ', ' 1']",1.83,3.8,4.2,1.72,2.1,-13.072896832538618,-6.536448416269309,Newcastle United-Brentford | 08/10/2022
-09/10/2022,Arsenal,Liverpool,"['3 ', ' 2']",2.5,3.6,2.62,1.57,2.37,-9.441844532866071,-4.7209222664330355,Arsenal-Liverpool | 09/10/2022
-14/10/2022,Brentford,Brighton,"['2 ', ' 0']",3.1,3.4,2.3,1.97,1.93,-17.569192361902296,-8.784596180951148,Brentford-Brighton | 14/10/2022
-15/10/2022,Leicester,Crystal Palace,"['0 ', ' 0']",2.3,3.4,3.1,1.89,2.01,-21.831210135841644,-10.915605067920822,Leicester-Crystal Palace | 15/10/2022
-16/10/2022,Manchester United,Newcastle United,"['0 ', ' 0']",1.95,3.8,3.5,1.72,2.1,-32.020466086955324,-16.010233043477662,Manchester United-Newcastle United | 16/10/2022
-16/10/2022,Liverpool,Manchester City,"['1 ', ' 0']",3.6,4.0,1.9,1.44,2.75,-46.162827354487526,-23.081413677243763,Liverpool-Manchester City | 16/10/2022
-19/10/2022,Brentford,Chelsea,"['0 ', ' 0']",4.75,3.8,1.72,1.88,2.02,-47.33653543881138,-23.66826771940569,Brentford-Chelsea | 19/10/2022
-19/10/2022,Newcastle United,Everton,"['1 ', ' 0']",1.6,3.8,5.75,1.92,1.98,-71.33044899527627,-35.665224497638135,Newcastle United-Everton | 19/10/2022
-22/10/2022,Chelsea,Manchester United,"['1 ', ' 1']",2.05,3.5,3.5,1.91,1.99,-82.25688764162345,-41.128443820811725,Chelsea-Manchester United | 22/10/2022
-23/10/2022,Tottenham,Newcastle United,"['1 ', ' 2']",2.05,3.5,3.5,1.92,1.98,-73.38182921439724,-36.69091460719862,Tottenham-Newcastle United | 23/10/2022
-29/10/2022,Bournemouth,Tottenham,"['2 ', ' 3']",5.0,3.8,1.7,1.96,1.94,-71.94417177581158,-35.97208588790579,Bournemouth-Tottenham | 29/10/2022
-29/10/2022,Brentford,Wolverhampton Wanderers,"['1 ', ' 1']",2.2,3.4,3.3,2.01,1.89,-79.3309231697099,-39.66546158485495,Brentford-Wolverhampton Wanderers | 29/10/2022
-29/10/2022,Brighton,Chelsea,"['4 ', ' 1']",3.0,3.3,2.4,2.1,1.72,-49.98379169552865,-24.991895847764326,Brighton-Chelsea | 29/10/2022
-29/10/2022,Newcastle United,Aston Villa,"['4 ', ' 0']",1.8,3.75,4.5,1.94,1.96,-32.46840697460907,-16.234203487304534,Newcastle United-Aston Villa | 29/10/2022
-05/11/2022,Wolverhampton Wanderers,Brighton,"['2 ', ' 3']",3.3,3.3,2.25,2.1,1.72,-22.4405932541936,-11.2202966270968,Wolverhampton Wanderers-Brighton | 05/11/2022
-06/11/2022,Chelsea,Arsenal,"['0 ', ' 1']",2.55,3.4,2.7,1.93,1.97,-35.31656892535342,-17.65828446267671,Chelsea-Arsenal | 06/11/2022
-06/11/2022,Southampton,Newcastle United,"['1 ', ' 4']",4.0,3.6,1.9,1.95,1.95,-29.47083496099735,-14.735417480498676,Southampton-Newcastle United | 06/11/2022
-12/11/2022,Newcastle United,Chelsea,"['1 ', ' 0']",2.35,3.4,3.0,1.98,1.92,-47.71649440436276,-23.858247202181385,Newcastle United-Chelsea | 12/11/2022
-13/11/2022,Brighton,Aston Villa,"['1 ', ' 2']",1.83,3.75,4.2,1.96,1.94,-19.91089555088088,-9.95544777544044,Brighton-Aston Villa | 13/11/2022
-26/12/2022,Everton,Wolverhampton Wanderers,"['1 ', ' 2']",2.3,3.25,3.2,2.2,1.67,-0.3814594188400946,-0.1907297094200473,Everton-Wolverhampton Wanderers | 26/12/2022
-26/12/2022,Southampton,Brighton,"['1 ', ' 3']",3.3,3.5,2.15,1.94,1.96,7.397942967112499,3.6989714835562495,Southampton-Brighton | 26/12/2022
-31/12/2022,Manchester City,Everton,"['1 ', ' 1']",1.13,9.0,19.0,1.36,3.2,4.48747373875463,2.243736869377315,Manchester City-Everton | 31/12/2022
-31/12/2022,Brighton,Arsenal,"['2 ', ' 4']",3.4,3.5,2.1,1.89,2.04,20.78681665854492,10.39340832927246,Brighton-Arsenal | 31/12/2022
-03/01/2023,Everton,Brighton,"['1 ', ' 4']",3.5,3.5,2.1,2.02,1.88,29.544832661005984,14.772416330502992,Everton-Brighton | 03/01/2023
-14/01/2023,Manchester United,Manchester City,"['2 ', ' 1']",4.2,3.6,1.85,1.73,2.1,37.37772629304371,18.688863146521854,Manchester United-Manchester City | 14/01/2023
-18/01/2023,Crystal Palace,Manchester United,"['1 ', ' 1']",4.5,3.6,1.8,1.97,1.93,33.694823599009425,16.847411799504712,Crystal Palace-Manchester United | 18/01/2023
-21/01/2023,Liverpool,Chelsea,"['0 ', ' 0']",1.85,3.75,4.0,1.73,2.1,26.998274124479863,13.499137062239932,Liverpool-Chelsea | 21/01/2023
-22/01/2023,Arsenal,Manchester United,"['3 ', ' 2']",1.8,3.8,4.2,1.73,2.1,30.681543383225545,15.340771691612773,Arsenal-Manchester United | 22/01/2023
-04/02/2023,Manchester United,Crystal Palace,"['2 ', ' 1']",1.4,4.75,8.0,1.88,2.02,47.06975301889702,23.53487650944851,Manchester United-Crystal Palace | 04/02/2023
-11/02/2023,Arsenal,Brentford,"['1 ', ' 1']",1.44,4.75,7.0,1.73,2.1,38.53886114210758,19.26943057105379,Arsenal-Brentford | 11/02/2023
-11/02/2023,Bournemouth,Newcastle United,"['1 ', ' 1']",6.5,4.0,1.53,2.04,1.86,34.52888288840714,17.26444144420357,Bournemouth-Newcastle United | 11/02/2023
-13/02/2023,Liverpool,Everton,"['2 ', ' 0']",1.5,4.33,6.5,1.73,2.1,30.57468066251704,15.28734033125852,Liverpool-Everton | 13/02/2023
-15/02/2023,Arsenal,Manchester City,"['1 ', ' 3']",2.9,3.5,2.35,1.88,2.02,57.05117830702184,28.52558915351092,Arsenal-Manchester City | 15/02/2023
-18/02/2023,Aston Villa,Arsenal,"['2 ', ' 4']",4.5,3.6,1.5,2.02,1.88,69.53332796132125,34.766663980660624,Aston Villa-Arsenal | 18/02/2023
-18/02/2023,Brentford,Crystal Palace,"['1 ', ' 1']",1.83,3.5,4.5,2.1,1.73,60.28133542983687,30.140667714918436,Brentford-Crystal Palace | 18/02/2023
-18/02/2023,Brighton,Fulham,"['0 ', ' 1']",1.65,3.8,5.5,1.73,2.1,54.10476933545826,27.05238466772913,Brighton-Fulham | 18/02/2023
-26/02/2023,Tottenham,Chelsea,"['2 ', ' 0']",2.55,3.25,2.9,2.08,1.82,48.42795487157892,24.21397743578946,Tottenham-Chelsea | 26/02/2023
-01/03/2023,Arsenal,Everton,"['4 ', ' 0']",1.36,4.75,10.0,1.85,2.05,61.747948614990946,30.873974307495473,Arsenal-Everton | 01/03/2023
-04/03/2023,Manchester City,Newcastle United,"['2 ', ' 0']",1.45,4.5,7.0,1.73,2.1,56.555588775269996,28.277794387634998,Manchester City-Newcastle United | 04/03/2023
-04/03/2023,Aston Villa,Crystal Palace,"['1 ', ' 0']",2.05,3.3,3.8,2.3,1.62,44.99294866659067,22.49647433329534,Aston Villa-Crystal Palace | 04/03/2023
-04/03/2023,Brighton,West Ham,"['4 ', ' 0']",1.8,3.6,4.5,1.95,1.95,60.949840008105014,30.474920004052507,Brighton-West Ham | 04/03/2023
-04/03/2023,Chelsea,Leeds,"['1 ', ' 0']",1.62,4.0,5.5,1.95,1.95,59.90771210903722,29.95385605451861,Chelsea-Leeds | 04/03/2023
-06/03/2023,Brentford,Fulham,"['3 ', ' 2']",1.95,3.6,3.75,1.94,1.96,66.29267973815257,33.146339869076286,Brentford-Fulham | 06/03/2023
-11/03/2023,Everton,Brentford,"['1 ', ' 0']",2.7,3.25,2.7,2.2,1.67,48.56570431799156,24.28285215899578,Everton-Brentford | 11/03/2023
-11/03/2023,Leicester,Chelsea,"['1 ', ' 3']",3.75,3.5,1.95,2.02,1.91,54.75263964770738,27.37631982385369,Leicester-Chelsea | 11/03/2023
-12/03/2023,Newcastle United,Wolverhampton Wanderers,"['2 ', ' 1']",1.65,3.75,5.5,2.2,1.67,74.23649717906116,37.11824858953058,Newcastle United-Wolverhampton Wanderers | 12/03/2023
-15/03/2023,Brighton,Crystal Palace,"['1 ', ' 0']",1.44,4.2,8.0,1.93,1.97,57.76065509738015,28.880327548690076,Brighton-Crystal Palace | 15/03/2023
-18/03/2023,Aston Villa,Bournemouth,"['3 ', ' 0']",1.7,3.8,5.0,1.97,1.93,69.7190205276022,34.8595102638011,Aston Villa-Bournemouth | 18/03/2023
-18/03/2023,Brentford,Leicester,"['1 ', ' 1']",1.91,3.6,3.75,1.89,2.01,59.20269494279873,29.601347471399365,Brentford-Leicester | 18/03/2023
-18/03/2023,Chelsea,Everton,"['2 ', ' 2']",1.5,4.2,7.5,2.1,1.73,69.45531636168087,34.727658180840436,Chelsea-Everton | 18/03/2023
-19/03/2023,Arsenal,Crystal Palace,"['4 ', ' 1']",1.25,5.5,15.0,1.73,2.1,91.40646732090218,45.70323366045109,Arsenal-Crystal Palace | 19/03/2023
-01/04/2023,Arsenal,Leeds,"['4 ', ' 1']",1.29,6.0,9.0,1.53,2.5,100.80507899215729,50.402539496078646,Arsenal-Leeds | 01/04/2023
-01/04/2023,Bournemouth,Fulham,"['2 ', ' 1']",2.55,3.3,2.8,2.0,1.8,104.7668893038778,52.3834446519389,Bournemouth-Fulham | 01/04/2023
-01/04/2023,Brighton,Brentford,"['3 ', ' 3']",1.67,4.0,5.0,1.73,2.1,109.75609347581857,54.87804673790929,Brighton-Brentford | 01/04/2023
-01/04/2023,Nottingham Forest,Wolverhampton Wanderers,"['1 ', ' 1']",3.0,3.1,2.55,2.38,1.57,95.88471627436064,47.94235813718032,Nottingham Forest-Wolverhampton Wanderers | 01/04/2023
-01/04/2023,Chelsea,Aston Villa,"['0 ', ' 2']",1.67,3.8,5.25,1.97,1.93,88.96928295462062,44.48464147731032,Chelsea-Aston Villa | 01/04/2023
-02/04/2023,West Ham,Southampton,"['1 ', ' 0']",1.73,3.6,5.0,2.0,1.8,87.62726438403438,43.81363219201718,West Ham-Southampton | 02/04/2023
-02/04/2023,Newcastle United,Manchester United,"['2 ', ' 0']",2.4,3.4,2.9,1.95,1.95,72.8572158592556,36.4286079296278,Newcastle United-Manchester United | 02/04/2023
-03/04/2023,Everton,Tottenham,"['1 ', ' 1']",3.4,3.3,2.2,2.1,1.73,68.10005386687763,34.050026933438815,Everton-Tottenham | 03/04/2023
-04/04/2023,Bournemouth,Brighton,"['0 ', ' 2']",6.0,4.2,1.53,1.8,2.0,65.44846597471508,32.72423298735754,Bournemouth-Brighton | 04/04/2023
-04/04/2023,Leicester,Aston Villa,"['1 ', ' 2']",2.55,3.3,2.75,1.99,1.91,77.21621152798042,38.60810576399021,Leicester-Aston Villa | 04/04/2023
-04/04/2023,Chelsea,Liverpool,"['0 ', ' 0']",2.2,3.4,3.25,1.95,1.95,63.16221976542182,31.581109882710905,Chelsea-Liverpool | 04/04/2023
-05/04/2023,Manchester United,Brentford,"['1 ', ' 0']",1.65,4.0,5.0,1.73,2.1,53.90785380990002,26.95392690495001,Manchester United-Brentford | 05/04/2023
-05/04/2023,West Ham,Newcastle United,"['1 ', ' 5']",3.6,3.25,2.15,2.1,1.73,59.598378214440885,29.799189107220442,West Ham-Newcastle United | 05/04/2023
-08/04/2023,Manchester United,Everton,"['2 ', ' 0']",1.5,4.33,6.5,1.86,2.04,49.13569974907429,24.567849874537146,Manchester United-Everton | 08/04/2023
-08/04/2023,Aston Villa,Nottingham Forest,"['2 ', ' 0']",1.6,4.2,5.25,1.94,1.96,44.54516612428486,22.27258306214243,Aston Villa-Nottingham Forest | 08/04/2023
-08/04/2023,Brentford,Newcastle United,"['1 ', ' 2']",3.6,3.4,2.05,2.03,1.87,65.41616980007413,32.708084900037065,Brentford-Newcastle United | 08/04/2023
-08/04/2023,Fulham,West Ham,"['0 ', ' 1']",2.8,3.25,2.63,2.2,1.67,56.201843924959206,28.100921962479603,Fulham-West Ham | 08/04/2023
-08/04/2023,Leicester,Bournemouth,"['0 ', ' 1']",1.83,3.75,4.2,1.88,2.02,47.45964362628512,23.729821813142564,Leicester-Bournemouth | 08/04/2023
-08/04/2023,Tottenham,Brighton,"['2 ', ' 1']",2.55,3.5,2.7,1.85,2.05,49.24588403526687,24.622942017633434,Tottenham-Brighton | 08/04/2023
-08/04/2023,Wolverhampton Wanderers,Chelsea,"['1 ', ' 0']",4.2,3.5,1.91,2.2,1.67,36.88562898859712,18.44281449429856,Wolverhampton Wanderers-Chelsea | 08/04/2023
-09/04/2023,Leeds,Crystal Palace,"['1 ', ' 5']",2.1,3.4,3.6,2.1,1.73,42.030197555578354,21.015098777789177,Leeds-Crystal Palace | 09/04/2023
-09/04/2023,Liverpool,Arsenal,"['2 ', ' 2']",2.88,3.6,2.38,1.62,2.3,46.13418745164125,23.067093725820627,Liverpool-Arsenal | 09/04/2023
-15/04/2023,Aston Villa,Newcastle United,"['3 ', ' 0']",3.6,3.4,2.05,2.07,1.83,64.0862716657681,32.04313583288405,Aston Villa-Newcastle United | 15/04/2023
-15/04/2023,Chelsea,Brighton,"['1 ', ' 2']",2.63,3.4,2.63,1.94,1.96,86.21188096328912,43.10594048164455,Chelsea-Brighton | 15/04/2023
-15/04/2023,Everton,Fulham,"['1 ', ' 3']",2.05,3.4,3.7,2.2,1.67,104.36007541262498,52.18003770631249,Everton-Fulham | 15/04/2023
-15/04/2023,Wolverhampton Wanderers,Brentford,"['2 ', ' 0']",2.45,3.1,3.0,2.2,1.67,92.24420057672606,46.12210028836303,Wolverhampton Wanderers-Brentford | 15/04/2023
-21/04/2023,Arsenal,Southampton,"['3 ', ' 3']",1.2,7.0,13.0,1.5,2.63,92.99685074499025,46.498425372495134,Arsenal-Southampton | 21/04/2023
-22/04/2023,Fulham,Leeds,"['2 ', ' 1']",2.3,3.4,3.1,1.92,1.98,102.50732934221773,51.253664671108865,Fulham-Leeds | 22/04/2023
-22/04/2023,Brentford,Aston Villa,"['1 ', ' 1']",2.5,3.25,2.88,2.0,1.9,96.82801549462805,48.41400774731403,Brentford-Aston Villa | 22/04/2023
-23/04/2023,Bournemouth,West Ham,"['0 ', ' 4']",2.88,3.2,2.55,2.1,1.73,117.91464107904275,58.957320539521376,Bournemouth-West Ham | 23/04/2023
-23/04/2023,Newcastle United,Tottenham,"['6 ', ' 1']",1.83,3.75,4.2,1.86,2.04,131.48205598178725,65.74102799089363,Newcastle United-Tottenham | 23/04/2023
-26/04/2023,Chelsea,Brentford,"['0 ', ' 2']",1.7,4.0,4.75,2.0,1.9,112.33186306611663,56.16593153305831,Chelsea-Brentford | 26/04/2023
-26/04/2023,Manchester City,Arsenal,"['4 ', ' 1']",1.55,4.5,5.25,1.62,2.3,119.60018272740221,59.8000913637011,Manchester City-Arsenal | 26/04/2023
-27/04/2023,Everton,Newcastle United,"['1 ', ' 4']",4.75,3.6,1.73,2.0,1.8,135.54597754060975,67.77298877030488,Everton-Newcastle United | 27/04/2023
-27/04/2023,Southampton,Bournemouth,"['0 ', ' 1']",2.25,3.4,3.2,2.03,1.87,121.69880950605824,60.84940475302912,Southampton-Bournemouth | 27/04/2023
-29/04/2023,Brighton,Wolverhampton Wanderers,"['6 ', ' 0']",1.5,4.33,6.5,1.85,2.05,135.30165867319036,67.65082933659518,Brighton-Wolverhampton Wanderers | 29/04/2023
-30/04/2023,Bournemouth,Leeds,"['4 ', ' 1']",2.55,3.5,2.7,1.8,2.0,136.53179795596816,68.26589897798408,Bournemouth-Leeds | 30/04/2023
-30/04/2023,Manchester United,Aston Villa,"['1 ', ' 0']",1.73,3.9,4.6,1.67,2.2,120.0093969271339,60.00469846356695,Manchester United-Aston Villa | 30/04/2023
-30/04/2023,Newcastle United,Southampton,"['3 ', ' 1']",1.3,5.25,10.0,1.73,2.1,124.3222208313629,62.16111041568145,Newcastle United-Southampton | 30/04/2023
-30/04/2023,Liverpool,Tottenham,"['4 ', ' 3']",1.53,4.5,5.75,1.5,2.63,125.3847795913403,62.69238979567015,Liverpool-Tottenham | 30/04/2023
-01/05/2023,Leicester,Everton,"['2 ', ' 2']",2.0,3.5,3.75,2.07,1.83,134.5978271730719,67.29891358653595,Leicester-Everton | 01/05/2023
-02/05/2023,Arsenal,Chelsea,"['3 ', ' 1']",1.6,4.0,5.5,1.73,2.1,159.1449633261518,79.5724816630759,Arsenal-Chelsea | 02/05/2023
-04/05/2023,Brighton,Manchester United,"['1 ', ' 0']",1.95,3.5,3.75,1.57,2.38,152.32607622738698,76.16303811369349,Brighton-Manchester United | 04/05/2023
-06/05/2023,Bournemouth,Chelsea,"['1 ', ' 3']",3.3,3.5,2.15,1.99,1.91,162.29029961766093,81.14514980883047,Bournemouth-Chelsea | 06/05/2023
-06/05/2023,Wolverhampton Wanderers,Aston Villa,"['1 ', ' 0']",2.88,3.3,2.5,2.2,1.67,151.30999861215702,75.65499930607851,Wolverhampton Wanderers-Aston Villa | 06/05/2023
-07/05/2023,Newcastle United,Arsenal,"['0 ', ' 2']",2.45,3.75,2.63,1.62,2.3,138.77160950501283,69.38580475250642,Newcastle United-Arsenal | 07/05/2023
-08/05/2023,Nottingham Forest,Southampton,"['4 ', ' 3']",2.1,3.6,3.4,2.03,1.87,144.4599436854475,72.22997184272376,Nottingham Forest-Southampton | 08/05/2023
-13/05/2023,Chelsea,Nottingham Forest,"['2 ', ' 2']",1.5,4.5,6.0,1.86,2.04,167.06734273621612,83.53367136810806,Chelsea-Nottingham Forest | 13/05/2023
-13/05/2023,Crystal Palace,Bournemouth,"['2 ', ' 0']",1.83,3.6,4.2,1.94,1.96,161.27413586286445,80.63706793143223,Crystal Palace-Bournemouth | 13/05/2023
-13/05/2023,Manchester United,Wolverhampton Wanderers,"['2 ', ' 0']",1.36,5.0,7.5,1.67,2.2,152.37211112203065,76.18605556101532,Manchester United-Wolverhampton Wanderers | 13/05/2023
-13/05/2023,Southampton,Fulham,"['0 ', ' 2']",2.75,3.3,2.5,1.91,1.99,148.7320867612711,74.36604338063555,Southampton-Fulham | 13/05/2023
-14/05/2023,Arsenal,Brighton,"['0 ', ' 3']",1.73,4.2,4.2,1.53,2.5,156.1974185108544,78.0987092554272,Arsenal-Brighton | 14/05/2023
-18/05/2023,Newcastle United,Brighton,"['4 ', ' 1']",2.0,3.8,3.5,1.62,2.3,168.11339132428202,84.05669566214101,Newcastle United-Brighton | 18/05/2023
-20/05/2023,Fulham,Crystal Palace,"['2 ', ' 2']",2.45,3.4,2.9,2.05,1.85,170.64032100784806,85.32016050392403,Fulham-Crystal Palace | 20/05/2023
-24/05/2023,Brighton,Manchester City,"['1 ', ' 1']",4.0,4.33,1.75,1.53,2.5,163.67969920510478,81.83984960255239,Brighton-Manchester City | 24/05/2023
-25/05/2023,Manchester United,Chelsea,"['4 ', ' 1']",1.6,4.33,5.0,1.57,2.38,169.62510706191108,84.81255353095554,Manchester United-Chelsea | 25/05/2023
-28/05/2023,Chelsea,Newcastle United,"['1 ', ' 1']",2.9,3.5,2.38,1.73,2.1,135.35073579900924,67.67536789950462,Chelsea-Newcastle United | 28/05/2023
-28/05/2023,Everton,Bournemouth,"['1 ', ' 0']",1.5,4.5,6.5,1.67,2.2,133.32606948569344,66.66303474284672,Everton-Bournemouth | 28/05/2023
+03/09/2022,Newcastle United,Crystal Palace,"['0 ', ' 0']",2.0,3.5,3.75,2.0,1.8,-24.378643546247858,-12.189321773123929,Newcastle United-Crystal Palace | 03/09/2022
+03/09/2022,Wolverhampton Wanderers,Southampton,"['1 ', ' 0']",2.2,3.4,3.25,2.04,1.86,-27.795102259833243,-13.897551129916621,Wolverhampton Wanderers-Southampton | 03/09/2022
+16/09/2022,Aston Villa,Southampton,"['1 ', ' 0']",2.1,3.5,3.5,1.88,2.02,-29.07454028814368,-14.53727014407184,Aston Villa-Southampton | 16/09/2022
+17/09/2022,Newcastle United,Bournemouth,"['1 ', ' 1']",1.44,4.4,7.5,1.87,2.03,-39.969146899027024,-19.984573449513512,Newcastle United-Bournemouth | 17/09/2022
+01/10/2022,Arsenal,Tottenham,"['3 ', ' 1']",2.05,3.75,3.3,1.72,2.1,-31.498351272883482,-15.749175636441741,Arsenal-Tottenham | 01/10/2022
+01/10/2022,Liverpool,Brighton,"['3 ', ' 3']",1.33,5.25,8.5,1.53,2.5,-19.727888815409244,-9.863944407704622,Liverpool-Brighton | 01/10/2022
+08/10/2022,Newcastle United,Brentford,"['5 ', ' 1']",1.83,3.8,4.2,1.72,2.1,-8.271640973555051,-4.135820486777526,Newcastle United-Brentford | 08/10/2022
+09/10/2022,Arsenal,Liverpool,"['3 ', ' 2']",2.5,3.6,2.62,1.57,2.37,-4.388588744383512,-2.194294372191756,Arsenal-Liverpool | 09/10/2022
+14/10/2022,Brentford,Brighton,"['2 ', ' 0']",3.1,3.4,2.3,1.97,1.93,-11.477254340045576,-5.738627170022788,Brentford-Brighton | 14/10/2022
+15/10/2022,Leicester,Crystal Palace,"['0 ', ' 0']",2.3,3.4,3.1,1.89,2.01,-16.333616684059706,-8.166808342029853,Leicester-Crystal Palace | 15/10/2022
+15/10/2022,Wolverhampton Wanderers,Nottingham Forest,"['1 ', ' 0']",1.7,3.75,5.0,2.06,1.84,-19.276434631992373,-9.638217315996187,Wolverhampton Wanderers-Nottingham Forest | 15/10/2022
+16/10/2022,Manchester United,Newcastle United,"['0 ', ' 0']",1.95,3.8,3.5,1.72,2.1,-28.445754427723728,-14.222877213861864,Manchester United-Newcastle United | 16/10/2022
+16/10/2022,Liverpool,Manchester City,"['1 ', ' 0']",3.6,4.0,1.9,1.44,2.75,-43.35016232887047,-21.675081164435234,Liverpool-Manchester City | 16/10/2022
+19/10/2022,Newcastle United,Everton,"['1 ', ' 0']",1.6,3.8,5.75,1.92,1.98,-63.85780821663725,-31.928904108318623,Newcastle United-Everton | 19/10/2022
+20/10/2022,Fulham,Aston Villa,"['3 ', ' 0']",2.9,3.3,2.5,2.0,1.9,-62.15012919991831,-31.075064599959155,Fulham-Aston Villa | 20/10/2022
+22/10/2022,Chelsea,Manchester United,"['1 ', ' 1']",2.05,3.5,3.5,1.91,1.99,-72.47084352810874,-36.23542176405437,Chelsea-Manchester United | 22/10/2022
+23/10/2022,Tottenham,Newcastle United,"['1 ', ' 2']",2.05,3.5,3.5,1.92,1.98,-63.28846040796968,-31.64423020398484,Tottenham-Newcastle United | 23/10/2022
+29/10/2022,Brentford,Wolverhampton Wanderers,"['1 ', ' 1']",2.2,3.4,3.3,2.01,1.89,-68.38379174924445,-34.191895874622226,Brentford-Wolverhampton Wanderers | 29/10/2022
+29/10/2022,Brighton,Chelsea,"['4 ', ' 1']",3.0,3.3,2.4,2.1,1.72,-40.80512233692524,-20.40256116846262,Brighton-Chelsea | 29/10/2022
+29/10/2022,Newcastle United,Aston Villa,"['4 ', ' 0']",1.8,3.75,4.5,1.94,1.96,-24.141655722958973,-12.070827861479486,Newcastle United-Aston Villa | 29/10/2022
+05/11/2022,Wolverhampton Wanderers,Brighton,"['2 ', ' 3']",3.3,3.3,2.25,2.1,1.72,-12.618392603906072,-6.309196301953037,Wolverhampton Wanderers-Brighton | 05/11/2022
+06/11/2022,Chelsea,Arsenal,"['0 ', ' 1']",2.55,3.4,2.7,1.93,1.97,-25.200264923591423,-12.60013246179571,Chelsea-Arsenal | 06/11/2022
+06/11/2022,Southampton,Newcastle United,"['1 ', ' 4']",4.0,3.6,1.9,1.95,1.95,-20.608231986758142,-10.304115993379071,Southampton-Newcastle United | 06/11/2022
+12/11/2022,Newcastle United,Chelsea,"['1 ', ' 0']",2.35,3.4,3.0,1.98,1.92,-36.27463924066302,-18.13731962033151,Newcastle United-Chelsea | 12/11/2022
+13/11/2022,Brighton,Aston Villa,"['1 ', ' 2']",1.83,3.75,4.2,1.96,1.94,-9.295828412217375,-4.6479142061086876,Brighton-Aston Villa | 13/11/2022
+26/12/2022,Everton,Wolverhampton Wanderers,"['1 ', ' 2']",2.3,3.25,3.2,2.2,1.67,11.883529220140959,5.941764610070479,Everton-Wolverhampton Wanderers | 26/12/2022
+26/12/2022,Southampton,Brighton,"['1 ', ' 3']",3.3,3.5,2.15,1.94,1.96,19.19210023174692,9.59605011587346,Southampton-Brighton | 26/12/2022
+31/12/2022,Brighton,Arsenal,"['2 ', ' 4']",3.4,3.5,2.1,1.89,2.04,36.3194533532085,18.15972667660425,Brighton-Arsenal | 31/12/2022
+03/01/2023,Everton,Brighton,"['1 ', ' 4']",3.5,3.5,2.1,2.02,1.88,45.88328780025407,22.941643900127033,Everton-Brighton | 03/01/2023
+14/01/2023,Manchester United,Manchester City,"['2 ', ' 1']",4.2,3.6,1.85,1.73,2.1,53.089186286582496,26.54459314329125,Manchester United-Manchester City | 14/01/2023
+21/01/2023,Liverpool,Chelsea,"['0 ', ' 0']",1.85,3.75,4.0,1.73,2.1,43.52985366094276,21.76492683047138,Liverpool-Chelsea | 21/01/2023
+04/02/2023,Manchester United,Crystal Palace,"['2 ', ' 1']",1.4,4.75,8.0,1.88,2.02,59.51421431607804,29.75710715803902,Manchester United-Crystal Palace | 04/02/2023
+11/02/2023,Arsenal,Brentford,"['1 ', ' 1']",1.44,4.75,7.0,1.73,2.1,53.94431666871566,26.97215833435783,Arsenal-Brentford | 11/02/2023
+11/02/2023,Bournemouth,Newcastle United,"['1 ', ' 1']",6.5,4.0,1.53,2.04,1.86,49.6237727547392,24.811886377369603,Bournemouth-Newcastle United | 11/02/2023
+13/02/2023,Liverpool,Everton,"['2 ', ' 0']",1.5,4.33,6.5,1.73,2.1,43.969237860932374,21.984618930466183,Liverpool-Everton | 13/02/2023
+15/02/2023,Arsenal,Manchester City,"['1 ', ' 3']",2.9,3.5,2.35,1.88,2.02,70.99405168107197,35.49702584053598,Arsenal-Manchester City | 15/02/2023
+18/02/2023,Aston Villa,Arsenal,"['2 ', ' 4']",4.5,3.6,1.5,2.02,1.88,84.4730223234852,42.2365111617426,Aston Villa-Arsenal | 18/02/2023
+18/02/2023,Brentford,Crystal Palace,"['1 ', ' 1']",1.83,3.5,4.5,2.1,1.73,78.30780286888066,39.15390143444033,Brentford-Crystal Palace | 18/02/2023
+18/02/2023,Brighton,Fulham,"['0 ', ' 1']",1.65,3.8,5.5,1.73,2.1,72.15419061910549,36.077095309552746,Brighton-Fulham | 18/02/2023
+26/02/2023,Tottenham,Chelsea,"['2 ', ' 0']",2.55,3.25,2.9,2.08,1.82,64.44470533649584,32.22235266824792,Tottenham-Chelsea | 26/02/2023
+01/03/2023,Arsenal,Everton,"['4 ', ' 0']",1.36,4.75,10.0,1.85,2.05,77.00860445137519,38.504302225687596,Arsenal-Everton | 01/03/2023
+04/03/2023,Manchester City,Newcastle United,"['2 ', ' 0']",1.45,4.5,7.0,1.73,2.1,71.40048873892098,35.70024436946049,Manchester City-Newcastle United | 04/03/2023
+04/03/2023,Aston Villa,Crystal Palace,"['1 ', ' 0']",2.05,3.3,3.8,2.3,1.62,58.132638832741975,29.066319416370987,Aston Villa-Crystal Palace | 04/03/2023
+04/03/2023,Brighton,West Ham,"['4 ', ' 0']",1.8,3.6,4.5,1.95,1.95,74.02838004638588,37.01419002319294,Brighton-West Ham | 04/03/2023
+04/03/2023,Chelsea,Leeds,"['1 ', ' 0']",1.62,4.0,5.5,1.95,1.95,71.8259430637373,35.91297153186865,Chelsea-Leeds | 04/03/2023
+06/03/2023,Brentford,Fulham,"['3 ', ' 2']",1.95,3.6,3.75,1.94,1.96,74.08890496137221,37.044452480686104,Brentford-Fulham | 06/03/2023
+11/03/2023,Everton,Brentford,"['1 ', ' 0']",2.7,3.25,2.7,2.2,1.67,58.076740330685055,29.038370165342528,Everton-Brentford | 11/03/2023
+11/03/2023,Leicester,Chelsea,"['1 ', ' 3']",3.75,3.5,1.95,2.02,1.91,66.45993258353874,33.22996629176937,Leicester-Chelsea | 11/03/2023
+12/03/2023,Newcastle United,Wolverhampton Wanderers,"['2 ', ' 1']",1.65,3.75,5.5,2.2,1.67,84.37717206066914,42.18858603033458,Newcastle United-Wolverhampton Wanderers | 12/03/2023
+15/03/2023,Brighton,Crystal Palace,"['1 ', ' 0']",1.44,4.2,8.0,1.93,1.97,68.15648034626258,34.07824017313129,Brighton-Crystal Palace | 15/03/2023
+18/03/2023,Aston Villa,Bournemouth,"['3 ', ' 0']",1.7,3.8,5.0,1.97,1.93,78.70177143385473,39.350885716927365,Aston Villa-Bournemouth | 18/03/2023
+18/03/2023,Brentford,Leicester,"['1 ', ' 1']",1.91,3.6,3.75,1.89,2.01,69.3151394431834,34.6575697215917,Brentford-Leicester | 18/03/2023
+18/03/2023,Chelsea,Everton,"['2 ', ' 2']",1.5,4.2,7.5,2.1,1.73,79.56054754418466,39.78027377209233,Chelsea-Everton | 18/03/2023
+19/03/2023,Arsenal,Crystal Palace,"['4 ', ' 1']",1.25,5.5,15.0,1.73,2.1,101.25313039824064,50.62656519912032,Arsenal-Crystal Palace | 19/03/2023
+01/04/2023,Manchester City,Liverpool,"['4 ', ' 1']",1.62,4.2,5.0,1.67,2.2,102.13064803561988,51.06532401780994,Manchester City-Liverpool | 01/04/2023
+01/04/2023,Arsenal,Leeds,"['4 ', ' 1']",1.29,6.0,9.0,1.53,2.5,111.1536934082949,55.57684670414744,Arsenal-Leeds | 01/04/2023
+01/04/2023,Brighton,Brentford,"['3 ', ' 3']",1.67,4.0,5.0,1.73,2.1,114.28641004927604,57.14320502463802,Brighton-Brentford | 01/04/2023
+01/04/2023,Nottingham Forest,Wolverhampton Wanderers,"['1 ', ' 1']",3.0,3.1,2.55,2.38,1.57,99.58418156924331,49.792090784621664,Nottingham Forest-Wolverhampton Wanderers | 01/04/2023
+01/04/2023,Chelsea,Aston Villa,"['0 ', ' 2']",1.67,3.8,5.25,1.97,1.93,93.91898574003707,46.959492870018536,Chelsea-Aston Villa | 01/04/2023
+02/04/2023,West Ham,Southampton,"['1 ', ' 0']",1.73,3.6,5.0,2.0,1.8,92.08402433755842,46.04201216877921,West Ham-Southampton | 02/04/2023
+02/04/2023,Newcastle United,Manchester United,"['2 ', ' 0']",2.4,3.4,2.9,1.95,1.95,78.66489201332061,39.332446006660305,Newcastle United-Manchester United | 02/04/2023
+04/04/2023,Bournemouth,Brighton,"['0 ', ' 2']",6.0,4.2,1.53,1.8,2.0,76.30543759405731,38.152718797028655,Bournemouth-Brighton | 04/04/2023
+04/04/2023,Leicester,Aston Villa,"['1 ', ' 2']",2.55,3.3,2.75,1.99,1.91,85.65309307377507,42.826546536887534,Leicester-Aston Villa | 04/04/2023
+04/04/2023,Chelsea,Liverpool,"['0 ', ' 0']",2.2,3.4,3.25,1.95,1.95,71.02058432639745,35.51029216319873,Chelsea-Liverpool | 04/04/2023
+05/04/2023,Manchester United,Brentford,"['1 ', ' 0']",1.65,4.0,5.0,1.73,2.1,62.87950656437732,31.43975328218866,Manchester United-Brentford | 05/04/2023
+08/04/2023,Manchester United,Everton,"['2 ', ' 0']",1.5,4.33,6.5,1.86,2.04,52.283196136627936,26.141598068313968,Manchester United-Everton | 08/04/2023
+08/04/2023,Aston Villa,Nottingham Forest,"['2 ', ' 0']",1.6,4.2,5.25,1.94,1.96,47.104002887413856,23.552001443706928,Aston Villa-Nottingham Forest | 08/04/2023
+08/04/2023,Brentford,Newcastle United,"['1 ', ' 2']",3.6,3.4,2.05,2.03,1.87,66.24639151351346,33.12319575675673,Brentford-Newcastle United | 08/04/2023
+08/04/2023,Fulham,West Ham,"['0 ', ' 1']",2.8,3.25,2.63,2.2,1.67,56.475490074512436,28.237745037256218,Fulham-West Ham | 08/04/2023
+08/04/2023,Leicester,Bournemouth,"['0 ', ' 1']",1.83,3.75,4.2,1.88,2.02,48.88708289975642,24.44354144987821,Leicester-Bournemouth | 08/04/2023
+08/04/2023,Tottenham,Brighton,"['2 ', ' 1']",2.55,3.5,2.7,1.85,2.05,51.636106729692216,25.818053364846108,Tottenham-Brighton | 08/04/2023
+08/04/2023,Wolverhampton Wanderers,Chelsea,"['1 ', ' 0']",4.2,3.5,1.91,2.2,1.67,37.94304962315732,18.97152481157866,Wolverhampton Wanderers-Chelsea | 08/04/2023
+09/04/2023,Liverpool,Arsenal,"['2 ', ' 2']",2.88,3.6,2.38,1.62,2.3,40.368817768316205,20.184408884158103,Liverpool-Arsenal | 09/04/2023
+15/04/2023,Aston Villa,Newcastle United,"['3 ', ' 0']",3.6,3.4,2.05,2.07,1.83,55.52712751371496,27.76356375685748,Aston Villa-Newcastle United | 15/04/2023
+15/04/2023,Chelsea,Brighton,"['1 ', ' 2']",2.63,3.4,2.63,1.94,1.96,77.71930202708006,38.85965101354003,Chelsea-Brighton | 15/04/2023
+15/04/2023,Everton,Fulham,"['1 ', ' 3']",2.05,3.4,3.7,2.2,1.67,96.44996112659678,48.22498056329839,Everton-Fulham | 15/04/2023
+15/04/2023,Wolverhampton Wanderers,Brentford,"['2 ', ' 0']",2.45,3.1,3.0,2.2,1.67,83.10758252382246,41.55379126191123,Wolverhampton Wanderers-Brentford | 15/04/2023
+21/04/2023,Arsenal,Southampton,"['3 ', ' 3']",1.2,7.0,13.0,1.5,2.63,83.89454305828295,41.947271529141474,Arsenal-Southampton | 21/04/2023
+22/04/2023,Fulham,Leeds,"['2 ', ' 1']",2.3,3.4,3.1,1.92,1.98,93.09359114036732,46.54679557018366,Fulham-Leeds | 22/04/2023
+22/04/2023,Brentford,Aston Villa,"['1 ', ' 1']",2.5,3.25,2.88,2.0,1.9,91.87268581976682,45.93634290988341,Brentford-Aston Villa | 22/04/2023
+23/04/2023,Bournemouth,West Ham,"['0 ', ' 4']",2.88,3.2,2.55,2.1,1.73,110.68817146640262,55.34408573320131,Bournemouth-West Ham | 23/04/2023
+23/04/2023,Newcastle United,Tottenham,"['6 ', ' 1']",1.83,3.75,4.2,1.86,2.04,122.09635796108564,61.04817898054283,Newcastle United-Tottenham | 23/04/2023
+26/04/2023,Chelsea,Brentford,"['0 ', ' 2']",1.7,4.0,4.75,2.0,1.9,102.21330365120826,51.10665182560413,Chelsea-Brentford | 26/04/2023
+26/04/2023,Manchester City,Arsenal,"['4 ', ' 1']",1.55,4.5,5.25,1.62,2.3,109.01745919267037,54.508729596335186,Manchester City-Arsenal | 26/04/2023
+27/04/2023,Everton,Newcastle United,"['1 ', ' 4']",4.75,3.6,1.73,2.0,1.8,123.17164455111848,61.58582227555924,Everton-Newcastle United | 27/04/2023
+27/04/2023,Southampton,Bournemouth,"['0 ', ' 1']",2.25,3.4,3.2,2.03,1.87,110.29706237710258,55.14853118855129,Southampton-Bournemouth | 27/04/2023
+29/04/2023,Brighton,Wolverhampton Wanderers,"['6 ', ' 0']",1.5,4.33,6.5,1.85,2.05,122.34579499168325,61.172897495841625,Brighton-Wolverhampton Wanderers | 29/04/2023
+30/04/2023,Manchester United,Aston Villa,"['1 ', ' 0']",1.73,3.9,4.6,1.67,2.2,109.58094063104251,54.79047031552125,Manchester United-Aston Villa | 30/04/2023
+30/04/2023,Newcastle United,Southampton,"['3 ', ' 1']",1.3,5.25,10.0,1.73,2.1,112.39721307222288,56.19860653611144,Newcastle United-Southampton | 30/04/2023
+30/04/2023,Liverpool,Tottenham,"['4 ', ' 3']",1.53,4.5,5.75,1.5,2.63,113.77563822972812,56.88781911486406,Liverpool-Tottenham | 30/04/2023
+01/05/2023,Leicester,Everton,"['2 ', ' 2']",2.0,3.5,3.75,2.07,1.83,123.1827487942895,61.59137439714475,Leicester-Everton | 01/05/2023
+02/05/2023,Arsenal,Chelsea,"['3 ', ' 1']",1.6,4.0,5.5,1.73,2.1,147.13478656414352,73.56739328207176,Arsenal-Chelsea | 02/05/2023
+04/05/2023,Brighton,Manchester United,"['1 ', ' 0']",1.95,3.5,3.75,1.57,2.38,144.83517823206535,72.41758911603267,Brighton-Manchester United | 04/05/2023
+06/05/2023,Bournemouth,Chelsea,"['1 ', ' 3']",3.3,3.5,2.15,1.99,1.91,153.85118350475986,76.92559175237993,Bournemouth-Chelsea | 06/05/2023
+06/05/2023,Wolverhampton Wanderers,Aston Villa,"['1 ', ' 0']",2.88,3.3,2.5,2.2,1.67,144.12803933646214,72.06401966823107,Wolverhampton Wanderers-Aston Villa | 06/05/2023
+07/05/2023,Newcastle United,Arsenal,"['0 ', ' 2']",2.45,3.75,2.63,1.62,2.3,135.89388641347705,67.94694320673852,Newcastle United-Arsenal | 07/05/2023
+08/05/2023,Nottingham Forest,Southampton,"['4 ', ' 3']",2.1,3.6,3.4,2.03,1.87,141.9690352703286,70.9845176351643,Nottingham Forest-Southampton | 08/05/2023
+13/05/2023,Chelsea,Nottingham Forest,"['2 ', ' 2']",1.5,4.5,6.0,1.86,2.04,163.09041369003677,81.54520684501838,Chelsea-Nottingham Forest | 13/05/2023
+13/05/2023,Crystal Palace,Bournemouth,"['2 ', ' 0']",1.83,3.6,4.2,1.94,1.96,159.66454060519084,79.83227030259542,Crystal Palace-Bournemouth | 13/05/2023
+13/05/2023,Manchester United,Wolverhampton Wanderers,"['2 ', ' 0']",1.36,5.0,7.5,1.67,2.2,149.95613946168214,74.97806973084107,Manchester United-Wolverhampton Wanderers | 13/05/2023
+13/05/2023,Southampton,Fulham,"['0 ', ' 2']",2.75,3.3,2.5,1.91,1.99,146.50854025903215,73.25427012951607,Southampton-Fulham | 13/05/2023
+14/05/2023,Arsenal,Brighton,"['0 ', ' 3']",1.73,4.2,4.2,1.53,2.5,154.23318883172902,77.11659441586451,Arsenal-Brighton | 14/05/2023
+18/05/2023,Newcastle United,Brighton,"['4 ', ' 1']",2.0,3.8,3.5,1.62,2.3,165.3081193840949,82.65405969204744,Newcastle United-Brighton | 18/05/2023
+24/05/2023,Brighton,Manchester City,"['1 ', ' 1']",4.0,4.33,1.75,1.53,2.5,162.10209495274904,81.05104747637452,Brighton-Manchester City | 24/05/2023
+25/05/2023,Manchester United,Chelsea,"['4 ', ' 1']",1.6,4.33,5.0,1.57,2.38,167.59005439312287,83.79502719656145,Manchester United-Chelsea | 25/05/2023
+28/05/2023,Chelsea,Newcastle United,"['1 ', ' 1']",2.9,3.5,2.38,1.73,2.1,133.6176329690917,66.80881648454584,Chelsea-Newcastle United | 28/05/2023

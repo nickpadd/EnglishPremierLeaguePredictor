@@ -1,92 +1,95 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-03/10/2020,Leeds,Manchester City,"['1 ', ' 1']",7.5,5.25,1.36,1.36,3.2,101.80049607905073,50.900248039525366,Leeds-Manchester City | 03/10/2020
-04/10/2020,Leicester,West Ham,"['0 ', ' 3']",1.61,4.2,5.25,1.66,2.2,90.95278291868459,45.476391459342295,Leicester-West Ham | 04/10/2020
-04/10/2020,Southampton,West Bromwich Albion,"['2 ', ' 0']",1.72,3.8,4.75,1.8,2.0,121.9535509271671,60.97677546358355,Southampton-West Bromwich Albion | 04/10/2020
-04/10/2020,Wolverhampton Wanderers,Fulham,"['1 ', ' 0']",1.5,4.0,7.5,2.1,1.72,124.84951542297458,62.42475771148729,Wolverhampton Wanderers-Fulham | 04/10/2020
-04/10/2020,Manchester United,Tottenham,"['1 ', ' 6']",1.85,3.8,4.0,1.72,2.1,117.38989368738439,58.69494684369219,Manchester United-Tottenham | 04/10/2020
-17/10/2020,Chelsea,Southampton,"['3 ', ' 3']",1.45,4.75,6.5,1.57,2.37,97.9273503551995,48.96367517759974,Chelsea-Southampton | 17/10/2020
-17/10/2020,Manchester City,Arsenal,"['1 ', ' 0']",1.44,5.0,6.5,1.44,2.75,153.03124653957198,76.51562326978599,Manchester City-Arsenal | 17/10/2020
-17/10/2020,Newcastle United,Manchester United,"['1 ', ' 4']",4.75,4.0,1.66,1.72,2.1,133.11087657618694,66.55543828809347,Newcastle United-Manchester United | 17/10/2020
-18/10/2020,Tottenham,West Ham,"['3 ', ' 3']",1.57,4.33,5.5,1.57,2.37,114.72879171675334,57.36439585837667,Tottenham-West Ham | 18/10/2020
-18/10/2020,Leicester,Aston Villa,"['0 ', ' 1']",1.83,3.8,4.1,1.66,2.2,132.8033777419024,66.4016888709512,Leicester-Aston Villa | 18/10/2020
-19/10/2020,Leeds,Wolverhampton Wanderers,"['0 ', ' 1']",2.5,3.3,2.87,2.1,1.72,136.4163518131248,68.2081759065624,Leeds-Wolverhampton Wanderers | 19/10/2020
-24/10/2020,West Ham,Manchester City,"['1 ', ' 1']",8.0,5.25,1.36,1.4,3.0,210.2718418420551,105.13592092102755,West Ham-Manchester City | 24/10/2020
-24/10/2020,Fulham,Crystal Palace,"['1 ', ' 2']",2.75,3.1,2.7,2.3,1.61,201.72504529564998,100.86252264782499,Fulham-Crystal Palace | 24/10/2020
-25/10/2020,Wolverhampton Wanderers,Newcastle United,"['1 ', ' 1']",1.75,3.5,5.25,2.2,1.66,214.85246470691652,107.42623235345826,Wolverhampton Wanderers-Newcastle United | 25/10/2020
-25/10/2020,Arsenal,Leicester,"['0 ', ' 1']",1.9,3.75,3.8,1.72,2.1,226.80011407095793,113.40005703547897,Arsenal-Leicester | 25/10/2020
-26/10/2020,Brighton,West Bromwich Albion,"['1 ', ' 1']",1.7,4.0,4.75,1.8,2.0,250.0810041515607,125.04050207578035,Brighton-West Bromwich Albion | 26/10/2020
-31/10/2020,Sheffield United,Manchester City,"['0 ', ' 1']",9.5,6.0,1.28,1.5,2.62,291.24989146692667,145.62494573346333,Sheffield United-Manchester City | 31/10/2020
-31/10/2020,Burnley,Chelsea,"['0 ', ' 3']",6.0,4.5,1.5,1.66,2.2,278.71881561885476,139.35940780942738,Burnley-Chelsea | 31/10/2020
-01/11/2020,Newcastle United,Everton,"['2 ', ' 1']",3.7,3.4,2.05,1.8,2.0,269.09696503718317,134.54848251859158,Newcastle United-Everton | 01/11/2020
-01/11/2020,Manchester United,Arsenal,"['0 ', ' 1']",2.0,3.6,3.6,1.72,2.1,287.2359528151808,143.6179764075904,Manchester United-Arsenal | 01/11/2020
-01/11/2020,Tottenham,Brighton,"['2 ', ' 1']",1.61,4.0,5.5,1.66,2.2,278.0096345018051,139.00481725090256,Tottenham-Brighton | 01/11/2020
-02/11/2020,Fulham,West Bromwich Albion,"['2 ', ' 0']",2.4,3.3,3.0,2.0,1.8,299.08331857467414,149.54165928733707,Fulham-West Bromwich Albion | 02/11/2020
-06/11/2020,Southampton,Newcastle United,"['2 ', ' 0']",2.0,3.6,3.7,1.8,2.0,322.94998754355,161.474993771775,Southampton-Newcastle United | 06/11/2020
-07/11/2020,Everton,Manchester United,"['1 ', ' 3']",2.9,3.5,2.37,1.72,2.1,315.8036989684248,157.9018494842124,Everton-Manchester United | 07/11/2020
-07/11/2020,Chelsea,Sheffield United,"['4 ', ' 1']",1.36,5.0,8.5,1.72,2.1,305.8722781779418,152.9361390889709,Chelsea-Sheffield United | 07/11/2020
-07/11/2020,West Ham,Fulham,"['1 ', ' 0']",1.83,3.75,4.2,1.8,2.0,324.99655572730467,162.49827786365233,West Ham-Fulham | 07/11/2020
-08/11/2020,West Bromwich Albion,Tottenham,"['0 ', ' 1']",7.0,4.33,1.45,1.72,2.1,351.5305535231796,175.7652767615898,West Bromwich Albion-Tottenham | 08/11/2020
-21/11/2020,Newcastle United,Chelsea,"['0 ', ' 2']",6.5,4.75,1.45,1.66,2.2,380.2936732412752,190.1468366206376,Newcastle United-Chelsea | 21/11/2020
-21/11/2020,Tottenham,Manchester City,"['2 ', ' 0']",4.0,4.0,1.8,1.57,2.37,408.39092321763945,204.1954616088197,Tottenham-Manchester City | 21/11/2020
-21/11/2020,Manchester United,West Bromwich Albion,"['1 ', ' 0']",1.3,5.5,9.5,1.66,2.2,428.43936159839075,214.21968079919537,Manchester United-West Bromwich Albion | 21/11/2020
-22/11/2020,Fulham,Everton,"['2 ', ' 3']",3.9,3.9,1.85,1.72,2.1,419.427457786839,209.7137288934195,Fulham-Everton | 22/11/2020
-22/11/2020,Sheffield United,West Ham,"['0 ', ' 1']",3.0,3.25,2.4,2.1,1.72,430.963948636111,215.4819743180555,Sheffield United-West Ham | 22/11/2020
-23/11/2020,Wolverhampton Wanderers,Southampton,"['1 ', ' 1']",2.3,3.25,3.25,2.2,1.66,434.80121147482305,217.40060573741152,Wolverhampton Wanderers-Southampton | 23/11/2020
-27/11/2020,Crystal Palace,Newcastle United,"['0 ', ' 2']",2.05,3.25,3.75,2.37,1.57,437.4157521667978,218.7078760833989,Crystal Palace-Newcastle United | 27/11/2020
-28/11/2020,West Bromwich Albion,Sheffield United,"['1 ', ' 0']",2.6,3.2,2.8,2.3,1.61,441.02215578973403,220.51107789486701,West Bromwich Albion-Sheffield United | 28/11/2020
-29/11/2020,Southampton,Manchester United,"['2 ', ' 3']",4.0,3.5,1.95,1.8,2.0,421.68323902051213,210.84161951025607,Southampton-Manchester United | 29/11/2020
-30/11/2020,Leicester,Fulham,"['1 ', ' 2']",1.5,4.33,6.5,1.72,2.1,397.96942917098016,198.98471458549008,Leicester-Fulham | 30/11/2020
-30/11/2020,West Ham,Aston Villa,"['2 ', ' 1']",2.25,3.6,3.0,1.72,2.1,387.13646296619845,193.56823148309923,West Ham-Aston Villa | 30/11/2020
-05/12/2020,West Ham,Manchester United,"['1 ', ' 3']",3.6,3.6,2.0,1.72,2.1,361.4389760890251,180.71948804451253,West Ham-Manchester United | 05/12/2020
-06/12/2020,West Bromwich Albion,Crystal Palace,"['1 ', ' 5']",2.87,3.2,2.55,2.2,1.66,358.1470622865056,179.0735311432528,West Bromwich Albion-Crystal Palace | 06/12/2020
-06/12/2020,Tottenham,Arsenal,"['2 ', ' 0']",1.95,3.6,3.8,1.9,1.9,367.6040265648469,183.80201328242345,Tottenham-Arsenal | 06/12/2020
-07/12/2020,Brighton,Southampton,"['1 ', ' 2']",2.45,3.4,2.9,1.9,1.9,362.85786870298614,181.42893435149307,Brighton-Southampton | 07/12/2020
-13/12/2020,Southampton,Sheffield United,"['3 ', ' 0']",1.7,3.75,5.0,2.01,1.89,349.2795213801812,174.6397606900906,Southampton-Sheffield United | 13/12/2020
-13/12/2020,Fulham,Liverpool,"['1 ', ' 1']",9.0,5.5,1.3,1.4,3.0,409.9806337604355,204.99031688021776,Fulham-Liverpool | 13/12/2020
-13/12/2020,Leicester,Brighton,"['3 ', ' 0']",2.0,3.5,3.8,1.9,1.9,400.9959233970313,200.49796169851564,Leicester-Brighton | 13/12/2020
-16/12/2020,West Ham,Crystal Palace,"['1 ', ' 1']",2.05,3.4,3.6,1.9,1.9,408.7383623719424,204.3691811859712,West Ham-Crystal Palace | 16/12/2020
-17/12/2020,Sheffield United,Manchester United,"['2 ', ' 3']",7.0,4.6,1.44,1.8,2.0,402.31711346442427,201.15855673221213,Sheffield United-Manchester United | 17/12/2020
-19/12/2020,Southampton,Manchester City,"['0 ', ' 1']",7.0,4.5,1.44,1.57,2.37,428.8424385322876,214.4212192661438,Southampton-Manchester City | 19/12/2020
-19/12/2020,Newcastle United,Fulham,"['1 ', ' 1']",2.5,3.25,2.9,2.1,1.72,433.76151960342116,216.8807598017106,Newcastle United-Fulham | 19/12/2020
-20/12/2020,Tottenham,Leicester,"['0 ', ' 2']",2.05,3.5,3.6,1.8,2.0,458.54603615074814,229.27301807537407,Tottenham-Leicester | 20/12/2020
-20/12/2020,West Bromwich Albion,Aston Villa,"['0 ', ' 3']",3.6,3.8,1.95,1.72,2.1,446.75736806810585,223.37868403405292,West Bromwich Albion-Aston Villa | 20/12/2020
-21/12/2020,Chelsea,West Ham,"['3 ', ' 0']",1.44,5.0,6.25,1.57,2.37,430.1542323263517,215.07711616317584,Chelsea-West Ham | 21/12/2020
-27/12/2020,West Ham,Brighton,"['2 ', ' 2']",2.3,3.4,3.1,1.99,1.91,428.34359618629026,214.17179809314513,West Ham-Brighton | 27/12/2020
-29/12/2020,Southampton,West Ham,"['0 ', ' 0']",2.1,3.6,3.4,1.94,1.96,445.0267480276749,222.51337401383745,Southampton-West Ham | 29/12/2020
-30/12/2020,Newcastle United,Liverpool,"['0 ', ' 0']",12.0,6.0,1.25,1.5,2.62,492.0491151562659,246.02455757813294,Newcastle United-Liverpool | 30/12/2020
-01/01/2021,Everton,West Ham,"['0 ', ' 1']",2.1,3.5,3.5,1.9,1.9,494.90837414064384,247.45418707032195,Everton-West Ham | 01/01/2021
-03/01/2021,Newcastle United,Leicester,"['1 ', ' 2']",5.25,4.2,1.61,1.9,1.9,484.0626668215432,242.0313334107716,Newcastle United-Leicester | 03/01/2021
-04/01/2021,Southampton,Liverpool,"['1 ', ' 0']",5.0,4.33,1.61,1.61,2.3,505.1876671992202,252.5938335996101,Southampton-Liverpool | 04/01/2021
-12/01/2021,Burnley,Manchester United,"['0 ', ' 1']",7.0,4.5,1.45,1.72,2.1,515.1780175421716,257.5890087710858,Burnley-Manchester United | 12/01/2021
-13/01/2021,Tottenham,Fulham,"['1 ', ' 1']",1.36,5.0,8.5,1.66,2.2,547.0886397477631,273.54431987388153,Tottenham-Fulham | 13/01/2021
-26/01/2021,West Bromwich Albion,Manchester City,"['0 ', ' 5']",15.0,7.5,1.18,1.57,2.37,532.4876644536353,266.24383222681763,West Bromwich Albion-Manchester City | 26/01/2021
-26/01/2021,Southampton,Arsenal,"['1 ', ' 3']",3.5,3.6,2.05,1.8,2.0,526.5981546182304,263.2990773091152,Southampton-Arsenal | 26/01/2021
-30/01/2021,Everton,Newcastle United,"['0 ', ' 2']",1.55,4.0,6.5,2.0,1.8,534.4200934595649,267.21004672978245,Everton-Newcastle United | 30/01/2021
-30/01/2021,Southampton,Aston Villa,"['0 ', ' 1']",2.8,3.6,2.37,1.72,2.1,541.2094346494769,270.60471732473843,Southampton-Aston Villa | 30/01/2021
-06/02/2021,Fulham,West Ham,"['0 ', ' 0']",3.6,3.5,2.05,2.0,1.8,542.9762387201869,271.48811936009344,Fulham-West Ham | 06/02/2021
-07/02/2021,Tottenham,West Bromwich Albion,"['2 ', ' 0']",1.45,4.5,7.0,1.72,2.1,556.1608832616259,278.08044163081297,Tottenham-West Bromwich Albion | 07/02/2021
-14/02/2021,West Bromwich Albion,Manchester United,"['1 ', ' 1']",10.0,5.5,1.3,1.53,2.5,588.9131643979306,294.4565821989653,West Bromwich Albion-Manchester United | 14/02/2021
-14/02/2021,Everton,Fulham,"['0 ', ' 2']",1.85,3.6,4.2,2.0,1.8,596.2817310363986,298.1408655181993,Everton-Fulham | 14/02/2021
-17/02/2021,Everton,Manchester City,"['1 ', ' 3']",8.5,5.5,1.33,1.66,2.2,578.54005285185,289.270026425925,Everton-Manchester City | 17/02/2021
-03/03/2021,Crystal Palace,Manchester United,"['0 ', ' 0']",8.0,4.75,1.4,1.72,2.1,597.9136880315359,298.95684401576796,Crystal Palace-Manchester United | 03/03/2021
-04/03/2021,West Bromwich Albion,Everton,"['0 ', ' 1']",4.33,3.6,1.83,1.9,1.9,615.1401735240172,307.5700867620086,West Bromwich Albion-Everton | 04/03/2021
-06/03/2021,Burnley,Arsenal,"['1 ', ' 1']",5.5,4.0,1.61,1.97,1.93,619.4865193388154,309.7432596694077,Burnley-Arsenal | 06/03/2021
-07/03/2021,Tottenham,Crystal Palace,"['4 ', ' 1']",1.45,4.5,7.0,1.9,1.9,604.7593877096565,302.37969385482825,Tottenham-Crystal Palace | 07/03/2021
-08/03/2021,West Ham,Leeds,"['2 ', ' 0']",2.05,3.6,3.5,1.66,2.2,619.6305292125749,309.8152646062874,West Ham-Leeds | 08/03/2021
-15/03/2021,Wolverhampton Wanderers,Liverpool,"['0 ', ' 1']",4.75,3.75,1.72,1.9,1.9,628.8351836153789,314.41759180768946,Wolverhampton Wanderers-Liverpool | 15/03/2021
-21/03/2021,West Ham,Arsenal,"['3 ', ' 3']",2.8,3.5,2.45,1.9,1.9,618.254609958103,309.1273049790515,West Ham-Arsenal | 21/03/2021
-04/04/2021,Newcastle United,Tottenham,"['2 ', ' 2']",5.5,4.0,1.6,1.9,1.9,612.2309043997803,306.11545219989017,Newcastle United-Tottenham | 04/04/2021
-11/04/2021,Tottenham,Manchester United,"['1 ', ' 3']",2.87,3.4,2.45,1.9,1.9,610.9029078479718,305.4514539239859,Tottenham-Manchester United | 11/04/2021
-17/04/2021,Newcastle United,West Ham,"['3 ', ' 2']",3.5,3.5,2.05,1.9,1.9,599.4715526068343,299.73577630341714,Newcastle United-West Ham | 17/04/2021
-21/04/2021,Aston Villa,Manchester City,"['1 ', ' 2']",9.0,4.75,1.36,1.66,2.2,589.4772393977368,294.7386196988684,Aston Villa-Manchester City | 21/04/2021
-01/05/2021,Crystal Palace,Manchester City,"['0 ', ' 2']",10.0,5.0,1.33,1.72,2.1,609.2152827646805,304.60764138234026,Crystal Palace-Manchester City | 01/05/2021
-02/05/2021,Newcastle United,Arsenal,"['0 ', ' 2']",3.6,3.6,2.0,1.72,2.1,624.9305012276877,312.46525061384386,Newcastle United-Arsenal | 02/05/2021
-09/05/2021,West Ham,Everton,"['0 ', ' 1']",2.2,3.5,3.2,1.92,1.98,633.039454065199,316.5197270325995,West Ham-Everton | 09/05/2021
-14/05/2021,Newcastle United,Manchester City,"['3 ', ' 4']",11.0,6.0,1.25,1.53,2.5,608.9217939948766,304.4608969974383,Newcastle United-Manchester City | 14/05/2021
-16/05/2021,Everton,Sheffield United,"['0 ', ' 1']",1.36,4.75,8.5,1.8,2.0,610.614680121957,305.3073400609785,Everton-Sheffield United | 16/05/2021
-19/05/2021,Newcastle United,Sheffield United,"['1 ', ' 0']",1.72,3.8,4.75,1.8,2.0,622.2761994621367,311.13809973106834,Newcastle United-Sheffield United | 19/05/2021
-19/05/2021,Crystal Palace,Arsenal,"['1 ', ' 3']",6.0,4.5,1.5,1.72,2.1,613.8552223222857,306.92761116114286,Crystal Palace-Arsenal | 19/05/2021
-19/05/2021,West Bromwich Albion,West Ham,"['1 ', ' 3']",5.0,4.33,1.6,1.57,2.37,599.3491465640238,299.6745732820119,West Bromwich Albion-West Ham | 19/05/2021
-23/05/2021,Arsenal,Brighton,"['2 ', ' 0']",1.57,4.33,5.25,1.72,2.1,604.6502444915917,302.32512224579585,Arsenal-Brighton | 23/05/2021
-23/05/2021,Fulham,Newcastle United,"['0 ', ' 2']",2.05,3.8,3.3,1.61,2.3,629.3924029737456,314.6962014868728,Fulham-Newcastle United | 23/05/2021
-23/05/2021,Wolverhampton Wanderers,Manchester United,"['1 ', ' 2']",2.5,3.5,2.7,1.72,2.1,607.0314683005598,303.5157341502799,Wolverhampton Wanderers-Manchester United | 23/05/2021
+03/10/2020,Leeds,Manchester City,"['1 ', ' 1']",7.5,5.25,1.36,1.36,3.2,95.90957795517636,47.95478897758818,Leeds-Manchester City | 03/10/2020
+04/10/2020,Leicester,West Ham,"['0 ', ' 3']",1.61,4.2,5.25,1.66,2.2,85.82371726237477,42.911858631187386,Leicester-West Ham | 04/10/2020
+04/10/2020,Southampton,West Bromwich Albion,"['2 ', ' 0']",1.72,3.8,4.75,1.8,2.0,121.63940092381654,60.81970046190827,Southampton-West Bromwich Albion | 04/10/2020
+04/10/2020,Manchester United,Tottenham,"['1 ', ' 6']",1.85,3.8,4.0,1.72,2.1,116.66031923569025,58.330159617845126,Manchester United-Tottenham | 04/10/2020
+17/10/2020,Everton,Liverpool,"['2 ', ' 2']",3.75,4.2,1.83,1.53,2.5,99.1091388894731,49.55456944473656,Everton-Liverpool | 17/10/2020
+17/10/2020,Chelsea,Southampton,"['3 ', ' 3']",1.45,4.75,6.5,1.57,2.37,80.20410137899358,40.10205068949679,Chelsea-Southampton | 17/10/2020
+17/10/2020,Manchester City,Arsenal,"['1 ', ' 0']",1.44,5.0,6.5,1.44,2.75,137.47102478735843,68.73551239367922,Manchester City-Arsenal | 17/10/2020
+17/10/2020,Newcastle United,Manchester United,"['1 ', ' 4']",4.75,4.0,1.66,1.72,2.1,117.69374087545131,58.846870437725656,Newcastle United-Manchester United | 17/10/2020
+18/10/2020,Tottenham,West Ham,"['3 ', ' 3']",1.57,4.33,5.5,1.57,2.37,99.40613974606495,49.703069873032476,Tottenham-West Ham | 18/10/2020
+18/10/2020,Leicester,Aston Villa,"['0 ', ' 1']",1.83,3.8,4.1,1.66,2.2,119.8593503831074,59.9296751915537,Leicester-Aston Villa | 18/10/2020
+19/10/2020,Leeds,Wolverhampton Wanderers,"['0 ', ' 1']",2.5,3.3,2.87,2.1,1.72,124.27721794686886,62.13860897343443,Leeds-Wolverhampton Wanderers | 19/10/2020
+24/10/2020,West Ham,Manchester City,"['1 ', ' 1']",8.0,5.25,1.36,1.4,3.0,199.52153431154866,99.76076715577435,West Ham-Manchester City | 24/10/2020
+24/10/2020,Fulham,Crystal Palace,"['1 ', ' 2']",2.75,3.1,2.7,2.3,1.61,190.79960551955307,95.39980275977655,Fulham-Crystal Palace | 24/10/2020
+25/10/2020,Wolverhampton Wanderers,Newcastle United,"['1 ', ' 1']",1.75,3.5,5.25,2.2,1.66,204.20281626357462,102.10140813178731,Wolverhampton Wanderers-Newcastle United | 25/10/2020
+25/10/2020,Arsenal,Leicester,"['0 ', ' 1']",1.9,3.75,3.8,1.72,2.1,214.3762557470157,107.18812787350785,Arsenal-Leicester | 25/10/2020
+26/10/2020,Brighton,West Bromwich Albion,"['1 ', ' 1']",1.7,4.0,4.75,1.8,2.0,240.7021941817594,120.3510970908797,Brighton-West Bromwich Albion | 26/10/2020
+31/10/2020,Sheffield United,Manchester City,"['0 ', ' 1']",9.5,6.0,1.28,1.5,2.62,281.85995622749203,140.92997811374602,Sheffield United-Manchester City | 31/10/2020
+31/10/2020,Burnley,Chelsea,"['0 ', ' 3']",6.0,4.5,1.5,1.66,2.2,269.65509258651656,134.82754629325828,Burnley-Chelsea | 31/10/2020
+01/11/2020,Newcastle United,Everton,"['2 ', ' 1']",3.7,3.4,2.05,1.8,2.0,260.6058284924424,130.3029142462212,Newcastle United-Everton | 01/11/2020
+01/11/2020,Manchester United,Arsenal,"['0 ', ' 1']",2.0,3.6,3.6,1.72,2.1,279.9360924224619,139.96804621123096,Manchester United-Arsenal | 01/11/2020
+02/11/2020,Fulham,West Bromwich Albion,"['2 ', ' 0']",2.4,3.3,3.0,2.0,1.8,301.6640939392641,150.83204696963205,Fulham-West Bromwich Albion | 02/11/2020
+06/11/2020,Southampton,Newcastle United,"['2 ', ' 0']",2.0,3.6,3.7,1.8,2.0,327.46940732185067,163.73470366092533,Southampton-Newcastle United | 06/11/2020
+07/11/2020,Everton,Manchester United,"['1 ', ' 3']",2.9,3.5,2.37,1.72,2.1,319.4063487887076,159.7031743943538,Everton-Manchester United | 07/11/2020
+07/11/2020,Chelsea,Sheffield United,"['4 ', ' 1']",1.36,5.0,8.5,1.72,2.1,310.71860670959313,155.35930335479657,Chelsea-Sheffield United | 07/11/2020
+07/11/2020,West Ham,Fulham,"['1 ', ' 0']",1.83,3.75,4.2,1.8,2.0,329.7398983178578,164.8699491589289,West Ham-Fulham | 07/11/2020
+08/11/2020,West Bromwich Albion,Tottenham,"['0 ', ' 1']",7.0,4.33,1.45,1.72,2.1,353.0562503397707,176.52812516988536,West Bromwich Albion-Tottenham | 08/11/2020
+21/11/2020,Newcastle United,Chelsea,"['0 ', ' 2']",6.5,4.75,1.45,1.66,2.2,381.33640020898935,190.66820010449467,Newcastle United-Chelsea | 21/11/2020
+21/11/2020,Tottenham,Manchester City,"['2 ', ' 0']",4.0,4.0,1.8,1.57,2.37,409.15555021589006,204.57777510794503,Tottenham-Manchester City | 21/11/2020
+21/11/2020,Manchester United,West Bromwich Albion,"['1 ', ' 0']",1.3,5.5,9.5,1.66,2.2,428.93899823353,214.469499116765,Manchester United-West Bromwich Albion | 21/11/2020
+22/11/2020,Fulham,Everton,"['2 ', ' 3']",3.9,3.9,1.85,1.72,2.1,420.7667393399886,210.3833696699943,Fulham-Everton | 22/11/2020
+22/11/2020,Sheffield United,West Ham,"['0 ', ' 1']",3.0,3.25,2.4,2.1,1.72,434.0344788656208,217.0172394328104,Sheffield United-West Ham | 22/11/2020
+23/11/2020,Wolverhampton Wanderers,Southampton,"['1 ', ' 1']",2.3,3.25,3.25,2.2,1.66,436.97994973046093,218.48997486523047,Wolverhampton Wanderers-Southampton | 23/11/2020
+27/11/2020,Crystal Palace,Newcastle United,"['0 ', ' 2']",2.05,3.25,3.75,2.37,1.57,441.60911815583097,220.80455907791548,Crystal Palace-Newcastle United | 27/11/2020
+28/11/2020,West Bromwich Albion,Sheffield United,"['1 ', ' 0']",2.6,3.2,2.8,2.3,1.61,444.513336064181,222.2566680320905,West Bromwich Albion-Sheffield United | 28/11/2020
+29/11/2020,Southampton,Manchester United,"['2 ', ' 3']",4.0,3.5,1.95,1.8,2.0,424.46430366410027,212.23215183205014,Southampton-Manchester United | 29/11/2020
+30/11/2020,Leicester,Fulham,"['1 ', ' 2']",1.5,4.33,6.5,1.72,2.1,402.1272934818082,201.0636467409041,Leicester-Fulham | 30/11/2020
+30/11/2020,West Ham,Aston Villa,"['2 ', ' 1']",2.25,3.6,3.0,1.72,2.1,391.20496761610923,195.60248380805461,West Ham-Aston Villa | 30/11/2020
+05/12/2020,West Ham,Manchester United,"['1 ', ' 3']",3.6,3.6,2.0,1.72,2.1,364.4634389012489,182.23171945062444,West Ham-Manchester United | 05/12/2020
+06/12/2020,West Bromwich Albion,Crystal Palace,"['1 ', ' 5']",2.87,3.2,2.55,2.2,1.66,360.5192782936356,180.2596391468178,West Bromwich Albion-Crystal Palace | 06/12/2020
+06/12/2020,Tottenham,Arsenal,"['2 ', ' 0']",1.95,3.6,3.8,1.9,1.9,368.86718576973794,184.43359288486894,Tottenham-Arsenal | 06/12/2020
+07/12/2020,Brighton,Southampton,"['1 ', ' 2']",2.45,3.4,2.9,1.9,1.9,363.82147424612117,181.91073712306056,Brighton-Southampton | 07/12/2020
+13/12/2020,Southampton,Sheffield United,"['3 ', ' 0']",1.7,3.75,5.0,2.01,1.89,351.98304720317685,175.9915236015884,Southampton-Sheffield United | 13/12/2020
+13/12/2020,Fulham,Liverpool,"['1 ', ' 1']",9.0,5.5,1.3,1.4,3.0,413.38748191367614,206.6937409568381,Fulham-Liverpool | 13/12/2020
+13/12/2020,Leicester,Brighton,"['3 ', ' 0']",2.0,3.5,3.8,1.9,1.9,404.76035881904335,202.38017940952167,Leicester-Brighton | 13/12/2020
+16/12/2020,West Ham,Crystal Palace,"['1 ', ' 1']",2.05,3.4,3.6,1.9,1.9,413.68495432641635,206.84247716320817,West Ham-Crystal Palace | 16/12/2020
+17/12/2020,Sheffield United,Manchester United,"['2 ', ' 3']",7.0,4.6,1.44,1.8,2.0,405.858533104015,202.9292665520075,Sheffield United-Manchester United | 17/12/2020
+19/12/2020,Southampton,Manchester City,"['0 ', ' 1']",7.0,4.5,1.44,1.57,2.37,430.98022641973614,215.49011320986807,Southampton-Manchester City | 19/12/2020
+19/12/2020,Newcastle United,Fulham,"['1 ', ' 1']",2.5,3.25,2.9,2.1,1.72,436.2520099620276,218.1260049810138,Newcastle United-Fulham | 19/12/2020
+20/12/2020,Tottenham,Leicester,"['0 ', ' 2']",2.05,3.5,3.6,1.8,2.0,461.6345541705275,230.81727708526375,Tottenham-Leicester | 20/12/2020
+20/12/2020,West Bromwich Albion,Aston Villa,"['0 ', ' 3']",3.6,3.8,1.95,1.72,2.1,451.6710344588287,225.83551722941434,West Bromwich Albion-Aston Villa | 20/12/2020
+21/12/2020,Chelsea,West Ham,"['3 ', ' 0']",1.44,5.0,6.25,1.57,2.37,434.1263919588415,217.06319597942075,Chelsea-West Ham | 21/12/2020
+26/12/2020,Fulham,Southampton,"['0 ', ' 0']",3.2,3.3,2.3,1.9,1.9,435.44117321288707,217.72058660644353,Fulham-Southampton | 26/12/2020
+29/12/2020,Southampton,West Ham,"['0 ', ' 0']",2.1,3.6,3.4,1.94,1.96,452.56926555259884,226.28463277629942,Southampton-West Ham | 29/12/2020
+30/12/2020,Newcastle United,Liverpool,"['0 ', ' 0']",12.0,6.0,1.25,1.5,2.62,500.28562368216643,250.1428118410832,Newcastle United-Liverpool | 30/12/2020
+01/01/2021,Everton,West Ham,"['0 ', ' 1']",2.1,3.5,3.5,1.9,1.9,504.1516720537721,252.075836026886,Everton-West Ham | 01/01/2021
+03/01/2021,Newcastle United,Leicester,"['1 ', ' 2']",5.25,4.2,1.61,1.9,1.9,493.7183197952652,246.8591598976326,Newcastle United-Leicester | 03/01/2021
+04/01/2021,Southampton,Liverpool,"['1 ', ' 0']",5.0,4.33,1.61,1.61,2.3,514.0483247623872,257.0241623811936,Southampton-Liverpool | 04/01/2021
+12/01/2021,Burnley,Manchester United,"['0 ', ' 1']",7.0,4.5,1.45,1.72,2.1,524.555367944708,262.277683972354,Burnley-Manchester United | 12/01/2021
+13/01/2021,Tottenham,Fulham,"['1 ', ' 1']",1.36,5.0,8.5,1.66,2.2,558.0230169731742,279.0115084865871,Tottenham-Fulham | 13/01/2021
+20/01/2021,Fulham,Manchester United,"['1 ', ' 2']",6.0,4.33,1.53,1.72,2.1,553.1057596999988,276.5528798499994,Fulham-Manchester United | 20/01/2021
+26/01/2021,West Bromwich Albion,Manchester City,"['0 ', ' 5']",15.0,7.5,1.18,1.57,2.37,538.6102622069874,269.3051311034937,West Bromwich Albion-Manchester City | 26/01/2021
+26/01/2021,Southampton,Arsenal,"['1 ', ' 3']",3.5,3.6,2.05,1.8,2.0,533.5173975840173,266.75869879200866,Southampton-Arsenal | 26/01/2021
+30/01/2021,Everton,Newcastle United,"['0 ', ' 2']",1.55,4.0,6.5,2.0,1.8,541.4398045651908,270.7199022825954,Everton-Newcastle United | 30/01/2021
+30/01/2021,Southampton,Aston Villa,"['0 ', ' 1']",2.8,3.6,2.37,1.72,2.1,546.5465780433701,273.27328902168506,Southampton-Aston Villa | 30/01/2021
+02/02/2021,Newcastle United,Crystal Palace,"['1 ', ' 2']",2.8,3.2,2.6,2.3,1.61,542.2652347787694,271.1326173893847,Newcastle United-Crystal Palace | 02/02/2021
+03/02/2021,Fulham,Leicester,"['0 ', ' 2']",4.0,3.5,1.9,2.0,1.8,543.1829122126544,271.5914561063272,Fulham-Leicester | 03/02/2021
+06/02/2021,Fulham,West Ham,"['0 ', ' 0']",3.6,3.5,2.05,2.0,1.8,545.9433952427285,272.9716976213642,Fulham-West Ham | 06/02/2021
+07/02/2021,Tottenham,West Bromwich Albion,"['2 ', ' 0']",1.45,4.5,7.0,1.72,2.1,560.5236042958416,280.2618021479208,Tottenham-West Bromwich Albion | 07/02/2021
+14/02/2021,West Bromwich Albion,Manchester United,"['1 ', ' 1']",10.0,5.5,1.3,1.53,2.5,593.2953907633921,296.64769538169605,West Bromwich Albion-Manchester United | 14/02/2021
+14/02/2021,Everton,Fulham,"['0 ', ' 2']",1.85,3.6,4.2,2.0,1.8,600.0100296986155,300.00501484930777,Everton-Fulham | 14/02/2021
+17/02/2021,Everton,Manchester City,"['1 ', ' 3']",8.5,5.5,1.33,1.66,2.2,581.9431889272786,290.9715944636393,Everton-Manchester City | 17/02/2021
+03/03/2021,Crystal Palace,Manchester United,"['0 ', ' 0']",8.0,4.75,1.4,1.72,2.1,600.5955401602579,300.29777008012894,Crystal Palace-Manchester United | 03/03/2021
+04/03/2021,West Bromwich Albion,Everton,"['0 ', ' 1']",4.33,3.6,1.83,1.9,1.9,619.5103588453661,309.75517942268306,West Bromwich Albion-Everton | 04/03/2021
+06/03/2021,Burnley,Arsenal,"['1 ', ' 1']",5.5,4.0,1.61,1.97,1.93,624.4608092478644,312.2304046239322,Burnley-Arsenal | 06/03/2021
+07/03/2021,Tottenham,Crystal Palace,"['4 ', ' 1']",1.45,4.5,7.0,1.9,1.9,606.8911527330865,303.44557636654326,Tottenham-Crystal Palace | 07/03/2021
+08/03/2021,West Ham,Leeds,"['2 ', ' 0']",2.05,3.6,3.5,1.66,2.2,622.4208642916132,311.2104321458066,West Ham-Leeds | 08/03/2021
+15/03/2021,Wolverhampton Wanderers,Liverpool,"['0 ', ' 1']",4.75,3.75,1.72,1.9,1.9,631.0788622095683,315.53943110478417,Wolverhampton Wanderers-Liverpool | 15/03/2021
+21/03/2021,West Ham,Arsenal,"['3 ', ' 3']",2.8,3.5,2.45,1.9,1.9,618.1168250922634,309.0584125461317,West Ham-Arsenal | 21/03/2021
+04/04/2021,Newcastle United,Tottenham,"['2 ', ' 2']",5.5,4.0,1.6,1.9,1.9,612.1043711693511,306.05218558467556,Newcastle United-Tottenham | 04/04/2021
+11/04/2021,West Ham,Leicester,"['3 ', ' 2']",3.0,3.3,2.37,1.9,1.9,610.9864892718821,305.49324463594104,West Ham-Leicester | 11/04/2021
+11/04/2021,Tottenham,Manchester United,"['1 ', ' 3']",2.87,3.4,2.45,1.9,1.9,607.6744705142712,303.8372352571356,Tottenham-Manchester United | 11/04/2021
+17/04/2021,Newcastle United,West Ham,"['3 ', ' 2']",3.5,3.5,2.05,1.9,1.9,594.5008005063437,297.25040025317185,Newcastle United-West Ham | 17/04/2021
+21/04/2021,Aston Villa,Manchester City,"['1 ', ' 2']",9.0,4.75,1.36,1.66,2.2,584.2238446089497,292.11192230447483,Aston Villa-Manchester City | 21/04/2021
+01/05/2021,Crystal Palace,Manchester City,"['0 ', ' 2']",10.0,5.0,1.33,1.72,2.1,604.0643197674067,302.03215988370334,Crystal Palace-Manchester City | 01/05/2021
+02/05/2021,Newcastle United,Arsenal,"['0 ', ' 2']",3.6,3.6,2.0,1.72,2.1,620.1889081164875,310.09445405824374,Newcastle United-Arsenal | 02/05/2021
+09/05/2021,Aston Villa,Manchester United,"['1 ', ' 3']",4.2,3.8,1.8,1.72,2.1,615.0988179142249,307.54940895711246,Aston Villa-Manchester United | 09/05/2021
+09/05/2021,West Ham,Everton,"['0 ', ' 1']",2.2,3.5,3.2,1.92,1.98,622.9972397551737,311.49861987758686,West Ham-Everton | 09/05/2021
+14/05/2021,Newcastle United,Manchester City,"['3 ', ' 4']",11.0,6.0,1.25,1.53,2.5,598.3812256942606,299.1906128471303,Newcastle United-Manchester City | 14/05/2021
+16/05/2021,Everton,Sheffield United,"['0 ', ' 1']",1.36,4.75,8.5,1.8,2.0,600.3072331771959,300.15361658859797,Everton-Sheffield United | 16/05/2021
+19/05/2021,Newcastle United,Sheffield United,"['1 ', ' 0']",1.72,3.8,4.75,1.8,2.0,612.8557588628386,306.4278794314193,Newcastle United-Sheffield United | 19/05/2021
+19/05/2021,Crystal Palace,Arsenal,"['1 ', ' 3']",6.0,4.5,1.5,1.72,2.1,603.3262352006426,301.6631176003213,Crystal Palace-Arsenal | 19/05/2021
+19/05/2021,West Bromwich Albion,West Ham,"['1 ', ' 3']",5.0,4.33,1.6,1.57,2.37,588.002270506198,294.001135253099,West Bromwich Albion-West Ham | 19/05/2021
+23/05/2021,Fulham,Newcastle United,"['0 ', ' 2']",2.05,3.8,3.3,1.61,2.3,614.0274400688625,307.01372003443123,Fulham-Newcastle United | 23/05/2021
+23/05/2021,Wolverhampton Wanderers,Manchester United,"['1 ', ' 2']",2.5,3.5,2.7,1.72,2.1,591.6017138429893,295.80085692149464,Wolverhampton Wanderers-Manchester United | 23/05/2021

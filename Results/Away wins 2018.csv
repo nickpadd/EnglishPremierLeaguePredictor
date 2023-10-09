@@ -1,10 +1,10 @@
 Date,HTeam,ATeam,Result,B365H,B365D,B365A,BbAv>2.5,BbAv<2.5,ROI,Net Gain,CombinedLabel
-01/09/2018,Brighton,Fulham,"['2 ', ' 2']",2.3,3.4,3.4,1.92,1.88,-37.81902163013631,-18.909510815068156,Brighton-Fulham | 01/09/2018
-15/09/2018,Newcastle United,Arsenal,"['1 ', ' 2']",4.2,3.8,1.9,1.71,2.14,-29.81943234062629,-14.909716170313146,Newcastle United-Arsenal | 15/09/2018
-22/09/2018,Burnley,Bournemouth,"['4 ', ' 0']",3.0,3.4,2.5,2.02,1.8,-55.03239363138874,-27.51619681569437,Burnley-Bournemouth | 22/09/2018
-29/10/2018,Tottenham,Manchester City,"['0 ', ' 1']",4.75,4.1,1.75,1.58,2.36,-24.81332940629659,-12.406664703148294,Tottenham-Manchester City | 29/10/2018
-10/11/2018,Newcastle United,Bournemouth,"['2 ', ' 1']",2.9,3.4,2.6,2.0,1.82,-57.020467353885664,-28.51023367694283,Newcastle United-Bournemouth | 10/11/2018
-01/12/2018,Southampton,Manchester United,"['2 ', ' 2']",4.33,3.6,1.95,1.89,1.92,-61.08471168732294,-30.54235584366147,Southampton-Manchester United | 01/12/2018
-03/02/2019,Leicester,Manchester United,"['0 ', ' 1']",3.6,3.5,2.15,1.81,2.02,-44.866962604339754,-22.433481302169874,Leicester-Manchester United | 03/02/2019
-17/03/2019,Everton,Chelsea,"['2 ', ' 0']",4.0,3.8,1.95,1.92,1.89,-50.32785781862835,-25.163928909314176,Everton-Chelsea | 17/03/2019
-07/04/2019,Everton,Arsenal,"['1 ', ' 0']",3.0,3.75,2.35,1.68,2.19,-78.23162014673869,-39.115810073369346,Everton-Arsenal | 07/04/2019
+01/09/2018,Brighton,Fulham,"['2 ', ' 2']",2.3,3.4,3.4,1.92,1.88,-37.15880796552319,-18.579403982761594,Brighton-Fulham | 01/09/2018
+15/09/2018,Newcastle United,Arsenal,"['1 ', ' 2']",4.2,3.8,1.9,1.71,2.14,-28.963810193265473,-14.481905096632737,Newcastle United-Arsenal | 15/09/2018
+22/09/2018,Burnley,Bournemouth,"['4 ', ' 0']",3.0,3.4,2.5,2.02,1.8,-53.27728140553667,-26.638640702768335,Burnley-Bournemouth | 22/09/2018
+10/11/2018,Newcastle United,Bournemouth,"['2 ', ' 1']",2.9,3.4,2.6,2.0,1.82,-84.50756873690977,-42.25378436845489,Newcastle United-Bournemouth | 10/11/2018
+26/11/2018,Burnley,Newcastle United,"['1 ', ' 2']",2.9,3.2,2.75,2.31,1.61,-46.268775880121794,-23.134387940060897,Burnley-Newcastle United | 26/11/2018
+01/12/2018,Southampton,Manchester United,"['2 ', ' 2']",4.33,3.6,1.95,1.89,1.92,-48.480049287724654,-24.240024643862323,Southampton-Manchester United | 01/12/2018
+03/02/2019,Leicester,Manchester United,"['0 ', ' 1']",3.6,3.5,2.15,1.81,2.02,-32.9297623896301,-16.46488119481505,Leicester-Manchester United | 03/02/2019
+17/03/2019,Everton,Chelsea,"['2 ', ' 0']",4.0,3.8,1.95,1.92,1.89,-39.48894273184178,-19.74447136592089,Everton-Chelsea | 17/03/2019
+07/04/2019,Everton,Arsenal,"['1 ', ' 0']",3.0,3.75,2.35,1.68,2.19,-66.41229405838155,-33.206147029190774,Everton-Arsenal | 07/04/2019
